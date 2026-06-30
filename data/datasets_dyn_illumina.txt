@@ -1,0 +1,9 @@
+/dodo/eh58/bakeoff/data/DYN/illumina/DYN_0004_D10_St_M_10_S7_R1_001.fastq
+/dodo/eh58/bakeoff/data/DYN/illumina/DYN_0007_D01_St_M_10_S11_R1_001.fastq
+/dodo/eh58/bakeoff/data/DYN/illumina/DYN_0021_D03_St_M_10_S19_R1_001.fastq
+/dodo/eh58/bakeoff/data/DYN/illumina/DYN_0024_D01_St_M_10_S30_R1_001.fastq
+/dodo/eh58/bakeoff/data/DYN/illumina/DYN_0036_D05_St_M_20_S42_R1_001.fastq
+/dodo/eh58/bakeoff/data/DYN/illumina/DYN_0036_D08_St_M_20_S43_R1_001.fastq
+/dodo/eh58/bakeoff/data/DYN/illumina/DYN_0036_D11_St_M_20_S44_R1_001.fastq
+/dodo/eh58/bakeoff/data/DYN/illumina/DYN_0036_D14_St_M_30_S45_R1_001.fastq
+/dodo/eh58/bakeoff/data/DYN/illumina/DYN_0036_D16_St_M_20_S46_R1_001.fastq

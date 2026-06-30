@@ -1,0 +1,48 @@
+# Conda environment for the bakeoff manuscript pipeline.
+#
+# Reproduces only the explicit installs (`--from-history`) so conda is free to
+# solve transitive deps against the current channel snapshots. The 6 paper
+# profilers + sylph-tax are version-pinned to match the manuscript Methods;
+# analysis/plotting deps are intentionally left unpinned to let conda pick a
+# compatible set.
+#
+# The `name:` field is omitted on purpose — pass your own with -n:
+#     conda env create -n <your-env-name> -f config/bakeoff_env.yaml
+
+channels:
+  - conda-forge
+  - bioconda
+
+dependencies:
+  # ---- 6 paper profilers (strict-pinned to manuscript versions) ----
+  - kraken2==2.1.5
+  - centrifuge==1.0.4.2
+  - centrifuger==1.0.9
+  - ganon==2.1.1
+  - sourmash==4.9.0
+  - sylph==0.8.1
+
+  # ---- profiler-adjacent tools used by the pipeline ----
+  - sylph-tax==1.7.0 # GTDB/NCBI taxonomy mapping for sylph results.
+                     # Pinned: other versions match metadata keys differently
+                     # (e.g. accession-only vs full "<accession>_<asm>_genomic.fa")
+                     # and silently produce NO_TAXONOMY rows against the
+                     # manuscript's refseq030325_taxonomy_metadata.tsv.
+  - lemur            # long-read marker-gene profiler (companion tool; referenced in Introduction)
+  - mosdepth         # per-genome coverage / breadth (Supp coverage analysis)
+  - multitax         # taxonomy library used by ganon helpers
+  - taxonkit         # NCBI taxonomy CLI
+
+  # ---- analysis stack used by the notebooks ----
+  - ete3
+  - biopython
+  - pysam            # FASTQ/BAM I/O for read_info.py + error_rates.py (read-analysis stage)
+  - scikit-learn
+  - seaborn
+  - matplotlib-venn
+  - upsetplot
+  - adjusttext
+  - plotly
+  - tqdm
+  - ipykernel
+  - nbconvert

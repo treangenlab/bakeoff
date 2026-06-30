@@ -1,0 +1,182 @@
+tool,db,tool_db,data_type,project,technology,sample,taxid_raw,taxid,name_raw,name,rank,value,value_type,tax_abund_raw,seq_abund_raw
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,0,0,Acetatifactor intestinalis,Acetatifactor intestinalis,species,0.2121,abund,0.2121,0.7232
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,0,0,Bariatricus comes,Bariatricus comes,species,0.2209,abund,0.2209,0.8554
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,0,0,Bariatricus sp004560705,Bariatricus sp004560705,species,0.2209,abund,0.2209,0.6937
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,0,0,Bifidobacterium infantis,Bifidobacterium infantis,species,0.2121,abund,0.2121,0.6887
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,0,0,Bifidobacterium vaginale,Bifidobacterium vaginale,species,0.2121,abund,0.2121,0.4059
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,0,0,Dysosmobacter faecalis,Dysosmobacter faecalis,species,0.2121,abund,0.2121,0.8296
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,0,0,Faecalibacterium sp900758465,Faecalibacterium sp900758465,species,0.2209,abund,0.2209,0.7141
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,0,0,Olsenella_F sp001189515,Olsenella sp001189515,species,0.2121,abund,0.2121,0.7823
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,0,0,Otoolea saccharolyticum_A,Otoolea saccharolyticum,species,0.2121,abund,0.2121,0.9553
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,0,0,Pauljensenia odontolytica,Pauljensenia odontolytica,species,0.2121,abund,0.2121,0.5978
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,0,0,Scatomonas hejianensis,Scatomonas hejianensis,species,0.2121,abund,0.2121,0.9615
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,0,0,Schaedlerella glycyrrhizinilytica_A,Schaedlerella glycyrrhizinilytica,species,0.2121,abund,0.2121,0.7304
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,0,0,Streptococcus sp008727815,Streptococcus sp008727815,species,0.2386,abund,0.2386,0.5843
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,0,0,Turicibacter sp017888305,Turicibacter sp017888305,species,0.2121,abund,0.2121,0.6455
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,199,199,Campylobacter_A concisus,Campylobacter concisus,species,0.2121,abund,0.2121,0.4479
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,727,727,Haemophilus influenzae,Haemophilus influenzae,species,0.2209,abund,0.2209,0.4794
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,729,729,Haemophilus_D parainfluenzae,Haemophilus parainfluenzae,species,0.2121,abund,0.2121,0.5214
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,732,732,Aggregatibacter aphrophilus,Aggregatibacter aphrophilus,species,0.2121,abund,0.2121,0.569
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,735,735,Haemophilus_A parahaemolyticus,Haemophilus parahaemolyticus,species,0.2121,abund,0.2121,0.4964
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,818,818,Bacteroides thetaiotaomicron,Bacteroides thetaiotaomicron,species,0.2209,abund,0.2209,1.5959
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,820,820,Bacteroides uniformis,Bacteroides uniformis,species,0.2121,abund,0.2121,1.127
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,821,821,Phocaeicola vulgatus,Phocaeicola vulgatus,species,0.2209,abund,0.2209,1.3093
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,823,823,Parabacteroides distasonis,Parabacteroides distasonis,species,0.3712,abund,0.3712,2.0497
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,851,851,Fusobacterium nucleatum,Fusobacterium nucleatum,species,0.2121,abund,0.2121,0.5311
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,853,853,Faecalibacterium prausnitzii_A,Faecalibacterium prausnitzii,species,0.6716,abund,0.6716,2.4129
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1255,1255,Pediococcus pentosaceus,Pediococcus pentosaceus,species,0.2121,abund,0.2121,0.4235
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1302,1302,Streptococcus gordonii,Streptococcus gordonii,species,0.2121,abund,0.2121,0.5275
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1303,1303,Streptococcus oralis,Streptococcus oralis,species,0.2121,abund,0.2121,0.4702
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1304,1304,Streptococcus salivarius,Streptococcus salivarius,species,0.2209,abund,0.2209,0.5551
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1305,1305,Streptococcus sanguinis,Streptococcus sanguinis,species,0.2121,abund,0.2121,0.5552
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1308,1308,Streptococcus thermophilus,Streptococcus thermophilus,species,0.2209,abund,0.2209,0.5331
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1318,1318,Streptococcus parasanguinis,Streptococcus parasanguinis,species,0.2121,abund,0.2121,0.5243
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1328,1328,Streptococcus anginosus,Streptococcus anginosus,species,0.2209,abund,0.2209,0.4954
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1338,1338,Streptococcus intermedius,Streptococcus intermedius,species,0.2121,abund,0.2121,0.4751
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1343,1343,Streptococcus vestibularis,Streptococcus vestibularis,species,0.2386,abund,0.2386,0.5129
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1522,1522,Clostridium_AQ innocuum,Clostridium innocuum,species,0.2121,abund,0.2121,1.1488
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1580,1580,Levilactobacillus brevis,Levilactobacillus brevis,species,0.2121,abund,0.2121,0.6024
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1590,1590,Lactiplantibacillus plantarum,Lactiplantibacillus plantarum,species,0.2121,abund,0.2121,0.7912
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1597,1597,Lacticaseibacillus paracasei,Lacticaseibacillus paracasei,species,0.2121,abund,0.2121,0.7347
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1655,1655,Actinomyces naeslundii,Actinomyces naeslundii,species,0.2121,abund,0.2121,0.7595
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1680,1680,Bifidobacterium adolescentis,Bifidobacterium adolescentis,species,0.3977,abund,0.3977,0.9538
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,2047,2047,Rothia dentocariosa,Rothia dentocariosa,species,0.2121,abund,0.2121,0.6101
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,28025,28025,Bifidobacterium animalis,Bifidobacterium animalis,species,0.2121,abund,0.2121,0.4705
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,28037,28037,Streptococcus mitis_AK,Streptococcus mitis,species,0.2121,abund,0.2121,0.4641
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,28111,28111,Bacteroides eggerthii,Bacteroides eggerthii,species,0.2209,abund,0.2209,1.0667
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,28116,28116,Bacteroides ovatus,Bacteroides ovatus,species,0.3182,abund,0.3182,2.3635
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,28117,28117,Alistipes putredinis,Alistipes putredinis,species,0.2121,abund,0.2121,0.6209
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,28118,28118,Odoribacter splanchnicus,Odoribacter splanchnicus,species,0.2121,abund,0.2121,1.0693
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,28125,28125,Prevotella bivia,Prevotella bivia,species,0.2121,abund,0.2121,0.6138
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,28128,28128,Prevotella corporis,Prevotella corporis,species,0.2121,abund,0.2121,0.6817
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,29466,29466,Veillonella parvula,Veillonella parvula,species,0.2209,abund,0.2209,0.5407
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,33031,33031,Peptoniphilus_A lacrimalis,Peptoniphilus lacrimalis,species,0.2121,abund,0.2121,0.4502
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,33039,33039,Mediterraneibacter torques,Mediterraneibacter torques,species,0.2121,abund,0.2121,0.6674
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,39485,39485,Lachnospira eligens,Lachnospira eligens,species,0.2121,abund,0.2121,0.6893
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,39486,39486,Dorea formicigenerans,Dorea formicigenerans,species,0.2121,abund,0.2121,0.7762
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,39490,39490,Eubacterium_I ramulus,Eubacterium ramulus,species,0.2121,abund,0.2121,0.8392
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,39491,39491,Agathobacter rectalis,Agathobacter rectalis,species,0.2121,abund,0.2121,0.8398
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,39496,39496,Eubacterium_G ventriosum,Eubacterium ventriosum,species,0.2121,abund,0.2121,0.6953
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,39777,39777,Veillonella atypica,Veillonella atypica,species,0.2121,abund,0.2121,0.496
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,40520,40520,Blautia_A obeum,Blautia obeum,species,0.2209,abund,0.2209,0.9256
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,40545,40545,Sutterella wadsworthensis,Sutterella wadsworthensis,species,0.2121,abund,0.2121,0.7144
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,43675,43675,Rothia mucilaginosa_B,Rothia mucilaginosa,species,0.2121,abund,0.2121,0.5581
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,45851,45851,Butyrivibrio_A crossotus,Butyrivibrio crossotus,species,0.2121,abund,0.2121,0.6138
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,46503,46503,Parabacteroides merdae,Parabacteroides merdae,species,0.2121,abund,0.2121,1.0656
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,46506,46506,Bacteroides stercoris,Bacteroides stercoris,species,0.4242,abund,0.4242,1.7001
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,47678,47678,Bacteroides caccae,Bacteroides caccae,species,0.2121,abund,0.2121,1.1127
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,74426,74426,Collinsella aerofaciens,Collinsella aerofaciens,species,0.2121,abund,0.2121,0.5977
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,84112,84112,Eggerthella lenta,Eggerthella lenta,species,0.2121,abund,0.2121,0.8842
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,84135,84135,Gemella sanguinis,Gemella sanguinis,species,0.2121,abund,0.2121,0.4371
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,88431,88431,Dorea_A longicatena,Dorea longicatena,species,0.2121,abund,0.2121,0.7108
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,89014,89014,Blautia_A luti,Blautia luti,species,0.2121,abund,0.2121,0.9037
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,105843,105843,Anaerobutyricum soehngenii,Anaerobutyricum soehngenii,species,0.2121,abund,0.2121,0.8559
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,113107,113107,Streptococcus australis,Streptococcus australis,species,0.2209,abund,0.2209,0.5401
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,114527,114527,Mogibacterium diversum,Mogibacterium diversum,species,0.2121,abund,0.2121,0.442
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,116090,116090,Caloranaerobacter azorensis,Caloranaerobacter azorensis,species,0.2121,abund,0.2121,0.5993
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,154046,154046,Hungatella hathewayi,Hungatella hathewayi,species,0.2121,abund,0.2121,1.6875
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,154288,154288,Turicibacter sanguinis,Turicibacter sanguinis,species,0.2121,abund,0.2121,0.7302
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,166486,166486,Roseburia intestinalis,Roseburia intestinalis,species,0.2121,abund,0.2121,1.0939
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,169435,169435,Anaerotruncus colihominis,Anaerotruncus colihominis,species,0.2121,abund,0.2121,0.8676
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,214856,214856,Alistipes finegoldii,Alistipes finegoldii,species,0.2209,abund,0.2209,0.9469
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,216816,216816,Bifidobacterium longum,Bifidobacterium longum,species,0.2386,abund,0.2386,0.6532
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,249188,249188,Haemophilus_D pittmaniae,Haemophilus pittmaniae,species,0.2121,abund,0.2121,0.531
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,261299,261299,Intestinibacter bartlettii,Intestinibacter bartlettii,species,0.2121,abund,0.2121,0.7236
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,292800,292800,Flavonifractor plautii,Flavonifractor plautii,species,0.2121,abund,0.2121,0.93
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,301301,301301,Roseburia hominis,Roseburia hominis,species,0.2121,abund,0.2121,0.8745
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,301302,301302,Agathobacter faecis,Agathobacter faecis,species,0.2121,abund,0.2121,0.8118
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,328812,328812,Parabacteroides goldsteinii,Parabacteroides goldsteinii,species,0.2121,abund,0.2121,1.5791
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,328813,328813,Alistipes onderdonkii,Alistipes onderdonkii,species,0.2121,abund,0.2121,0.942
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,357276,357276,Phocaeicola dorei,Phocaeicola dorei,species,0.2386,abund,0.2386,1.5407
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,371601,371601,Bacteroides xylanisolvens,Bacteroides xylanisolvens,species,0.2298,abund,0.2298,1.5761
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,387661,387661,Parabacteroides johnsonii,Parabacteroides johnsonii,species,0.2209,abund,0.2209,1.2044
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,411483,411483,Faecalibacterium duncaniae,Faecalibacterium duncaniae,species,0.5568,abund,0.5568,1.9826
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,418240,418240,Blautia_A wexlerae,Blautia wexlerae,species,0.2209,abund,0.2209,1.1882
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,423477,423477,Veillonella rogosae,Veillonella rogosae,species,0.2121,abund,0.2121,0.5324
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,454154,454154,Paraprevotella clara,Paraprevotella clara,species,0.2121,abund,0.2121,1.0307
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,487174,487174,Barnesiella intestinihominis,Barnesiella intestinihominis,species,0.2121,abund,0.2121,0.8384
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,544580,544580,Actinomyces oris,Actinomyces oris,species,0.2209,abund,0.2209,0.8036
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,649756,649756,Anaerostipes hadrus,Anaerostipes hadrus,species,0.2121,abund,0.2121,0.6826
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,674529,674529,Bacteroides faecis,Bacteroides faecis,species,0.2121,abund,0.2121,1.4508
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,938288,938288,Fenollaria massiliensis,Fenollaria massiliensis,species,0.2121,abund,0.2121,0.4162
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1099853,1099853,Coprobacter fastidiosus,Coprobacter fastidiosus,species,0.2121,abund,0.2121,0.8385
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1156431,1156431,Streptococcus ilei,Streptococcus ilei,species,0.2121,abund,0.2121,0.4851
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1297617,1297617,Intestinimonas butyriciproducens,Intestinimonas butyriciproducens,species,0.2121,abund,0.2121,0.785
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1335613,1335613,Gordonibacter urolithinfaciens,Gordonibacter urolithinfaciens,species,0.2121,abund,0.2121,0.8021
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1550024,1550024,Ruthenibacterium lactatiformans,Ruthenibacterium lactatiformans,species,0.2121,abund,0.2121,1.0008
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1796613,1796613,Bacteroides caecimuris,Bacteroides caecimuris,species,0.2386,abund,0.2386,1.3255
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1796652,1796652,Turicimonas muris,Turicimonas muris,species,0.2121,abund,0.2121,0.703
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1982626,1982626,Faecalibacillus intestinalis,Faecalibacillus intestinalis,species,0.2121,abund,0.2121,0.6801
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,2093857,2093857,Dysosmobacter welbionis,Dysosmobacter welbionis,species,0.2121,abund,0.2121,0.8706
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,2108523,2108523,Lawsonibacter asaccharolyticus,Lawsonibacter asaccharolyticus,species,0.2121,abund,0.2121,1.0424
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,2585118,2585118,Alistipes communis,Alistipes communis,species,0.2121,abund,0.2121,0.8037
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,2682456,2682456,Veillonella nakazawae,Veillonella nakazawae,species,0.3005,abund,0.3005,0.7235
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,2714355,2714355,Vescimonas coprocola,Vescimonas coprocola,species,0.2121,abund,0.2121,0.6227
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,2735723,2735723,Turicibacter bilis,Turicibacter bilis,species,0.2121,abund,0.2121,0.6784
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,2881264,2881264,Blautia_A fusiformis,Blautia fusiformis,species,0.2121,abund,0.2121,0.8462
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,2944914,2944914,Allocoprobacillus halotolerans,Allocoprobacillus halotolerans,species,0.2121,abund,0.2121,0.7136
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,2981726,2981726,Hominimerdicola aceti,Hominimerdicola aceti,species,0.2121,abund,0.2121,0.7218
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,194,194,Campylobacter_A,Campylobacter,genus,0.2121,abund,0.2121,0.4479
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,724,724,Haemophilus_D,Haemophilus,genus,0.8572000000000001,abund,0.8572000000000001,2.0282
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,816,816,Bacteroides,Bacteroides,genus,2.2889,abund,2.2889,13.3183
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,830,830,Butyrivibrio_A,Butyrivibrio,genus,0.2121,abund,0.2121,0.6138
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,838,838,Prevotella,Prevotella,genus,0.4242,abund,0.4242,1.2955
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,841,841,Roseburia,Roseburia,genus,0.4242,abund,0.4242,1.9684
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,848,848,Fusobacterium,Fusobacterium,genus,0.2121,abund,0.2121,0.5311
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1253,1253,Pediococcus,Pediococcus,genus,0.2121,abund,0.2121,0.4235
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1301,1301,Streptococcus,Streptococcus,genus,2.8455,abund,2.8455,6.7224
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1378,1378,Gemella,Gemella,genus,0.2121,abund,0.2121,0.4371
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1485,1485,Clostridium_AQ,Clostridium,genus,0.2121,abund,0.2121,1.1488
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1654,1654,Actinomyces,Actinomyces,genus,0.433,abund,0.433,1.5631
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1678,1678,Bifidobacterium,Bifidobacterium,genus,1.2726,abund,1.2726,3.1721
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1730,1730,Eubacterium_I,Eubacterium,genus,0.4242,abund,0.4242,1.5345
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,28050,28050,Lachnospira,Lachnospira,genus,0.2121,abund,0.2121,0.6893
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,29465,29465,Veillonella,Veillonella,genus,0.9456,abund,0.9456,2.2926
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,32207,32207,Rothia,Rothia,genus,0.4242,abund,0.4242,1.1682
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,40544,40544,Sutterella,Sutterella,genus,0.2121,abund,0.2121,0.7144
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,84111,84111,Eggerthella,Eggerthella,genus,0.2121,abund,0.2121,0.8842
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,86331,86331,Mogibacterium,Mogibacterium,genus,0.2121,abund,0.2121,0.442
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,102106,102106,Collinsella,Collinsella,genus,0.2121,abund,0.2121,0.5977
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,133925,133925,Olsenella_F,Olsenella,genus,0.2121,abund,0.2121,0.7823
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,162289,162289,Peptoniphilus_A,Peptoniphilus,genus,0.2121,abund,0.2121,0.4502
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,171003,171003,Caloranaerobacter,Caloranaerobacter,genus,0.2121,abund,0.2121,0.5993
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,189330,189330,Dorea,Dorea,genus,0.4242,abund,0.4242,1.487
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,191303,191303,Turicibacter,Turicibacter,genus,0.6363000000000001,abund,0.6363000000000001,2.0541
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,207244,207244,Anaerostipes,Anaerostipes,genus,0.2121,abund,0.2121,0.6826
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,216851,216851,Faecalibacterium,Faecalibacterium,genus,1.4493,abund,1.4493,5.1096
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,239759,239759,Alistipes,Alistipes,genus,0.8572,abund,0.8572,3.3135000000000003
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,244127,244127,Anaerotruncus,Anaerotruncus,genus,0.2121,abund,0.2121,0.8676
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,283168,283168,Odoribacter,Odoribacter,genus,0.2121,abund,0.2121,1.0693
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,375288,375288,Parabacteroides,Parabacteroides,genus,1.0163,abund,1.0163,5.8988
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,397864,397864,Barnesiella,Barnesiella,genus,0.2121,abund,0.2121,0.8384
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,416916,416916,Aggregatibacter,Aggregatibacter,genus,0.2121,abund,0.2121,0.569
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,572511,572511,Blautia_A,Blautia,genus,0.8660000000000001,abund,0.8660000000000001,3.8637
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,577309,577309,Paraprevotella,Paraprevotella,genus,0.2121,abund,0.2121,1.0307
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,644652,644652,Gordonibacter,Gordonibacter,genus,0.2121,abund,0.2121,0.8021
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,909656,909656,Phocaeicola,Phocaeicola,genus,0.4595,abund,0.4595,2.85
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,946234,946234,Flavonifractor,Flavonifractor,genus,0.2121,abund,0.2121,0.93
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1348911,1348911,Coprobacter,Coprobacter,genus,0.2121,abund,0.2121,0.8385
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1392389,1392389,Intestinimonas,Intestinimonas,genus,0.2121,abund,0.2121,0.785
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1427378,1427378,Acetatifactor,Acetatifactor,genus,0.2121,abund,0.2121,0.7232
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1505657,1505657,Intestinibacter,Intestinibacter,genus,0.2121,abund,0.2121,0.7236
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1649459,1649459,Hungatella,Hungatella,genus,0.2121,abund,0.2121,1.6875
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1686313,1686313,Fenollaria,Fenollaria,genus,0.2121,abund,0.2121,0.4162
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1766253,1766253,Agathobacter,Agathobacter,genus,0.4242,abund,0.4242,1.6516
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1905344,1905344,Ruthenibacterium,Ruthenibacterium,genus,0.2121,abund,0.2121,1.0008
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1918598,1918598,Turicimonas,Turicimonas,genus,0.2121,abund,0.2121,0.703
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,1924081,1924081,Bariatricus,Bariatricus,genus,0.4418,abund,0.4418,1.5491
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,2172004,2172004,Lawsonibacter,Lawsonibacter,genus,0.2121,abund,0.2121,1.0424
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,2316020,2316020,Mediterraneibacter,Mediterraneibacter,genus,0.2121,abund,0.2121,0.6674
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,2569097,2569097,Anaerobutyricum,Anaerobutyricum,genus,0.2121,abund,0.2121,0.8559
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,2591381,2591381,Dysosmobacter,Dysosmobacter,genus,0.4242,abund,0.4242,1.7002000000000002
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,2676048,2676048,Schaedlerella,Schaedlerella,genus,0.2121,abund,0.2121,0.7304
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,2678885,2678885,Faecalibacillus,Faecalibacillus,genus,0.2121,abund,0.2121,0.6801
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,2740557,2740557,Pauljensenia,Pauljensenia,genus,0.2121,abund,0.2121,0.5978
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,2759736,2759736,Lacticaseibacillus,Lacticaseibacillus,genus,0.2121,abund,0.2121,0.7347
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,2767842,2767842,Lactiplantibacillus,Lactiplantibacillus,genus,0.2121,abund,0.2121,0.7912
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,2767886,2767886,Levilactobacillus,Levilactobacillus,genus,0.2121,abund,0.2121,0.6024
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,2840617,2840617,Scatomonas,Scatomonas,genus,0.2121,abund,0.2121,0.9615
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,2892396,2892396,Vescimonas,Vescimonas,genus,0.2121,abund,0.2121,0.6227
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,2941495,2941495,Otoolea,Otoolea,genus,0.2121,abund,0.2121,0.9553
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,2981634,2981634,Hominimerdicola,Hominimerdicola,genus,0.2121,abund,0.2121,0.7218
+Sylph,default,Sylph_default,simulated,simulated,pacbio,sim_pacbio,3059504,3059504,Allocoprobacillus,Allocoprobacillus,genus,0.2121,abund,0.2121,0.7136

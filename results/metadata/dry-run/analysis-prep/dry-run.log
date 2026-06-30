@@ -1,0 +1,49 @@
+
+[resource check]
+  requested jobs: 1
+  cpus available: 128 (of 128 total)
+  memory available: 629 GB (of 996 GB total)
+  ⚠ jobs=1 on 128 cores is sequential — pass jobs 4-8 to use more cores
+
+=== analysis_prep DRY-RUN (20260629_141850) ===
+unified-reports : reports/unified-reports
+default-reports : reports/default-reports
+data-root       : data
+out             : results  -> results/metadata/dry-run/analysis-prep
+data-groups     : ['ZymoMockD6331']
+techs           : ['pacbio']
+modes           : ['detection']
+
+[truth] 3 registry entries:
+  [ok]       zymoD6331             data/ZymoMockD6331/zymoD6331_gt.csv
+  [ok]       simulated_pacbio      data/simulated/pacbio/sim_pacbio_gt.tsv
+  [ok]       simulated_ont         data/simulated/ont/sim_ont_gt.tsv
+
+[detection] plan: 24 files
+  [  1/ 24] [ok]       Kraken2/unified  ZymoMockD6331/pacbio/SRR13128013
+  [  2/ 24] [ok]       Kraken2/unified  ZymoMockD6331/pacbio/SRR13128014
+  [  3/ 24] [ok]       Centrifuge/unified  ZymoMockD6331/pacbio/SRR13128013
+  [  4/ 24] [ok]       Centrifuge/unified  ZymoMockD6331/pacbio/SRR13128014
+  [  5/ 24] [ok]       Centrifuger/unified  ZymoMockD6331/pacbio/SRR13128013
+  [  6/ 24] [ok]       Centrifuger/unified  ZymoMockD6331/pacbio/SRR13128014
+  [  7/ 24] [ok]       Ganon2/unified  ZymoMockD6331/pacbio/SRR13128013
+  [  8/ 24] [ok]       Ganon2/unified  ZymoMockD6331/pacbio/SRR13128014
+  [  9/ 24] [ok]       Sourmash/unified  ZymoMockD6331/pacbio/SRR13128013
+  [ 10/ 24] [ok]       Sourmash/unified  ZymoMockD6331/pacbio/SRR13128014
+  [ 11/ 24] [ok]       Sylph/unified  ZymoMockD6331/pacbio/SRR13128013
+  [ 12/ 24] [ok]       Sylph/unified  ZymoMockD6331/pacbio/SRR13128014
+  [ 13/ 24] [ok]       Kraken2/default  ZymoMockD6331/pacbio/SRR13128013
+  [ 14/ 24] [ok]       Kraken2/default  ZymoMockD6331/pacbio/SRR13128014
+  [ 15/ 24] [ok]       Centrifuge/default  ZymoMockD6331/pacbio/SRR13128013
+  [ 16/ 24] [ok]       Centrifuge/default  ZymoMockD6331/pacbio/SRR13128014
+  [ 17/ 24] [ok]       Centrifuger/default  ZymoMockD6331/pacbio/SRR13128013
+  [ 18/ 24] [ok]       Centrifuger/default  ZymoMockD6331/pacbio/SRR13128014
+  [ 19/ 24] [ok]       Ganon2/default  ZymoMockD6331/pacbio/SRR13128013
+  [ 20/ 24] [ok]       Ganon2/default  ZymoMockD6331/pacbio/SRR13128014
+  [ 21/ 24] [ok]       Sourmash/default  ZymoMockD6331/pacbio/SRR13128013
+  [ 22/ 24] [ok]       Sourmash/default  ZymoMockD6331/pacbio/SRR13128014
+  [ 23/ 24] [ok]       Sylph/default  ZymoMockD6331/pacbio/SRR13128013
+  [ 24/ 24] [ok]       Sylph/default  ZymoMockD6331/pacbio/SRR13128014
+
+manifest written: results/metadata/dry-run/analysis-prep/dry-run_manifest.csv (24 rows)
+log written:      results/metadata/dry-run/analysis-prep/dry-run.log

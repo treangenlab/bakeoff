@@ -1,0 +1,182 @@
+tool,db,tool_db,data_type,project,technology,sample,taxid_raw,taxid,name_raw,name,rank,value,value_type,tax_abund_raw,seq_abund_raw
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,0,0,Acetatifactor intestinalis,Acetatifactor intestinalis,species,0.7201,fraction_reads,0.2109,0.7201
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,0,0,Bariatricus comes,Bariatricus comes,species,0.8532,fraction_reads,0.2201,0.8532
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,0,0,Bariatricus sp004560705,Bariatricus sp004560705,species,0.692,fraction_reads,0.2201,0.692
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,0,0,Bifidobacterium infantis,Bifidobacterium infantis,species,0.6857,fraction_reads,0.2109,0.6857
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,0,0,Bifidobacterium vaginale,Bifidobacterium vaginale,species,0.4042,fraction_reads,0.2109,0.4042
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,0,0,Dysosmobacter faecalis,Dysosmobacter faecalis,species,0.826,fraction_reads,0.2109,0.826
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,0,0,Faecalibacterium sp900758465,Faecalibacterium sp900758465,species,0.7123,fraction_reads,0.2201,0.7123
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,0,0,Olsenella_F sp001189515,Olsenella sp001189515,species,0.7789,fraction_reads,0.2109,0.7789
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,0,0,Otoolea saccharolyticum_A,Otoolea saccharolyticum,species,0.9511,fraction_reads,0.2109,0.9511
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,0,0,Pauljensenia odontolytica,Pauljensenia odontolytica,species,0.5953,fraction_reads,0.2109,0.5953
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,0,0,Scatomonas hejianensis,Scatomonas hejianensis,species,0.9574,fraction_reads,0.2109,0.9574
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,0,0,Schaedlerella glycyrrhizinilytica_A,Schaedlerella glycyrrhizinilytica,species,0.7272,fraction_reads,0.2109,0.7272
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,0,0,Streptococcus sp008727815,Streptococcus sp008727815,species,0.5846,fraction_reads,0.2384,0.5846
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,0,0,Turicibacter sp017888305,Turicibacter sp017888305,species,0.6427,fraction_reads,0.2109,0.6427
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,199,199,Campylobacter_A concisus,Campylobacter concisus,species,0.446,fraction_reads,0.2109,0.446
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,727,727,Haemophilus influenzae,Haemophilus influenzae,species,0.4782,fraction_reads,0.2201,0.4782
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,729,729,Haemophilus_D parainfluenzae,Haemophilus parainfluenzae,species,0.5191,fraction_reads,0.2109,0.5191
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,732,732,Aggregatibacter aphrophilus,Aggregatibacter aphrophilus,species,0.5665,fraction_reads,0.2109,0.5665
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,735,735,Haemophilus_A parahaemolyticus,Haemophilus parahaemolyticus,species,0.4942,fraction_reads,0.2109,0.4942
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,818,818,Bacteroides thetaiotaomicron,Bacteroides thetaiotaomicron,species,1.5918,fraction_reads,0.2201,1.5918
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,820,820,Bacteroides uniformis,Bacteroides uniformis,species,1.1221,fraction_reads,0.2109,1.1221
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,821,821,Phocaeicola vulgatus,Phocaeicola vulgatus,species,1.2515,fraction_reads,0.2109,1.2515
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,823,823,Parabacteroides distasonis,Parabacteroides distasonis,species,2.0282,fraction_reads,0.3668,2.0282
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,851,851,Fusobacterium nucleatum,Fusobacterium nucleatum,species,0.5288,fraction_reads,0.2109,0.5288
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,853,853,Faecalibacterium prausnitzii_A,Faecalibacterium prausnitzii,species,2.4411,fraction_reads,0.6786,2.4411
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1255,1255,Pediococcus pentosaceus,Pediococcus pentosaceus,species,0.4216,fraction_reads,0.2109,0.4216
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1302,1302,Streptococcus gordonii,Streptococcus gordonii,species,0.5252,fraction_reads,0.2109,0.5252
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1303,1303,Streptococcus oralis,Streptococcus oralis,species,0.4682,fraction_reads,0.2109,0.4682
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1304,1304,Streptococcus salivarius,Streptococcus salivarius,species,0.5306,fraction_reads,0.2109,0.5306
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1305,1305,Streptococcus sanguinis,Streptococcus sanguinis,species,0.5528,fraction_reads,0.2109,0.5528
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1308,1308,Streptococcus thermophilus,Streptococcus thermophilus,species,0.5317,fraction_reads,0.2201,0.5317
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1318,1318,Streptococcus parasanguinis,Streptococcus parasanguinis,species,0.522,fraction_reads,0.2109,0.522
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1328,1328,Streptococcus anginosus,Streptococcus anginosus,species,0.4941,fraction_reads,0.2201,0.4941
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1338,1338,Streptococcus intermedius,Streptococcus intermedius,species,0.473,fraction_reads,0.2109,0.473
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1343,1343,Streptococcus vestibularis,Streptococcus vestibularis,species,0.5329,fraction_reads,0.2476,0.5329
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1522,1522,Clostridium_AQ innocuum,Clostridium innocuum,species,1.1438,fraction_reads,0.2109,1.1438
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1580,1580,Levilactobacillus brevis,Levilactobacillus brevis,species,0.5998,fraction_reads,0.2109,0.5998
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1590,1590,Lactiplantibacillus plantarum,Lactiplantibacillus plantarum,species,0.7878,fraction_reads,0.2109,0.7878
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1597,1597,Lacticaseibacillus paracasei,Lacticaseibacillus paracasei,species,0.7315,fraction_reads,0.2109,0.7315
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1655,1655,Actinomyces naeslundii,Actinomyces naeslundii,species,0.7562,fraction_reads,0.2109,0.7562
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1680,1680,Bifidobacterium adolescentis,Bifidobacterium adolescentis,species,0.947,fraction_reads,0.3944,0.947
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,2047,2047,Rothia dentocariosa,Rothia dentocariosa,species,0.6074,fraction_reads,0.2109,0.6074
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,28025,28025,Bifidobacterium animalis,Bifidobacterium animalis,species,0.4685,fraction_reads,0.2109,0.4685
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,28037,28037,Streptococcus mitis_AK,Streptococcus mitis,species,0.4822,fraction_reads,0.2201,0.4822
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,28111,28111,Bacteroides eggerthii,Bacteroides eggerthii,species,1.0196,fraction_reads,0.2109,1.0196
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,28116,28116,Bacteroides ovatus,Bacteroides ovatus,species,2.6603,fraction_reads,0.3577,2.6603
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,28117,28117,Alistipes putredinis,Alistipes putredinis,species,0.6183,fraction_reads,0.2109,0.6183
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,28118,28118,Odoribacter splanchnicus,Odoribacter splanchnicus,species,1.0647,fraction_reads,0.2109,1.0647
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,28125,28125,Prevotella bivia,Prevotella bivia,species,0.6111,fraction_reads,0.2109,0.6111
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,28128,28128,Prevotella corporis,Prevotella corporis,species,0.6787,fraction_reads,0.2109,0.6787
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,29466,29466,Veillonella parvula,Veillonella parvula,species,0.5168,fraction_reads,0.2109,0.5168
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,33031,33031,Peptoniphilus_A lacrimalis,Peptoniphilus lacrimalis,species,0.4482,fraction_reads,0.2109,0.4482
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,33039,33039,Mediterraneibacter torques,Mediterraneibacter torques,species,0.6646,fraction_reads,0.2109,0.6646
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,39485,39485,Lachnospira eligens,Lachnospira eligens,species,0.6863,fraction_reads,0.2109,0.6863
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,39486,39486,Dorea formicigenerans,Dorea formicigenerans,species,0.7728,fraction_reads,0.2109,0.7728
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,39490,39490,Eubacterium_I ramulus,Eubacterium ramulus,species,0.8356,fraction_reads,0.2109,0.8356
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,39491,39491,Agathobacter rectalis,Agathobacter rectalis,species,0.8362,fraction_reads,0.2109,0.8362
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,39496,39496,Eubacterium_G ventriosum,Eubacterium ventriosum,species,0.7224,fraction_reads,0.2201,0.7224
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,39777,39777,Veillonella atypica,Veillonella atypica,species,0.4939,fraction_reads,0.2109,0.4939
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,40520,40520,Blautia_A obeum,Blautia obeum,species,0.9232,fraction_reads,0.2201,0.9232
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,40545,40545,Sutterella wadsworthensis,Sutterella wadsworthensis,species,0.7113,fraction_reads,0.2109,0.7113
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,43675,43675,Rothia mucilaginosa_B,Rothia mucilaginosa,species,0.5557,fraction_reads,0.2109,0.5557
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,45851,45851,Butyrivibrio_A crossotus,Butyrivibrio crossotus,species,0.6111,fraction_reads,0.2109,0.6111
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,46503,46503,Parabacteroides merdae,Parabacteroides merdae,species,1.0611,fraction_reads,0.2109,1.0611
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,46506,46506,Bacteroides stercoris_A,Bacteroides stercoris,species,1.6928,fraction_reads,0.4218,1.6928
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,47678,47678,Bacteroides caccae,Bacteroides caccae,species,1.1079,fraction_reads,0.2109,1.1079
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,74426,74426,Collinsella aerofaciens,Collinsella aerofaciens,species,0.5952,fraction_reads,0.2109,0.5952
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,84112,84112,Eggerthella lenta,Eggerthella lenta,species,0.8804,fraction_reads,0.2109,0.8804
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,84135,84135,Gemella sanguinis,Gemella sanguinis,species,0.4352,fraction_reads,0.2109,0.4352
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,88431,88431,Dorea_A longicatena,Dorea longicatena,species,0.7078,fraction_reads,0.2109,0.7078
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,89014,89014,Blautia_A luti,Blautia luti,species,0.8998,fraction_reads,0.2109,0.8998
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,105843,105843,Anaerobutyricum soehngenii,Anaerobutyricum soehngenii,species,0.8522,fraction_reads,0.2109,0.8522
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,113107,113107,Streptococcus australis,Streptococcus australis,species,0.5387,fraction_reads,0.2201,0.5387
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,114527,114527,Mogibacterium diversum,Mogibacterium diversum,species,0.4401,fraction_reads,0.2109,0.4401
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,116090,116090,Caloranaerobacter azorensis,Caloranaerobacter azorensis,species,0.5968,fraction_reads,0.2109,0.5968
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,154046,154046,Hungatella hathewayi,Hungatella hathewayi,species,1.6802,fraction_reads,0.2109,1.6802
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,154288,154288,Turicibacter sanguinis,Turicibacter sanguinis,species,0.7271,fraction_reads,0.2109,0.7271
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,166486,166486,Roseburia intestinalis,Roseburia intestinalis,species,1.1365,fraction_reads,0.2201,1.1365
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,169435,169435,Anaerotruncus colihominis,Anaerotruncus colihominis,species,0.8639,fraction_reads,0.2109,0.8639
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,214856,214856,Alistipes finegoldii,Alistipes finegoldii,species,0.9051,fraction_reads,0.2109,0.9051
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,216816,216816,Bifidobacterium longum,Bifidobacterium longum,species,0.6536,fraction_reads,0.2384,0.6536
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,249188,249188,Haemophilus_D pittmaniae,Haemophilus pittmaniae,species,0.5287,fraction_reads,0.2109,0.5287
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,261299,261299,Intestinibacter bartlettii,Intestinibacter bartlettii,species,0.7205,fraction_reads,0.2109,0.7205
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,292800,292800,Flavonifractor plautii,Flavonifractor plautii,species,0.9662,fraction_reads,0.2201,0.9662
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,301301,301301,Roseburia hominis,Roseburia hominis,species,0.8707,fraction_reads,0.2109,0.8707
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,301302,301302,Agathobacter faecis,Agathobacter faecis,species,0.8083,fraction_reads,0.2109,0.8083
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,328812,328812,Parabacteroides goldsteinii,Parabacteroides goldsteinii,species,1.5723,fraction_reads,0.2109,1.5723
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,328813,328813,Alistipes onderdonkii,Alistipes onderdonkii,species,0.9787,fraction_reads,0.2201,0.9787
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,357276,357276,Phocaeicola dorei,Phocaeicola dorei,species,1.6007,fraction_reads,0.2476,1.6007
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,371601,371601,Bacteroides xylanisolvens,Bacteroides xylanisolvens,species,1.5745,fraction_reads,0.2293,1.5745
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,387661,387661,Parabacteroides johnsonii,Parabacteroides johnsonii,species,1.2013,fraction_reads,0.2201,1.2013
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,411483,411483,Faecalibacterium duncaniae,Faecalibacterium duncaniae,species,1.9618,fraction_reads,0.5503,1.9618
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,418240,418240,Blautia_A wexlerae,Blautia wexlerae,species,1.1852,fraction_reads,0.2201,1.1852
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,423477,423477,Veillonella rogosae,Veillonella rogosae,species,0.5301,fraction_reads,0.2109,0.5301
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,454154,454154,Paraprevotella clara,Paraprevotella clara,species,1.0262,fraction_reads,0.2109,1.0262
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,487174,487174,Barnesiella intestinihominis,Barnesiella intestinihominis,species,0.8348,fraction_reads,0.2109,0.8348
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,544580,544580,Actinomyces oris,Actinomyces oris,species,0.8015,fraction_reads,0.2201,0.8015
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,649756,649756,Anaerostipes hadrus,Anaerostipes hadrus,species,0.6797,fraction_reads,0.2109,0.6797
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,674529,674529,Bacteroides faecis,Bacteroides faecis,species,1.4445,fraction_reads,0.2109,1.4445
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,938288,938288,Fenollaria massiliensis,Fenollaria massiliensis,species,0.4324,fraction_reads,0.2201,0.4324
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1099853,1099853,Coprobacter fastidiosus,Coprobacter fastidiosus,species,0.8349,fraction_reads,0.2109,0.8349
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1156431,1156431,Streptococcus ilei,Streptococcus ilei,species,0.483,fraction_reads,0.2109,0.483
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1297617,1297617,Intestinimonas butyriciproducens,Intestinimonas butyriciproducens,species,0.7816,fraction_reads,0.2109,0.7816
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1335613,1335613,Gordonibacter urolithinfaciens,Gordonibacter urolithinfaciens,species,0.7986,fraction_reads,0.2109,0.7986
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1550024,1550024,Ruthenibacterium lactatiformans,Ruthenibacterium lactatiformans,species,0.9965,fraction_reads,0.2109,0.9965
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1796613,1796613,Bacteroides caecimuris,Bacteroides caecimuris,species,1.2752,fraction_reads,0.2293,1.2752
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1796652,1796652,Turicimonas muris,Turicimonas muris,species,0.7,fraction_reads,0.2109,0.7
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1982626,1982626,Faecalibacillus intestinalis,Faecalibacillus intestinalis,species,0.6772,fraction_reads,0.2109,0.6772
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,2093857,2093857,Dysosmobacter welbionis,Dysosmobacter welbionis,species,0.8668,fraction_reads,0.2109,0.8668
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,2108523,2108523,Lawsonibacter asaccharolyticus,Lawsonibacter asaccharolyticus,species,1.038,fraction_reads,0.2109,1.038
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,2585118,2585118,Alistipes communis,Alistipes communis,species,0.8002,fraction_reads,0.2109,0.8002
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,2682456,2682456,Veillonella nakazawae,Veillonella nakazawae,species,0.7296,fraction_reads,0.3026,0.7296
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,2714355,2714355,Vescimonas coprocola,Vescimonas coprocola,species,0.62,fraction_reads,0.2109,0.62
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,2735723,2735723,Turicibacter bilis,Turicibacter bilis,species,0.6755,fraction_reads,0.2109,0.6755
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,2881264,2881264,Blautia_A fusiformis,Blautia fusiformis,species,0.8426,fraction_reads,0.2109,0.8426
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,2944914,2944914,Allocoprobacillus halotolerans,Allocoprobacillus halotolerans,species,0.7105,fraction_reads,0.2109,0.7105
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,2981726,2981726,Hominimerdicola aceti,Hominimerdicola aceti,species,0.7187,fraction_reads,0.2109,0.7187
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,194,194,Campylobacter_A,Campylobacter,genus,0.446,fraction_reads,0.2109,0.446
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,724,724,Haemophilus_D,Haemophilus,genus,2.0202,fraction_reads,0.8528,2.0202
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,816,816,Bacteroides,Bacteroides,genus,13.4887,fraction_reads,2.3018000000000005,13.4887
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,830,830,Butyrivibrio_A,Butyrivibrio,genus,0.6111,fraction_reads,0.2109,0.6111
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,838,838,Prevotella,Prevotella,genus,1.2898,fraction_reads,0.4218,1.2898
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,841,841,Roseburia,Roseburia,genus,2.0072,fraction_reads,0.431,2.0072
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,848,848,Fusobacterium,Fusobacterium,genus,0.5288,fraction_reads,0.2109,0.5288
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1253,1253,Pediococcus,Pediococcus,genus,0.4216,fraction_reads,0.2109,0.4216
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1301,1301,Streptococcus,Streptococcus,genus,6.718999999999999,fraction_reads,2.8427,6.718999999999999
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1378,1378,Gemella,Gemella,genus,0.4352,fraction_reads,0.2109,0.4352
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1485,1485,Clostridium_AQ,Clostridium,genus,1.1438,fraction_reads,0.2109,1.1438
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1654,1654,Actinomyces,Actinomyces,genus,1.5577,fraction_reads,0.431,1.5577
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1678,1678,Bifidobacterium,Bifidobacterium,genus,3.159,fraction_reads,1.2655,3.159
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1730,1730,Eubacterium_G,Eubacterium,genus,1.558,fraction_reads,0.431,1.558
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,28050,28050,Lachnospira,Lachnospira,genus,0.6863,fraction_reads,0.2109,0.6863
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,29465,29465,Veillonella,Veillonella,genus,2.2704,fraction_reads,0.9353,2.2704
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,32207,32207,Rothia,Rothia,genus,1.1631,fraction_reads,0.4218,1.1631
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,40544,40544,Sutterella,Sutterella,genus,0.7113,fraction_reads,0.2109,0.7113
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,84111,84111,Eggerthella,Eggerthella,genus,0.8804,fraction_reads,0.2109,0.8804
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,86331,86331,Mogibacterium,Mogibacterium,genus,0.4401,fraction_reads,0.2109,0.4401
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,102106,102106,Collinsella,Collinsella,genus,0.5952,fraction_reads,0.2109,0.5952
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,133925,133925,Olsenella_F,Olsenella,genus,0.7789,fraction_reads,0.2109,0.7789
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,162289,162289,Peptoniphilus_A,Peptoniphilus,genus,0.4482,fraction_reads,0.2109,0.4482
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,171003,171003,Caloranaerobacter,Caloranaerobacter,genus,0.5968,fraction_reads,0.2109,0.5968
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,189330,189330,Dorea_A,Dorea,genus,1.4806,fraction_reads,0.4218,1.4806
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,191303,191303,Turicibacter,Turicibacter,genus,2.0453,fraction_reads,0.6327,2.0453
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,207244,207244,Anaerostipes,Anaerostipes,genus,0.6797,fraction_reads,0.2109,0.6797
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,216851,216851,Faecalibacterium,Faecalibacterium,genus,5.1152,fraction_reads,1.449,5.1152
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,239759,239759,Alistipes,Alistipes,genus,3.3023,fraction_reads,0.8528,3.3023
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,244127,244127,Anaerotruncus,Anaerotruncus,genus,0.8639,fraction_reads,0.2109,0.8639
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,283168,283168,Odoribacter,Odoribacter,genus,1.0647,fraction_reads,0.2109,1.0647
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,375288,375288,Parabacteroides,Parabacteroides,genus,5.8629,fraction_reads,1.0087,5.8629
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,397864,397864,Barnesiella,Barnesiella,genus,0.8348,fraction_reads,0.2109,0.8348
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,416916,416916,Aggregatibacter,Aggregatibacter,genus,0.5665,fraction_reads,0.2109,0.5665
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,572511,572511,Blautia_A,Blautia,genus,3.8508,fraction_reads,0.862,3.8508
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,577309,577309,Paraprevotella,Paraprevotella,genus,1.0262,fraction_reads,0.2109,1.0262
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,644652,644652,Gordonibacter,Gordonibacter,genus,0.7986,fraction_reads,0.2109,0.7986
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,909656,909656,Phocaeicola,Phocaeicola,genus,2.8522,fraction_reads,0.4585,2.8522
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,946234,946234,Flavonifractor,Flavonifractor,genus,0.9662,fraction_reads,0.2201,0.9662
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1348911,1348911,Coprobacter,Coprobacter,genus,0.8349,fraction_reads,0.2109,0.8349
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1392389,1392389,Intestinimonas,Intestinimonas,genus,0.7816,fraction_reads,0.2109,0.7816
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1427378,1427378,Acetatifactor,Acetatifactor,genus,0.7201,fraction_reads,0.2109,0.7201
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1505657,1505657,Intestinibacter,Intestinibacter,genus,0.7205,fraction_reads,0.2109,0.7205
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1649459,1649459,Hungatella,Hungatella,genus,1.6802,fraction_reads,0.2109,1.6802
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1686313,1686313,Fenollaria,Fenollaria,genus,0.4324,fraction_reads,0.2201,0.4324
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1766253,1766253,Agathobacter,Agathobacter,genus,1.6445,fraction_reads,0.4218,1.6445
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1905344,1905344,Ruthenibacterium,Ruthenibacterium,genus,0.9965,fraction_reads,0.2109,0.9965
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1918598,1918598,Turicimonas,Turicimonas,genus,0.7,fraction_reads,0.2109,0.7
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,1924081,1924081,Bariatricus,Bariatricus,genus,1.5452,fraction_reads,0.4402,1.5452
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,2172004,2172004,Lawsonibacter,Lawsonibacter,genus,1.038,fraction_reads,0.2109,1.038
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,2316020,2316020,Mediterraneibacter,Mediterraneibacter,genus,0.6646,fraction_reads,0.2109,0.6646
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,2569097,2569097,Anaerobutyricum,Anaerobutyricum,genus,0.8522,fraction_reads,0.2109,0.8522
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,2591381,2591381,Dysosmobacter,Dysosmobacter,genus,1.6928,fraction_reads,0.4218,1.6928
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,2676048,2676048,Schaedlerella,Schaedlerella,genus,0.7272,fraction_reads,0.2109,0.7272
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,2678885,2678885,Faecalibacillus,Faecalibacillus,genus,0.6772,fraction_reads,0.2109,0.6772
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,2740557,2740557,Pauljensenia,Pauljensenia,genus,0.5953,fraction_reads,0.2109,0.5953
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,2759736,2759736,Lacticaseibacillus,Lacticaseibacillus,genus,0.7315,fraction_reads,0.2109,0.7315
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,2767842,2767842,Lactiplantibacillus,Lactiplantibacillus,genus,0.7878,fraction_reads,0.2109,0.7878
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,2767886,2767886,Levilactobacillus,Levilactobacillus,genus,0.5998,fraction_reads,0.2109,0.5998
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,2840617,2840617,Scatomonas,Scatomonas,genus,0.9574,fraction_reads,0.2109,0.9574
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,2892396,2892396,Vescimonas,Vescimonas,genus,0.62,fraction_reads,0.2109,0.62
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,2941495,2941495,Otoolea,Otoolea,genus,0.9511,fraction_reads,0.2109,0.9511
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,2981634,2981634,Hominimerdicola,Hominimerdicola,genus,0.7187,fraction_reads,0.2109,0.7187
+Sylph,default,Sylph_default,simulated,simulated,ont,sim_ont,3059504,3059504,Allocoprobacillus,Allocoprobacillus,genus,0.7105,fraction_reads,0.2109,0.7105

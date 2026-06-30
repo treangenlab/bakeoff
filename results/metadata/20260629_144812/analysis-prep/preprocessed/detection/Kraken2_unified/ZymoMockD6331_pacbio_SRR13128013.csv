@@ -1,0 +1,390 @@
+tool,db,tool_db,data_type,project,technology,sample,taxid_raw,taxid,name_raw,name,rank,value,value_type,abundance_raw,numReads,numDirectReads
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,853,853,                  Faecalibacterium prausnitzii,Faecalibacterium prausnitzii,species,19.4968083605183,abund,19.5,540224,527372
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2929495,2929495,                    Faecalibacterium sp. I4-3-84,Faecalibacterium sp. I4-3-84,species,0.004619549427915721,abund,0.0,128,128
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2929494,2929494,                    Faecalibacterium sp. I4-1-79,Faecalibacterium sp. I4-1-79,species,0.0007218045981118314,abund,0.0,20,20
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,3141184,3141184,                    Faecalibacterium sp. i21-0019-B1,Faecalibacterium sp. i21-0019-B1,species,0.0005052632186782819,abund,0.0,14,14
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2929492,2929492,                    Faecalibacterium sp. I3-3-33,Faecalibacterium sp. I3-3-33,species,0.0004330827588670988,abund,0.0,12,12
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2929489,2929489,                    Faecalibacterium sp. IP-3-29,Faecalibacterium sp. IP-3-29,species,0.00028872183924473255,abund,0.0,8,8
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2929488,2929488,                    Faecalibacterium sp. IP-1-18,Faecalibacterium sp. IP-1-18,species,0.00018045114952795784,abund,0.0,5,5
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2929490,2929490,                    Faecalibacterium sp. I2-3-92,Faecalibacterium sp. I2-3-92,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,3030638,3030638,                  Faecalibacterium taiwanense,Faecalibacterium taiwanense,species,0.0007939850579230146,abund,0.0,22,22
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,411483,411483,                  Faecalibacterium duncaniae,Faecalibacterium duncaniae,species,0.0004330827588670988,abund,0.0,12,12
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2929491,2929491,                  Faecalibacterium wellingii,Faecalibacterium wellingii,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2714353,2714353,                  Vescimonas fastidiosa,Vescimonas fastidiosa,species,0.0002165413794335494,abund,0.0,6,6
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2780922,2780922,                  Solibaculum mannosilyticum,Solibaculum mannosilyticum,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1502,1502,                  Clostridium perfringens,Clostridium perfringens,species,7.218045981118314e-05,abund,0.0,2,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1522,1522,                  [Clostridium] innocuum,[Clostridium] innocuum,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2086584,2086584,                  Massilistercora timonensis,Massilistercora timonensis,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,301301,301301,                  Roseburia hominis,Roseburia hominis,species,5.783387161911238,abund,5.78,160248,160248
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,166486,166486,                  Roseburia intestinalis,Roseburia intestinalis,species,0.0003969925289615073,abund,0.0,11,10
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,39491,39491,                  Agathobacter rectalis,Agathobacter rectalis,species,0.0026345867831081846,abund,0.0,73,73
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1531,1531,                  Enterocloster clostridioformis,Enterocloster clostridioformis,species,0.0009022557476397892,abund,0.0,25,25
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,460384,460384,                  Enterocloster lavalensis,Enterocloster lavalensis,species,0.0002165413794335494,abund,0.0,6,6
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,3123317,3123317,                    Kineothrix sp. IPX-CK,Kineothrix sp. IPX-CK,species,0.0006496241383006482,abund,0.0,18,18
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,33038,33038,                  Mediterraneibacter gnavus,Mediterraneibacter gnavus,species,0.0004330827588670988,abund,0.0,12,11
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,33039,33039,                  [Ruminococcus] torques,[Ruminococcus] torques,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1532,1532,                  Blautia coccoides,Blautia coccoides,species,0.00018045114952795784,abund,0.0,5,5
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,40520,40520,                  Blautia obeum,Blautia obeum,species,7.218045981118314e-05,abund,0.0,2,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,418240,418240,                  Blautia wexlerae,Blautia wexlerae,species,7.218045981118314e-05,abund,0.0,2,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1796616,1796616,                  Blautia pseudococcoides,Blautia pseudococcoides,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,33035,33035,                  Blautia producta,Blautia producta,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1912897,1912897,                  Blautia argi,Blautia argi,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,45851,45851,                  Eshraghiella crossota,Eshraghiella crossota,species,0.00018045114952795784,abund,0.0,5,5
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,649756,649756,                  Anaerostipes hadrus,Anaerostipes hadrus,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,3036926,3036926,                    Anaerostipes sp. PC18,Anaerostipes sp. PC18,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,39486,39486,                  Dorea formicigenerans,Dorea formicigenerans,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,88431,88431,                  Dorea longicatena,Dorea longicatena,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2763670,2763670,                  Wujia chipingensis,Wujia chipingensis,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,831,831,                  Butyrivibrio fibrisolvens,Butyrivibrio fibrisolvens,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,3028070,3028070,                  Claveliimonas bilis,Claveliimonas bilis,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,751585,751585,                    Coprococcus sp. ART55/1,Coprococcus sp. ART55/1,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1496,1496,                  Clostridioides difficile,Clostridioides difficile,species,2.6950379182000503,abund,2.7,74675,56632
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,3003601,3003601,                  Peptostreptococcus equinus,Peptostreptococcus equinus,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,3114296,3114296,                    Emergencia sp. JLR.KK010,Emergencia sp. JLR.KK010,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,423477,423477,                  Veillonella rogosae,Veillonella rogosae,species,16.78390577851498,abund,16.78,465054,465054
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1613,1613,                  Limosilactobacillus fermentum,Limosilactobacillus fermentum,species,1.0555670442787422,abund,1.06,29248,28557
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,3344667,3344667,                    Dellaglioa sp. P0083,Dellaglioa sp. P0083,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1338,1338,                    Streptococcus intermedius,Streptococcus intermedius,species,0.005088722416688411,abund,0.01,141,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1328,1328,                    Streptococcus anginosus,Streptococcus anginosus,species,0.0009744362074509723,abund,0.0,27,27
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1336,1336,                    Streptococcus equi,Streptococcus equi,species,0.00025263160933914095,abund,0.0,7,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1314,1314,                  Streptococcus pyogenes,Streptococcus pyogenes,species,0.00018045114952795784,abund,0.0,5,5
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,82348,82348,                  Streptococcus pluranimalium,Streptococcus pluranimalium,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1352,1352,                  Enterococcus faecium,Enterococcus faecium,species,0.003103759771880875,abund,0.0,86,86
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1351,1351,                  Enterococcus faecalis,Enterococcus faecalis,species,0.000830075287828606,abund,0.0,23,20
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1396,1396,                    Bacillus cereus,Bacillus cereus,species,0.002237594254146677,abund,0.0,62,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1890302,1890302,                    Bacillus wiedmannii,Bacillus wiedmannii,species,0.0006135339083950566,abund,0.0,17,17
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1280,1280,                  Staphylococcus aureus,Staphylococcus aureus,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1785995,1785995,                    Gemella sp. oral taxon 928,Gemella sp. oral taxon 928,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2912268,2912268,                  Paenibacillus melissococcoides,Paenibacillus melissococcoides,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1547,1547,                  Thomasclavelia ramosa,Thomasclavelia ramosa,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,29348,29348,                  Thomasclavelia spiroformis,Thomasclavelia spiroformis,species,3.609022990559157e-05,abund,0.0,1,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1680,1680,                  Bifidobacterium adolescentis,Bifidobacterium adolescentis,species,1.0575880971534553,abund,1.06,29304,29304
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2985571,2985571,                    Bifidobacterium sp. KRGSERBCFTRI,Bifidobacterium sp. KRGSERBCFTRI,species,0.04955188566037722,abund,0.05,1373,1373
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2983233,2983233,                    Bifidobacterium sp. ESL0790,Bifidobacterium sp. ESL0790,species,0.0009744362074509723,abund,0.0,27,27
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2983230,2983230,                    Bifidobacterium sp. ESL0775,Bifidobacterium sp. ESL0775,species,0.0009022557476397892,abund,0.0,25,25
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2983214,2983214,                    Bifidobacterium sp. ESL0690,Bifidobacterium sp. ESL0690,species,0.000830075287828606,abund,0.0,23,23
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2983236,2983236,                    Bifidobacterium sp. ESL0800,Bifidobacterium sp. ESL0800,species,0.0007218045981118314,abund,0.0,20,20
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2983212,2983212,                    Bifidobacterium sp. ESL0682,Bifidobacterium sp. ESL0682,species,0.0005774436784894651,abund,0.0,16,16
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2983229,2983229,                    Bifidobacterium sp. ESL0769,Bifidobacterium sp. ESL0769,species,0.0005774436784894651,abund,0.0,16,16
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2983222,2983222,                    Bifidobacterium sp. ESL0732,Bifidobacterium sp. ESL0732,species,0.0005052632186782819,abund,0.0,14,14
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2983220,2983220,                    Bifidobacterium sp. ESL0728,Bifidobacterium sp. ESL0728,species,0.0003248120691503241,abund,0.0,9,9
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2983228,2983228,                    Bifidobacterium sp. ESL0764,Bifidobacterium sp. ESL0764,species,0.0002165413794335494,abund,0.0,6,6
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2983219,2983219,                    Bifidobacterium sp. ESL0704,Bifidobacterium sp. ESL0704,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2922858,2922858,                    Bifidobacterium sp. TKU,Bifidobacterium sp. TKU,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2983235,2983235,                    Bifidobacterium sp. ESL0798,Bifidobacterium sp. ESL0798,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1454229,1454229,                  Bifidobacterium faecale,Bifidobacterium faecale,species,0.03677594427379781,abund,0.04,1019,1019
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,216816,216816,                  Bifidobacterium longum,Bifidobacterium longum,species,0.030027071281452187,abund,0.03,832,709
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1686,1686,                  Bifidobacterium catenulatum,Bifidobacterium catenulatum,species,0.02003007759760332,abund,0.02,555,189
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,28026,28026,                  Bifidobacterium pseudocatenulatum,Bifidobacterium pseudocatenulatum,species,0.018622558631285247,abund,0.02,516,510
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1689,1689,                  Bifidobacterium dentium,Bifidobacterium dentium,species,0.009744362074509723,abund,0.01,270,270
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1683,1683,                  Bifidobacterium angulatum,Bifidobacterium angulatum,species,0.0068210534521568065,abund,0.01,189,116
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1685,1685,                  Bifidobacterium breve,Bifidobacterium breve,species,0.0027789477027305508,abund,0.0,77,72
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,33905,33905,                  Bifidobacterium thermophilum,Bifidobacterium thermophilum,species,0.002670677013013776,abund,0.0,74,74
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,158787,158787,                  Bifidobacterium scardovii,Bifidobacterium scardovii,species,0.0024902258634858184,abund,0.0,69,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,78448,78448,                  Bifidobacterium pullorum,Bifidobacterium pullorum,species,0.002345864943863452,abund,0.0,65,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1694,1694,                  Bifidobacterium pseudolongum,Bifidobacterium pseudolongum,species,0.0020210528747131276,abund,0.0,56,47
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,35760,35760,                  Bifidobacterium choerinum,Bifidobacterium choerinum,species,0.0014436091962236627,abund,0.0,40,40
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1681,1681,                  Bifidobacterium bifidum,Bifidobacterium bifidum,species,0.001407518966318071,abund,0.0,39,35
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1684,1684,                  Bifidobacterium asteroides,Bifidobacterium asteroides,species,0.0012992482766012964,abund,0.0,36,36
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1603886,1603886,                  Bifidobacterium lemurum,Bifidobacterium lemurum,species,0.001263158046695705,abund,0.0,35,35
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1765219,1765219,                  Bifidobacterium eulemuris,Bifidobacterium eulemuris,species,0.0009744362074509723,abund,0.0,27,27
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,77635,77635,                  Bifidobacterium subtile,Bifidobacterium subtile,species,0.0009383459775453808,abund,0.0,26,26
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,28025,28025,                  Bifidobacterium animalis,Bifidobacterium animalis,species,0.000830075287828606,abund,0.0,23,13
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2020965,2020965,                  Bifidobacterium imperatoris,Bifidobacterium imperatoris,species,0.0007218045981118314,abund,0.0,20,20
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,762210,762210,                  Bifidobacterium saguini,Bifidobacterium saguini,species,0.0005413534485838734,abund,0.0,15,15
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,3059035,3059035,                  Bifidobacterium fermentum,Bifidobacterium fermentum,species,0.0005052632186782819,abund,0.0,14,14
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,3059038,3059038,                  Bifidobacterium aquikefiricola,Bifidobacterium aquikefiricola,species,0.0005052632186782819,abund,0.0,14,14
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1687,1687,                  Bifidobacterium coryneforme,Bifidobacterium coryneforme,species,0.0004330827588670988,abund,0.0,12,12
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,638619,638619,                  Bifidobacterium actinocoloniiforme,Bifidobacterium actinocoloniiforme,species,0.0003609022990559157,abund,0.0,10,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,327277,327277,                  Bifidobacterium crudilactis,Bifidobacterium crudilactis,species,0.00025263160933914095,abund,0.0,7,7
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,544580,544580,                  Actinomyces oris,Actinomyces oris,species,0.009166918396020258,abund,0.01,254,254
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2886375,2886375,                    Spiroplasma endosymbiont of Phyllotreta cruciferae,Spiroplasma endosymbiont of Phyllotreta cruciferae,species,0.005449624715744327,abund,0.01,151,151
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,817,817,                      Bacteroides fragilis,Bacteroides fragilis,species,19.67635725429862,abund,19.68,545199,520840
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2847299,2847299,                        Bacteroides sp. DH3716P,Bacteroides sp. DH3716P,species,0.012631580466957048,abund,0.01,350,350
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2763022,2763022,                        Bacteroides sp. M10,Bacteroides sp. M10,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2755405,2755405,                        Bacteroides sp. CACC 737,Bacteroides sp. CACC 737,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,818,818,                      Bacteroides thetaiotaomicron,Bacteroides thetaiotaomicron,species,0.0017323310354683953,abund,0.0,48,48
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,820,820,                      Bacteroides uniformis,Bacteroides uniformis,species,0.0011548873569789302,abund,0.0,32,32
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,291644,291644,                      Bacteroides salyersiae,Bacteroides salyersiae,species,0.0008661655177341976,abund,0.0,24,24
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,291645,291645,                      Bacteroides nordii,Bacteroides nordii,species,0.0003609022990559157,abund,0.0,10,10
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,371601,371601,                      Bacteroides xylanisolvens,Bacteroides xylanisolvens,species,0.0003609022990559157,abund,0.0,10,9
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,47678,47678,                      Bacteroides caccae,Bacteroides caccae,species,0.0002165413794335494,abund,0.0,6,6
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2763023,2763023,                      Bacteroides hominis,Bacteroides hominis,species,0.00018045114952795784,abund,0.0,5,5
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1796613,1796613,                      Bacteroides caecimuris,Bacteroides caecimuris,species,0.0001082706897167747,abund,0.0,3,3
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,28119,28119,                      Bacteroides zoogleoformans,Bacteroides zoogleoformans,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,28116,28116,                      Bacteroides ovatus,Bacteroides ovatus,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,357276,357276,                      Phocaeicola dorei,Phocaeicola dorei,species,0.0003969925289615073,abund,0.0,11,3
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,821,821,                      Phocaeicola vulgatus,Phocaeicola vulgatus,species,0.00014436091962236627,abund,0.0,4,4
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,28128,28128,                      Prevotella corporis,Prevotella corporis,species,7.744818976820328,abund,7.74,214596,214596
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,165179,165179,                      Segatella copri,Segatella copri,species,0.0001082706897167747,abund,0.0,3,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,823,823,                      Parabacteroides distasonis,Parabacteroides distasonis,species,0.012054136788467583,abund,0.01,334,333
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2685834,2685834,                      Parabacteroides chongii,Parabacteroides chongii,species,0.0014796994261292544,abund,0.0,41,41
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,328812,328812,                      Parabacteroides goldsteinii,Parabacteroides goldsteinii,species,0.0007578948280174229,abund,0.0,21,21
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2951805,2951805,                      Parabacteroides absconsus,Parabacteroides absconsus,species,0.00018045114952795784,abund,0.0,5,5
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,46503,46503,                      Parabacteroides merdae,Parabacteroides merdae,species,0.00014436091962236627,abund,0.0,4,4
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,387661,387661,                      Parabacteroides johnsonii,Parabacteroides johnsonii,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,328814,328814,                      Alistipes shahii,Alistipes shahii,species,0.00028872183924473255,abund,0.0,8,4
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,328813,328813,                      Alistipes onderdonkii,Alistipes onderdonkii,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1760811,1760811,                        uncultured Acetobacteroides sp.,uncultured Acetobacteroides sp.,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2094151,2094151,                      Paramuribaculum intestinale,Paramuribaculum intestinale,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2606626,2606626,                      Sodaliphilus pleomorphus,Sodaliphilus pleomorphus,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1472417,1472417,                      Butyricimonas paravirosa,Butyricimonas paravirosa,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1965590,1965590,                        Barnesiella sp. An22,Barnesiella sp. An22,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1855336,1855336,                        Polaribacter sp. KT25b,Polaribacter sp. KT25b,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,536979,536979,                      Chitinophaga niabensis,Chitinophaga niabensis,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,562,562,                  Escherichia coli,Escherichia coli,species,15.571093602537575,abund,15.57,431449,355519
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,208962,208962,                  Escherichia albertii,Escherichia albertii,species,0.03215639484588209,abund,0.03,891,885
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,564,564,                  Escherichia fergusonii,Escherichia fergusonii,species,0.019633085068641812,abund,0.02,544,543
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2044467,2044467,                    Escherichia sp. E4742,Escherichia sp. E4742,species,0.007687218969891004,abund,0.01,213,213
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2509662,2509662,                    Escherichia sp. HH091_1A,Escherichia sp. HH091_1A,species,0.0020210528747131276,abund,0.0,56,56
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1849427,1849427,                    Escherichia sp. F1,Escherichia sp. F1,species,0.0001082706897167747,abund,0.0,3,3
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2509666,2509666,                    Escherichia sp. KS167_9B,Escherichia sp. KS167_9B,species,0.0001082706897167747,abund,0.0,3,3
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2509664,2509664,                    Escherichia sp. HH154_1D,Escherichia sp. HH154_1D,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2725997,2725997,                    Escherichia sp. SCLE84,Escherichia sp. SCLE84,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1499973,1499973,                  Escherichia marmotae,Escherichia marmotae,species,0.0072541362110239045,abund,0.01,201,201
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,623,623,                  Shigella flexneri,Shigella flexneri,species,0.021257145414393434,abund,0.02,589,383
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,622,622,                  Shigella dysenteriae,Shigella dysenteriae,species,0.019127821849963533,abund,0.02,530,529
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,621,621,                  Shigella boydii,Shigella boydii,species,0.010935339661394245,abund,0.01,303,300
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,624,624,                  Shigella sonnei,Shigella sonnei,species,0.0020210528747131276,abund,0.0,56,56
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,57706,57706,                    Citrobacter braakii,Citrobacter braakii,species,0.00368120345037034,abund,0.0,102,102
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1748967,1748967,                    Citrobacter cronae,Citrobacter cronae,species,0.001407518966318071,abund,0.0,39,39
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1639133,1639133,                    Citrobacter portucalensis,Citrobacter portucalensis,species,0.0009744362074509723,abund,0.0,27,27
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,546,546,                    Citrobacter freundii,Citrobacter freundii,species,0.0007578948280174229,abund,0.0,21,21
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,133448,133448,                    Citrobacter youngae,Citrobacter youngae,species,0.0002165413794335494,abund,0.0,6,6
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2066049,2066049,                      Citrobacter freundii complex sp. CFNIH2,Citrobacter freundii complex sp. CFNIH2,species,0.0001082706897167747,abund,0.0,3,3
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,67827,67827,                    Citrobacter werkmanii,Citrobacter werkmanii,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2971264,2971264,                  Citrobacter enshiensis,Citrobacter enshiensis,species,0.0007578948280174229,abund,0.0,21,21
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1573676,1573676,                    Citrobacter sp. R56,Citrobacter sp. R56,species,0.0003969925289615073,abund,0.0,11,11
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2742624,2742624,                    Citrobacter sp. RHB25-C09,Citrobacter sp. RHB25-C09,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2781952,2781952,                    Citrobacter sp. BDA59-3,Citrobacter sp. BDA59-3,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2683822,2683822,                    Citrobacter sp. 172116965,Citrobacter sp. 172116965,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,545,545,                  Citrobacter koseri,Citrobacter koseri,species,0.0002165413794335494,abund,0.0,6,6
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,35703,35703,                  Citrobacter amalonaticus,Citrobacter amalonaticus,species,0.0002165413794335494,abund,0.0,6,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,67824,67824,                  Citrobacter farmeri,Citrobacter farmeri,species,0.0002165413794335494,abund,0.0,6,6
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,67825,67825,                  Citrobacter rodentium,Citrobacter rodentium,species,0.0002165413794335494,abund,0.0,6,6
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2894201,2894201,                  Citrobacter meridianamericanus,Citrobacter meridianamericanus,species,0.00018045114952795784,abund,0.0,5,5
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2562449,2562449,                  Citrobacter tructae,Citrobacter tructae,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2546350,2546350,                  Citrobacter arsenatis,Citrobacter arsenatis,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,28901,28901,                  Salmonella enterica,Salmonella enterica,species,0.02021052874713128,abund,0.02,560,113
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,54736,54736,                  Salmonella bongori,Salmonella bongori,species,0.00014436091962236627,abund,0.0,4,4
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,573,573,                      Klebsiella pneumoniae,Klebsiella pneumoniae,species,0.0154105281696876,abund,0.02,427,399
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1463165,1463165,                      Klebsiella quasipneumoniae,Klebsiella quasipneumoniae,species,0.0002165413794335494,abund,0.0,6,4
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,244366,244366,                      Klebsiella variicola,Klebsiella variicola,species,0.00018045114952795784,abund,0.0,5,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,571,571,                    Klebsiella oxytoca,Klebsiella oxytoca,species,0.0004330827588670988,abund,0.0,12,12
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1905288,1905288,                      Klebsiella sp. LTGPAF-6F,Klebsiella sp. LTGPAF-6F,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2697371,2697371,                      Klebsiella sp. MPUS7,Klebsiella sp. MPUS7,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2834819,2834819,                      Klebsiella sp. A52,Klebsiella sp. A52,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2851540,2851540,                      Klebsiella sp. PL-2018,Klebsiella sp. PL-2018,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2873296,2873296,                      Klebsiella sp. CTHL.F3a,Klebsiella sp. CTHL.F3a,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2897413,2897413,                      Klebsiella sp. KPN54798,Klebsiella sp. KPN54798,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,548,548,                    Klebsiella aerogenes,Klebsiella aerogenes,species,0.00025263160933914095,abund,0.0,7,5
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1134687,1134687,                    Klebsiella michiganensis,Klebsiella michiganensis,species,0.0001082706897167747,abund,0.0,3,3
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2153354,2153354,                    Klebsiella huaxiensis,Klebsiella huaxiensis,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2489010,2489010,                    Klebsiella africana,Klebsiella africana,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,54291,54291,                    Raoultella ornithinolytica,Raoultella ornithinolytica,species,0.0015157896560348458,abund,0.0,42,42
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,575,575,                    Raoultella planticola,Raoultella planticola,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,577,577,                    Raoultella terrigena,Raoultella terrigena,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2923366,2923366,                      Raoultella sp. HC6,Raoultella sp. HC6,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,158836,158836,                    Enterobacter hormaechei,Enterobacter hormaechei,species,0.002670677013013776,abund,0.0,74,70
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,61645,61645,                    Enterobacter asburiae,Enterobacter asburiae,species,0.0005774436784894651,abund,0.0,16,16
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1812935,1812935,                    Enterobacter roggenkampii,Enterobacter roggenkampii,species,0.0005413534485838734,abund,0.0,15,15
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2798729,2798729,                      Enterobacter cloacae complex sp. AR_0002,Enterobacter cloacae complex sp. AR_0002,species,0.0001082706897167747,abund,0.0,3,3
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2850493,2850493,                      Enterobacter cloacae complex sp. ECL112,Enterobacter cloacae complex sp. ECL112,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2850078,2850078,                      Enterobacter cloacae complex sp. ECL72,Enterobacter cloacae complex sp. ECL72,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2027919,2027919,                      Enterobacter cloacae complex sp.,Enterobacter cloacae complex sp.,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,550,550,                    Enterobacter cloacae,Enterobacter cloacae,species,0.00025263160933914095,abund,0.0,7,5
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,208224,208224,                    Enterobacter kobei,Enterobacter kobei,species,0.00018045114952795784,abund,0.0,5,5
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2071710,2071710,                    Enterobacter sichuanensis,Enterobacter sichuanensis,species,0.00018045114952795784,abund,0.0,5,5
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,69218,69218,                    Enterobacter cancerogenus,Enterobacter cancerogenus,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,299767,299767,                    Enterobacter ludwigii,Enterobacter ludwigii,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2497875,2497875,                    Enterobacter chuandaensis,Enterobacter chuandaensis,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,881260,881260,                  Enterobacter bugandensis,Enterobacter bugandensis,species,0.002923308622352917,abund,0.0,81,81
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2724468,2724468,                    Enterobacter sp. JUb54,Enterobacter sp. JUb54,species,0.0009744362074509723,abund,0.0,27,27
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2866201,2866201,                    Enterobacter sp. Colony194,Enterobacter sp. Colony194,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,3116479,3116479,                    Enterobacter sp. ECC-175,Enterobacter sp. ECC-175,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2831891,2831891,                    Enterobacter sp. JBIWA005,Enterobacter sp. JBIWA005,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1166130,1166130,                    Enterobacter sp. R4-368,Enterobacter sp. R4-368,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2742676,2742676,                    Enterobacter sp. RHBSTW-00994,Enterobacter sp. RHBSTW-00994,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,3104013,3104013,                    Enterobacter sp. PGRG2,Enterobacter sp. PGRG2,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2705458,2705458,                    Enterobacter sp. SES19,Enterobacter sp. SES19,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2976431,2976431,                    Enterobacter sp. CP102,Enterobacter sp. CP102,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,539813,539813,                  Enterobacter mori,Enterobacter mori,species,0.0002165413794335494,abund,0.0,6,6
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2494702,2494702,                  Enterobacter huaxiensis,Enterobacter huaxiensis,species,0.00014436091962236627,abund,0.0,4,4
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,885040,885040,                  Enterobacter soli,Enterobacter soli,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2996112,2996112,                  Enterobacter pseudoroggenkampii,Enterobacter pseudoroggenkampii,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2579935,2579935,                  Jejubacter calystegiae,Jejubacter calystegiae,species,0.009527820695076173,abund,0.01,264,264
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,283686,283686,                  Kosakonia radicincitans,Kosakonia radicincitans,species,0.00018045114952795784,abund,0.0,5,5
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,3139408,3139408,                  Kosakonia calanthes,Kosakonia calanthes,species,0.00018045114952795784,abund,0.0,5,5
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,208223,208223,                  Kosakonia cowanii,Kosakonia cowanii,species,0.0001082706897167747,abund,0.0,3,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2980557,2980557,                    Kosakonia sp. ML.JS2a,Kosakonia sp. ML.JS2a,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2725560,2725560,                    Kosakonia sp. SMBL-WEM22,Kosakonia sp. SMBL-WEM22,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,497725,497725,                  Kosakonia oryzae,Kosakonia oryzae,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1005665,1005665,                  Kosakonia oryzendophytica,Kosakonia oryzendophytica,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1646340,1646340,                  Kosakonia pseudosacchari,Kosakonia pseudosacchari,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,413503,413503,                  Cronobacter malonaticus,Cronobacter malonaticus,species,0.0003248120691503241,abund,0.0,9,3
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,28141,28141,                  Cronobacter sakazakii,Cronobacter sakazakii,species,0.00014436091962236627,abund,0.0,4,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,413497,413497,                  Cronobacter dublinensis,Cronobacter dublinensis,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1163710,1163710,                  Cronobacter condimenti,Cronobacter condimenti,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,3138178,3138178,                    Leclercia sp. S52,Leclercia sp. S52,species,0.00018045114952795784,abund,0.0,5,5
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2714951,2714951,                    Leclercia sp. 29361,Leclercia sp. 29361,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,83655,83655,                  Leclercia adecarboxylata,Leclercia adecarboxylata,species,0.00014436091962236627,abund,0.0,4,4
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2815358,2815358,                  Leclercia pneumoniae,Leclercia pneumoniae,species,0.00014436091962236627,abund,0.0,4,4
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2986951,2986951,                    Buttiauxella sp. WJP83,Buttiauxella sp. WJP83,species,0.0003969925289615073,abund,0.0,11,11
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,82977,82977,                  Buttiauxella agrestis,Buttiauxella agrestis,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,379893,379893,                  Trabulsiella odontotermitis,Trabulsiella odontotermitis,species,0.0005413534485838734,abund,0.0,15,15
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,580,580,                  Kluyvera cryocrescens,Kluyvera cryocrescens,species,0.0001082706897167747,abund,0.0,3,3
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,61648,61648,                  Kluyvera intermedia,Kluyvera intermedia,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,51288,51288,                  Kluyvera ascorbata,Kluyvera ascorbata,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2725494,2725494,                  Kluyvera sichuanensis,Kluyvera sichuanensis,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,158822,158822,                  Cedecea neteri,Cedecea neteri,species,0.00028872183924473255,abund,0.0,8,8
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,158484,158484,                  Cedecea davisae,Cedecea davisae,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,3031919,3031919,                    Superficieibacter sp. HKU1,Superficieibacter sp. HKU1,species,0.00018045114952795784,abund,0.0,5,5
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,3376142,3376142,                    Superficieibacter sp. BNK-5,Superficieibacter sp. BNK-5,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1334193,1334193,                  [Enterobacter] lignolyticus,[Enterobacter] lignolyticus,species,0.00025263160933914095,abund,0.0,7,7
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,61647,61647,                  Pluralibacter gergoviae,Pluralibacter gergoviae,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,563,563,                  Shimwellia blattae,Shimwellia blattae,species,0.00028872183924473255,abund,0.0,8,8
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1398493,1398493,                  Pseudocitrobacter faecalis,Pseudocitrobacter faecalis,species,0.00014436091962236627,abund,0.0,4,4
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2891570,2891570,                  Pseudocitrobacter corydidari,Pseudocitrobacter corydidari,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,158877,158877,                  Yokenella regensburgei,Yokenella regensburgei,species,0.00014436091962236627,abund,0.0,4,4
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1972431,1972431,                  Phytobacter ursingii,Phytobacter ursingii,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,703,703,                  Plesiomonas shigelloides,Plesiomonas shigelloides,species,0.0001082706897167747,abund,0.0,3,3
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,255519,255519,                  Atlantibacter subterranea,Atlantibacter subterranea,species,0.0001082706897167747,abund,0.0,3,3
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2047724,2047724,                  Franconibacter daqui,Franconibacter daqui,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1505757,1505757,                  Siccibacter colletis,Siccibacter colletis,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,61646,61646,                  Lelliottia amnigena,Lelliottia amnigena,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1691903,1691903,                  Mangrovibacter phragmitis,Mangrovibacter phragmitis,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1851514,1851514,                  Scandinavium goeteborgense,Scandinavium goeteborgense,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,566,566,                  Pseudescherichia vulneris,Pseudescherichia vulneris,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1615494,1615494,                  Mixta intestinalis,Mixta intestinalis,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2893890,2893890,                    Pseudomonas sp. KNUC1026,Pseudomonas sp. KNUC1026,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,287,287,                    Pseudomonas aeruginosa,Pseudomonas aeruginosa,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,485447,485447,                  Thalassomonas actiniarum,Thalassomonas actiniarum,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,147268,147268,                  Thiomicrospira cyclica,Thiomicrospira cyclica,species,3.609022990559157e-05,abund,0.0,1,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,3038924,3038924,                    Methylobacterium sp. 391_Methyba4,Methylobacterium sp. 391_Methyba4,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2051553,2051553,                  Methylobacterium currus,Methylobacterium currus,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,418223,418223,                  Methylobacterium phyllosphaerae,Methylobacterium phyllosphaerae,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1125847,1125847,                    Pseudorhizobium banfieldiae,Pseudorhizobium banfieldiae,species,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,400770,400770,                  Devosia ginsengisoli,Devosia ginsengisoli,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,988779,988779,                  Candidatus Megaera polyxenophila,Candidatus Megaera polyxenophila,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1564506,1564506,                    Rhodovulum sp. P5,Rhodovulum sp. P5,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,576610,576610,                  Polynucleobacter necessarius,Polynucleobacter necessarius,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,239935,239935,                    Akkermansia muciniphila,Akkermansia muciniphila,species,2.034839342537064,abund,2.03,56382,56134
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,3040764,3040764,                      Akkermansia sp. N21116,Akkermansia sp. N21116,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,3115152,3115152,                      Akkermansia sp. RCC_12PD,Akkermansia sp. RCC_12PD,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2927224,2927224,                    Akkermansia massiliensis,Akkermansia massiliensis,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,851,851,                  Fusobacterium nucleatum,Fusobacterium nucleatum,species,3.260788362200104,abund,3.26,90351,85324
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,76859,76859,                  Fusobacterium animalis,Fusobacterium animalis,species,1.8810227826794326,abund,1.88,52120,47487
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,76857,76857,                  Fusobacterium polymorphum,Fusobacterium polymorphum,species,0.06200301497780632,abund,0.06,1718,1710
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,155615,155615,                  Fusobacterium vincentii,Fusobacterium vincentii,species,0.006640602302628848,abund,0.01,184,153
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2663009,2663009,                  Fusobacterium pseudoperiodonticum,Fusobacterium pseudoperiodonticum,species,0.004042105749426255,abund,0.0,112,112
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1583098,1583098,                  Fusobacterium hwasookii,Fusobacterium hwasookii,species,0.002815037932636142,abund,0.0,78,11
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,285729,285729,                  Fusobacterium canifelinum,Fusobacterium canifelinum,species,0.0024902258634858184,abund,0.0,69,69
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,859,859,                  Fusobacterium necrophorum,Fusobacterium necrophorum,species,0.00018045114952795784,abund,0.0,5,5
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,671211,671211,                    Fusobacterium sp. oral taxon 203,Fusobacterium sp. oral taxon 203,species,0.0001082706897167747,abund,0.0,3,3
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,861,861,                  Fusobacterium ulcerans,Fusobacterium ulcerans,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,5476,5476,                            Candida albicans,Candida albicans,species,0.22541957599032494,abund,0.23,6246,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,4959,4959,                          Debaryomyces hansenii,Debaryomyces hansenii,species,0.0001082706897167747,abund,0.0,3,3
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,498019,498019,                          Candidozyma auris,Candidozyma auris,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,4932,4932,                          Saccharomyces cerevisiae,Saccharomyces cerevisiae,species,0.19275791792576458,abund,0.19,5341,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,27291,27291,                          Saccharomyces paradoxus,Saccharomyces paradoxus,species,0.00025263160933914095,abund,0.0,7,7
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,114524,114524,                          Saccharomyces kudriavzevii,Saccharomyces kudriavzevii,species,0.0001082706897167747,abund,0.0,3,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1328300,1328300,                                  Fusarium keratoplasticum,Fusarium keratoplasticum,species,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2173,2173,                    Methanobrevibacter smithii,Methanobrevibacter smithii,species,0.055759405204138975,abund,0.06,1545,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,10677,10677,              Muvirus mu,Muvirus mu,species,0.0001082706897167747,abund,0.0,3,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,216851,216851,                Faecalibacterium,Faecalibacterium,genus,19.650805371525458,abund,19.65,544491,4043
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2892396,2892396,                Vescimonas,Vescimonas,genus,0.0002165413794335494,abund,0.0,6,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2842531,2842531,                Solibaculum,Solibaculum,genus,3.609022990559157e-05,abund,0.0,1,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1485,1485,                Clostridium,Clostridium,genus,0.00014436091962236627,abund,0.0,4,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2717089,2717089,                Massilistercora,Massilistercora,genus,3.609022990559157e-05,abund,0.0,1,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,841,841,                Roseburia,Roseburia,genus,5.7851555831766115,abund,5.79,160297,38
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1766253,1766253,                Agathobacter,Agathobacter,genus,0.0026345867831081846,abund,0.0,73,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2719313,2719313,                Enterocloster,Enterocloster,genus,0.0011187971270733385,abund,0.0,31,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2163168,2163168,                Kineothrix,Kineothrix,genus,0.0006496241383006482,abund,0.0,18,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2316020,2316020,                Mediterraneibacter,Mediterraneibacter,genus,0.0004691729887726904,abund,0.0,13,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,572511,572511,                Blautia,Blautia,genus,0.0004691729887726904,abund,0.0,13,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,3342669,3342669,                Eshraghiella,Eshraghiella,genus,0.00018045114952795784,abund,0.0,5,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,207244,207244,                Anaerostipes,Anaerostipes,genus,0.00014436091962236627,abund,0.0,4,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,189330,189330,                Dorea,Dorea,genus,7.218045981118314e-05,abund,0.0,2,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2944152,2944152,                Wujia,Wujia,genus,7.218045981118314e-05,abund,0.0,2,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,830,830,                Butyrivibrio,Butyrivibrio,genus,3.609022990559157e-05,abund,0.0,1,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,3076670,3076670,                Claveliimonas,Claveliimonas,genus,3.609022990559157e-05,abund,0.0,1,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,33042,33042,                Coprococcus,Coprococcus,genus,3.609022990559157e-05,abund,0.0,1,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1870884,1870884,                Clostridioides,Clostridioides,genus,2.6950379182000503,abund,2.7,74675,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1257,1257,                Peptostreptococcus,Peptostreptococcus,genus,3.609022990559157e-05,abund,0.0,1,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1926556,1926556,                Emergencia,Emergencia,genus,3.609022990559157e-05,abund,0.0,1,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,29465,29465,                Veillonella,Veillonella,genus,16.78397795897479,abund,16.78,465056,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2742598,2742598,                Limosilactobacillus,Limosilactobacillus,genus,1.0555670442787422,abund,1.06,29248,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2767880,2767880,                Dellaglioa,Dellaglioa,genus,3.609022990559157e-05,abund,0.0,1,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1301,1301,                Streptococcus,Streptococcus,genus,0.006604512072723257,abund,0.01,183,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1350,1350,                Enterococcus,Enterococcus,genus,0.004042105749426255,abund,0.0,112,3
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1386,1386,                Bacillus,Bacillus,genus,0.0028511281625417336,abund,0.0,79,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1279,1279,                Staphylococcus,Staphylococcus,genus,7.218045981118314e-05,abund,0.0,2,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1378,1378,                Gemella,Gemella,genus,7.218045981118314e-05,abund,0.0,2,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,44249,44249,                Paenibacillus,Paenibacillus,genus,3.609022990559157e-05,abund,0.0,1,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,3025755,3025755,                Thomasclavelia,Thomasclavelia,genus,0.0001082706897167747,abund,0.0,3,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1678,1678,                Bifidobacterium,Bifidobacterium,genus,2.0549416005944785,abund,2.05,56939,21991
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1654,1654,                Actinomyces,Actinomyces,genus,0.009166918396020258,abund,0.01,254,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2132,2132,                Spiroplasma,Spiroplasma,genus,0.005449624715744327,abund,0.01,151,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,816,816,                    Bacteroides,Bacteroides,genus,19.715045980757413,abund,19.72,546271,579
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,909656,909656,                    Phocaeicola,Phocaeicola,genus,0.0005413534485838734,abund,0.0,15,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,838,838,                    Prevotella,Prevotella,genus,7.744818976820328,abund,7.74,214596,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2974251,2974251,                    Segatella,Segatella,genus,0.0001082706897167747,abund,0.0,3,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,375288,375288,                    Parabacteroides,Parabacteroides,genus,0.01587970115846029,abund,0.02,440,34
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,239759,239759,                    Alistipes,Alistipes,genus,0.0004691729887726904,abund,0.0,13,4
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1647173,1647173,                    Acetobacteroides,Acetobacteroides,genus,3.609022990559157e-05,abund,0.0,1,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2518497,2518497,                    Paramuribaculum,Paramuribaculum,genus,3.609022990559157e-05,abund,0.0,1,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2815786,2815786,                    Sodaliphilus,Sodaliphilus,genus,3.609022990559157e-05,abund,0.0,1,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,574697,574697,                    Butyricimonas,Butyricimonas,genus,3.609022990559157e-05,abund,0.0,1,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,397864,397864,                    Barnesiella,Barnesiella,genus,3.609022990559157e-05,abund,0.0,1,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,52959,52959,                    Polaribacter,Polaribacter,genus,3.609022990559157e-05,abund,0.0,1,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,79328,79328,                    Chitinophaga,Chitinophaga,genus,3.609022990559157e-05,abund,0.0,1,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,561,561,                Escherichia,Escherichia,genus,15.855520704423542,abund,15.86,439330,5939
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,620,620,                Shigella,Shigella,genus,0.05579549543404456,abund,0.06,1546,68
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,544,544,                Citrobacter,Citrobacter,genus,0.03089323679918638,abund,0.03,856,585
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,590,590,                Salmonella,Salmonella,genus,0.02331428851901215,abund,0.02,646,82
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,570,570,                  Klebsiella,Klebsiella,genus,0.019272182769585897,abund,0.02,534,57
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,160674,160674,                  Raoultella,Raoultella,genus,0.0018766919550907617,abund,0.0,52,5
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,547,547,                Enterobacter,Enterobacter,genus,0.011909775868845217,abund,0.01,330,53
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2815296,2815296,                Jejubacter,Jejubacter,genus,0.009527820695076173,abund,0.01,264,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1330547,1330547,                Kosakonia,Kosakonia,genus,0.000830075287828606,abund,0.0,23,4
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,413496,413496,                Cronobacter,Cronobacter,genus,0.0007218045981118314,abund,0.0,20,5
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,83654,83654,                Leclercia,Leclercia,genus,0.0006857143682062398,abund,0.0,19,5
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,82976,82976,                Buttiauxella,Buttiauxella,genus,0.0005413534485838734,abund,0.0,15,3
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,158851,158851,                Trabulsiella,Trabulsiella,genus,0.0005413534485838734,abund,0.0,15,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,579,579,                Kluyvera,Kluyvera,genus,0.0004691729887726904,abund,0.0,13,6
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,158483,158483,                Cedecea,Cedecea,genus,0.0003609022990559157,abund,0.0,10,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2303321,2303321,                Superficieibacter,Superficieibacter,genus,0.0003248120691503241,abund,0.0,9,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1330546,1330546,                Pluralibacter,Pluralibacter,genus,0.00028872183924473255,abund,0.0,8,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1335483,1335483,                Shimwellia,Shimwellia,genus,0.00028872183924473255,abund,0.0,8,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1504576,1504576,                Pseudocitrobacter,Pseudocitrobacter,genus,0.00028872183924473255,abund,0.0,8,3
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,158876,158876,                Yokenella,Yokenella,genus,0.00014436091962236627,abund,0.0,4,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,447792,447792,                Phytobacter,Phytobacter,genus,0.0001082706897167747,abund,0.0,3,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,702,702,                Plesiomonas,Plesiomonas,genus,0.0001082706897167747,abund,0.0,3,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1903434,1903434,                Atlantibacter,Atlantibacter,genus,0.0001082706897167747,abund,0.0,3,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1649295,1649295,                Franconibacter,Franconibacter,genus,7.218045981118314e-05,abund,0.0,2,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1649298,1649298,                Siccibacter,Siccibacter,genus,7.218045981118314e-05,abund,0.0,2,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1330545,1330545,                Lelliottia,Lelliottia,genus,7.218045981118314e-05,abund,0.0,2,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,451512,451512,                Mangrovibacter,Mangrovibacter,genus,7.218045981118314e-05,abund,0.0,2,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2726810,2726810,                Scandinavium,Scandinavium,genus,7.218045981118314e-05,abund,0.0,2,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,568987,568987,                      Candidatus Hamiltonella,Candidatus Hamiltonella,genus,7.218045981118314e-05,abund,0.0,2,2
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2055880,2055880,                Pseudescherichia,Pseudescherichia,genus,3.609022990559157e-05,abund,0.0,1,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2100764,2100764,                Mixta,Mixta,genus,3.609022990559157e-05,abund,0.0,1,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,286,286,                Pseudomonas,Pseudomonas,genus,0.0001082706897167747,abund,0.0,3,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,137583,137583,                Thalassomonas,Thalassomonas,genus,3.609022990559157e-05,abund,0.0,1,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,22,22,                Shewanella,Shewanella,genus,3.609022990559157e-05,abund,0.0,1,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,933,933,                Thiomicrospira,Thiomicrospira,genus,3.609022990559157e-05,abund,0.0,1,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,407,407,                Methylobacterium,Methylobacterium,genus,0.00014436091962236627,abund,0.0,4,1
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1903858,1903858,                  Pseudorhizobium,Pseudorhizobium,genus,7.218045981118314e-05,abund,0.0,2,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,46913,46913,                Devosia,Devosia,genus,3.609022990559157e-05,abund,0.0,1,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1742636,1742636,                Candidatus Megaera,Candidatus Megaera,genus,3.609022990559157e-05,abund,0.0,1,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,34008,34008,                Rhodovulum,Rhodovulum,genus,3.609022990559157e-05,abund,0.0,1,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,44013,44013,                Polynucleobacter,Polynucleobacter,genus,3.609022990559157e-05,abund,0.0,1,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,239934,239934,                  Akkermansia,Akkermansia,genus,2.0367160344921547,abund,2.04,56434,49
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,848,848,                Fusobacterium,Fusobacterium,genus,5.2530773236784745,abund,5.25,145554,913
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,5475,5475,                          Candida,Candida,genus,0.22541957599032494,abund,0.23,6246,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,4958,4958,                        Debaryomyces,Debaryomyces,genus,0.0001082706897167747,abund,0.0,3,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,3303203,3303203,                        Candidozyma,Candidozyma,genus,3.609022990559157e-05,abund,0.0,1,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,4930,4930,                        Saccharomyces,Saccharomyces,genus,0.1931188202248205,abund,0.19,5351,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,5506,5506,                              Fusarium,Fusarium,genus,3.609022990559157e-05,abund,0.0,1,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2172,2172,                  Methanobrevibacter,Methanobrevibacter,genus,0.055759405204138975,abund,0.06,1545,0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,186777,186777,            Muvirus,Muvirus,genus,0.0001082706897167747,abund,0.0,3,0

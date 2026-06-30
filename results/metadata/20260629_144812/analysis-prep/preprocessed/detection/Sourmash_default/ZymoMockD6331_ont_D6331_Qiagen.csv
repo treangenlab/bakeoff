@@ -1,0 +1,74 @@
+tool,db,tool_db,data_type,project,technology,sample,taxid_raw,taxid,name_raw,name,rank,value,value_type,abundance_raw,clade_reads,direct_reads
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,550,Enterobacter cloacae,Enterobacter cloacae,species,0.016413722882380046,abund,0.02,203000,203000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,562,Escherichia coli,Escherichia coli,species,16.854225159538696,abund,16.85,208448000,208448000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,573,Klebsiella pneumoniae,Klebsiella pneumoniae,species,1.2078236079654834,abund,1.21,14938000,14938000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,817,Bacteroides fragilis,Bacteroides fragilis,species,18.69862630569619,abund,18.7,231259000,231259000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,820,Bacteroides uniformis,Bacteroides uniformis,species,0.043662119982685835,abund,0.04,540000,540000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,821,Phocaeicola vulgatus,Phocaeicola vulgatus,species,0.0479474762032087,abund,0.05,593000,593000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,823,Parabacteroides distasonis,Parabacteroides distasonis,species,0.01835426154827719,abund,0.02,227000,227000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,851,Fusobacterium nucleatum,Fusobacterium nucleatum,species,3.992173170416908,abund,3.99,49374000,49374000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,853,Faecalibacterium prausnitzii,Faecalibacterium prausnitzii,species,0.19324530881225768,abund,0.19,2390000,2390000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,1352,Enterococcus faecium,Enterococcus faecium,species,0.00574076021994573,abund,0.01,71000,71000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,1496,Clostridioides difficile,Clostridioides difficile,species,1.681153330888896,abund,1.68,20792000,20792000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,1613,Limosilactobacillus fermentum,Limosilactobacillus fermentum,species,1.2814832214918292,abund,1.28,15849000,15849000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,1680,Bifidobacterium adolescentis,Bifidobacterium adolescentis,species,0.1331694659471918,abund,0.13,1647000,1647000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,2173,Methanobrevibacter smithii,Methanobrevibacter smithii,species,0.044794100871125835,abund,0.04,554000,554000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,4932,Saccharomyces cerevisiae,Saccharomyces cerevisiae,species,0.2924553481062494,abund,0.29,3617000,3617000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,5476,Candida albicans,Candida albicans,species,0.334257704345006,abund,0.33,4133999,4133999
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,28116,Bacteroides ovatus,Bacteroides ovatus,species,0.060318410198303016,abund,0.06,746000,746000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,28128,Prevotella corporis,Prevotella corporis,species,5.435448803177912,abund,5.44,67224000,67224000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,28901,Salmonella enterica,Salmonella enterica,species,0.0468154953147687,abund,0.05,579000,579000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,29466,Veillonella parvula,Veillonella parvula,species,0.029027224210711508,abund,0.03,359000,359000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,33038,[Ruminococcus] gnavus,[Ruminococcus] gnavus,species,0.011562376217637175,abund,0.01,143000,143000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,46503,Parabacteroides merdae,Parabacteroides merdae,species,0.06856569952836591,abund,0.07,848000,848000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,46506,Bacteroides stercoris,Bacteroides stercoris,species,0.028865512655220082,abund,0.03,357000,357000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,96241,Bacillus spizizenii,Bacillus spizizenii,species,0.008813279774282881,abund,0.01,109000,109000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,158836,Enterobacter hormaechei,Enterobacter hormaechei,species,0.00808557777457145,abund,0.01,100000,100000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,159268,uncultured Veillonella sp.,uncultured Veillonella sp.,species,0.44050227715865264,abund,0.44,5448000,5448000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,159272,uncultured Prevotella sp.,uncultured Prevotella sp.,species,0.31194159054296655,abund,0.31,3858000,3858000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,172733,uncultured Eubacteriales bacterium,uncultured Eubacteriales bacterium,species,0.005255625553471443,abund,0.01,65000,65000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,214856,Alistipes finegoldii,Alistipes finegoldii,species,0.013422059105788609,abund,0.01,166000,166000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,216816,Bifidobacterium longum,Bifidobacterium longum,species,0.014634895771974325,abund,0.01,181000,181000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,239935,Akkermansia muciniphila,Akkermansia muciniphila,species,1.7875595344022566,abund,1.79,22108000,22108000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,301301,Roseburia hominis,Roseburia hominis,species,1.264260940831992,abund,1.26,15636000,15636000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,371601,Bacteroides xylanisolvens,Bacteroides xylanisolvens,species,0.00897499132977431,abund,0.01,111000,111000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,423477,Veillonella rogosae,Veillonella rogosae,species,8.713503663688892,abund,8.71,107765999,107765999
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,671228,Veillonella sp. oral taxon 158,Veillonella sp. oral taxon 158,species,1.2287652544016234,abund,1.23,15197000,15197000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,674529,Bacteroides faecis,Bacteroides faecis,species,0.23545202479552063,abund,0.24,2912000,2912000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,707003,uncultured Oscillospiraceae bacterium,uncultured Oscillospiraceae bacterium,species,0.005498192886708587,abund,0.01,68000,68000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,1297617,Intestinimonas butyriciproducens,Intestinimonas butyriciproducens,species,0.007681298885842879,abund,0.01,95000,95000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,1702170,Citrobacter sp. FDAARGOS_156,Citrobacter sp. FDAARGOS_156,species,0.005417337108962872,abund,0.01,67000,67000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,1926307,Veillonella sp.,Veillonella sp.,species,1.4586382305326897,abund,1.46,18040000,18040000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,2027456,Veillonella sp. S13053-19,Veillonella sp. S13053-19,species,2.4232476590390637,abund,2.42,29970000,29970000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,2292234,Faecalibacterium sp. AF28-13AC,Faecalibacterium sp. AF28-13AC,species,5.7577399332723305,abund,5.76,71210000,71210000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,2487150,Metakosakonia sp. MRY16-398,Metakosakonia sp. MRY16-398,species,0.007438731552605735,abund,0.01,92000,92000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,2742625,Citrobacter sp. RHB35-C17,Citrobacter sp. RHB35-C17,species,0.006711029552894304,abund,0.01,83000,83000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,2758403,Faecalibacterium sp. Marseille-Q3530,Faecalibacterium sp. Marseille-Q3530,species,0.11150011751134031,abund,0.11,1379000,1379000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,2787105,Clostridium sp. 1001271B_150615_H5,Clostridium sp. 1001271B_150615_H5,species,0.014796607327465756,abund,0.01,183000,183000
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,544,Citrobacter,Citrobacter,genus,0.012128366661857177,abund,0.01,150000,0
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,547,Enterobacter,Enterobacter,genus,0.024499300656951495,abund,0.02,303000,0
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,561,Escherichia,Escherichia,genus,16.854225159538696,abund,16.85,208448000,0
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,570,Klebsiella,Klebsiella,genus,1.2078236079654834,abund,1.21,14938000,0
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,590,Salmonella,Salmonella,genus,0.0468154953147687,abund,0.05,579000,0
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,816,Bacteroides,Bacteroides,genus,19.075899364657694,abund,19.08,235925000,0
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,838,Prevotella,Prevotella,genus,5.747390312865101,abund,5.75,71081999,0
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,841,Roseburia,Roseburia,genus,1.264260940831992,abund,1.26,15636000,0
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,848,Fusobacterium,Fusobacterium,genus,3.992173170416908,abund,3.99,49374000,0
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,1350,Enterococcus,Enterococcus,genus,0.00574076021994573,abund,0.01,71000,0
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,1386,Bacillus,Bacillus,genus,0.008813279774282881,abund,0.01,109000,0
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,1485,Clostridium,Clostridium,genus,0.014796607327465756,abund,0.01,183000,0
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,1678,Bifidobacterium,Bifidobacterium,genus,0.14780428086338837,abund,0.15,1827999,0
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,2172,Methanobrevibacter,Methanobrevibacter,genus,0.044794100871125835,abund,0.04,554000,0
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,4930,Saccharomyces,Saccharomyces,genus,0.2924553481062494,abund,0.29,3617000,0
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,5475,Candida,Candida,genus,0.334257704345006,abund,0.33,4133999,0
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,29465,Veillonella,Veillonella,genus,14.293684389887412,abund,14.29,176780000,0
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,216851,Faecalibacterium,Faecalibacterium,genus,6.062485359595928,abund,6.06,74979000,0
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,239759,Alistipes,Alistipes,genus,0.013422059105788609,abund,0.01,166000,0
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,239934,Akkermansia,Akkermansia,genus,1.7875595344022566,abund,1.79,22108000,0
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,375288,Parabacteroides,Parabacteroides,genus,0.0869199610766431,abund,0.09,1075000,0
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,909656,Phocaeicola,Phocaeicola,genus,0.0479474762032087,abund,0.05,593000,0
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,1392389,Intestinimonas,Intestinimonas,genus,0.007681298885842879,abund,0.01,95000,0
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,1870884,Clostridioides,Clostridioides,genus,1.681153330888896,abund,1.68,20792000,0
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,2055876,Metakosakonia,Metakosakonia,genus,0.007438731552605735,abund,0.01,92000,0
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,2316020,Mediterraneibacter,Mediterraneibacter,genus,0.011562376217637175,abund,0.01,143000,0
+Sourmash,default,Sourmash_default,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,0,2742598,Limosilactobacillus,Limosilactobacillus,genus,1.2814832214918292,abund,1.28,15849000,0

@@ -1,0 +1,196 @@
+tool,db,tool_db,data_type,project,technology,sample,taxid_raw,taxid,name_raw,name,rank,value,value_type,abundance_raw,clade_reads,direct_reads
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,199,Campylobacter concisus,Campylobacter concisus,species,0.4256372659580638,abund,0.43,43892000,43892000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,726,Haemophilus haemolyticus,Haemophilus haemolyticus,species,0.5141161229015639,abund,0.51,53015999,53015999
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,727,Haemophilus influenzae,Haemophilus influenzae,species,0.37439632653123406,abund,0.37,38608000,38608000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,729,Haemophilus parainfluenzae,Haemophilus parainfluenzae,species,0.538563219710038,abund,0.54,55537000,55537000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,732,Aggregatibacter aphrophilus,Aggregatibacter aphrophilus,species,0.5624575563390517,abund,0.56,58001000,58001000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,735,Haemophilus parahaemolyticus,Haemophilus parahaemolyticus,species,0.472834399226493,abund,0.47,48759000,48759000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,818,Bacteroides thetaiotaomicron,Bacteroides thetaiotaomicron,species,1.7165811681756733,abund,1.72,177015000,177015000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,820,Bacteroides uniformis,Bacteroides uniformis,species,1.1342245847842383,abund,1.13,116961999,116961999
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,821,Phocaeicola vulgatus,Phocaeicola vulgatus,species,0.765336378017459,abund,0.77,78922000,78922000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,823,Parabacteroides distasonis,Parabacteroides distasonis,species,0.5593253036072451,abund,0.56,57678000,57678000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,851,Fusobacterium nucleatum,Fusobacterium nucleatum,species,0.5199054665954996,abund,0.52,53613000,53613000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,853,Faecalibacterium prausnitzii,Faecalibacterium prausnitzii,species,0.26413715142089084,abund,0.26,27238000,27238000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1255,Pediococcus pentosaceus,Pediococcus pentosaceus,species,0.42011945851410726,abund,0.42,43323000,43323000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1302,Streptococcus gordonii,Streptococcus gordonii,species,0.5131076054035604,abund,0.51,52912000,52912000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1303,Streptococcus oralis,Streptococcus oralis,species,0.45794892571775275,abund,0.46,47224000,47224000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1304,Streptococcus salivarius,Streptococcus salivarius,species,0.6381164907463427,abund,0.64,65803000,65803000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1305,Streptococcus sanguinis,Streptococcus sanguinis,species,0.6094413473161505,abund,0.61,62846000,62846000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1308,Streptococcus thermophilus,Streptococcus thermophilus,species,0.419275786725664,abund,0.42,43236000,43236000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1318,Streptococcus parasanguinis,Streptococcus parasanguinis,species,0.35546704686409336,abund,0.36,36656000,36656000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1328,Streptococcus anginosus,Streptococcus anginosus,species,0.413942229442402,abund,0.41,42686000,42686000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1338,Streptococcus intermedius,Streptococcus intermedius,species,0.4663565514715494,abund,0.47,48091000,48091000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1343,Streptococcus vestibularis,Streptococcus vestibularis,species,0.33122360466744794,abund,0.33,34156000,34156000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1522,[Clostridium] innocuum,[Clostridium] innocuum,species,1.1531150846412412,abund,1.15,118910000,118910000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1580,Levilactobacillus brevis,Levilactobacillus brevis,species,0.5818426127194893,abund,0.58,60000000,60000000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1590,Lactiplantibacillus plantarum,Lactiplantibacillus plantarum,species,0.7666067343885631,abund,0.77,79053000,79053000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1597,Lacticaseibacillus paracasei,Lacticaseibacillus paracasei,species,0.6928581832263678,abund,0.69,71448000,71448000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1655,Actinomyces naeslundii,Actinomyces naeslundii,species,0.6531183327776268,abund,0.65,67350000,67350000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1660,Schaalia odontolytica,Schaalia odontolytica,species,0.5682081008280959,abund,0.57,58594000,58594000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1680,Bifidobacterium adolescentis,Bifidobacterium adolescentis,species,0.14232840044806574,abund,0.14,14677000,14677000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2047,Rothia dentocariosa,Rothia dentocariosa,species,0.5857700503553459,abund,0.59,60405000,60405000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2702,Gardnerella vaginalis,Gardnerella vaginalis,species,0.3987852293810593,abund,0.4,41123000,41123000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,28037,Streptococcus mitis,Streptococcus mitis,species,0.40784257938572605,abund,0.41,42057000,42057000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,28111,Bacteroides eggerthii,Bacteroides eggerthii,species,0.9439523627454636,abund,0.94,97341000,97341000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,28116,Bacteroides ovatus,Bacteroides ovatus,species,0.7166361513328376,abund,0.72,73900000,73900000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,28117,Alistipes putredinis,Alistipes putredinis,species,0.5703609184951581,abund,0.57,58816000,58816000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,28118,Odoribacter splanchnicus,Odoribacter splanchnicus,species,1.0173130188325126,abund,1.02,104906000,104906000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,28125,Prevotella bivia,Prevotella bivia,species,0.5403766291863471,abund,0.54,55724000,55724000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,28128,Prevotella corporis,Prevotella corporis,species,0.6944194609038319,abund,0.69,71609000,71609000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,29347,[Clostridium] scindens,[Clostridium] scindens,species,0.02739507998483241,abund,0.03,2824999,2824999
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,29466,Veillonella parvula,Veillonella parvula,species,0.6469895905903148,abund,0.65,66718000,66718000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,33031,Peptoniphilus lacrimalis,Peptoniphilus lacrimalis,species,0.38447190110815993,abund,0.38,39647000,39647000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,33039,[Ruminococcus] torques,[Ruminococcus] torques,species,0.6314253007000684,abund,0.63,65113000,65113000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,39485,Lachnospira eligens,Lachnospira eligens,species,0.503555689178082,abund,0.5,51927000,51927000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,39486,Dorea formicigenerans,Dorea formicigenerans,species,0.637486151551853,abund,0.64,65737999,65737999
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,39488,Anaerobutyricum hallii,Anaerobutyricum hallii,species,0.8962606535588459,abund,0.9,92422999,92422999
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,39490,Eubacterium ramulus,Eubacterium ramulus,species,0.7936527185031408,abund,0.79,81842000,81842000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,39491,Agathobacter rectalis,Agathobacter rectalis,species,0.7956794702707803,abund,0.8,82051000,82051000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,39496,Eubacterium ventriosum,Eubacterium ventriosum,species,0.660459247074771,abund,0.66,68107000,68107000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,39777,Veillonella atypica,Veillonella atypica,species,0.49911429056765666,abund,0.5,51469000,51469000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,40520,Blautia obeum,Blautia obeum,species,0.8602349081520075,abund,0.86,88708000,88708000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,40545,Sutterella wadsworthensis,Sutterella wadsworthensis,species,0.7081509465640118,abund,0.71,73025000,73025000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,43675,Rothia mucilaginosa,Rothia mucilaginosa,species,0.5117499726405482,abund,0.51,52772000,52772000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,45851,Eshraghiella crossota,Eshraghiella crossota,species,0.557259762332091,abund,0.56,57465000,57465000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,46503,Parabacteroides merdae,Parabacteroides merdae,species,0.9501101970634115,abund,0.95,97976000,97976000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,46506,Bacteroides stercoris,Bacteroides stercoris,species,0.840394075058273,abund,0.84,86662000,86662000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,47678,Bacteroides caccae,Bacteroides caccae,species,1.222170105394166,abund,1.22,126031000,126031000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,74426,Collinsella aerofaciens,Collinsella aerofaciens,species,0.5612647789829767,abund,0.56,57878000,57878000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,84112,Eggerthella lenta,Eggerthella lenta,species,0.8081018003549646,abund,0.81,83331999,83331999
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,84135,Gemella sanguinis,Gemella sanguinis,species,0.4281682813233935,abund,0.43,44153000,44153000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,88431,Dorea longicatena,Dorea longicatena,species,0.6564542304238852,abund,0.66,67694000,67694000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,89014,Blautia luti,Blautia luti,species,0.7638526793550242,abund,0.76,78769000,78769000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,113107,Streptococcus australis,Streptococcus australis,species,0.5554463528557818,abund,0.56,57278000,57278000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,114527,Mogibacterium diversum,Mogibacterium diversum,species,0.4216807361915712,abund,0.42,43484000,43484000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,116090,Caloranaerobacter azorensis,Caloranaerobacter azorensis,species,0.6085879781508285,abund,0.61,62758000,62758000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,154046,Hungatella hathewayi,Hungatella hathewayi,species,1.7387299672691519,abund,1.74,179298999,179298999
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,154288,Turicibacter sanguinis,Turicibacter sanguinis,species,0.7354781546080704,abund,0.74,75843000,75843000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,166486,Roseburia intestinalis,Roseburia intestinalis,species,1.1879092728818668,abund,1.19,122498000,122498000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,169435,Anaerotruncus colihominis,Anaerotruncus colihominis,species,0.8052507812500159,abund,0.81,83038000,83038000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,214856,Alistipes finegoldii,Alistipes finegoldii,species,1.0362326011227747,abund,1.04,106857000,106857000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,216816,Bifidobacterium longum,Bifidobacterium longum,species,0.37068223118670796,abund,0.37,38225000,38225000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,249188,Haemophilus pittmaniae,Haemophilus pittmaniae,species,0.5026926129385046,abund,0.5,51837999,51837999
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,261299,Intestinibacter bartlettii,Intestinibacter bartlettii,species,0.6909090104737576,abund,0.69,71247000,71247000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,292800,Flavonifractor plautii,Flavonifractor plautii,species,0.9971036854173889,abund,1.0,102822000,102822000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,301301,Roseburia hominis,Roseburia hominis,species,0.8372230328189518,abund,0.84,86335000,86335000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,301302,Roseburia faecis,Roseburia faecis,species,0.7354781546080704,abund,0.74,75843000,75843000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,328812,Parabacteroides goldsteinii,Parabacteroides goldsteinii,species,1.8991827748008066,abund,1.9,195845000,195845000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,328813,Alistipes onderdonkii,Alistipes onderdonkii,species,0.7688662232012905,abund,0.77,79286000,79286000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,342942,Mediterraneibacter glycyrrhizinilyticus,Mediterraneibacter glycyrrhizinilyticus,species,0.7483756658566858,abund,0.75,77173000,77173000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,357276,Phocaeicola dorei,Phocaeicola dorei,species,1.6883521040818996,abund,1.69,174104000,174104000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,371601,Bacteroides xylanisolvens,Bacteroides xylanisolvens,species,1.1541720987210151,abund,1.15,119019000,119019000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,387661,Parabacteroides johnsonii,Parabacteroides johnsonii,species,1.232895404221962,abund,1.23,127137000,127137000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,410072,Coprococcus comes,Coprococcus comes,species,0.7679546697746966,abund,0.77,79192000,79192000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,411483,Faecalibacterium duncaniae,Faecalibacterium duncaniae,species,1.6940250695559145,abund,1.69,174689000,174689000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,411486,Clostridium sp. M62/1,Clostridium sp. M62/1,species,0.9756918772693116,abund,0.98,100614000,100614000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,418240,Blautia wexlerae,Blautia wexlerae,species,1.401629761910614,abund,1.4,144537000,144537000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,423477,Veillonella rogosae,Veillonella rogosae,species,0.5979887452224552,abund,0.6,61665000,61665000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,454154,Paraprevotella clara,Paraprevotella clara,species,0.9460663909050111,abund,0.95,97559000,97559000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,487174,Barnesiella intestinihominis,Barnesiella intestinihominis,species,0.7635423632949072,abund,0.76,78737000,78737000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,544580,Actinomyces oris,Actinomyces oris,species,0.8127662483309759,abund,0.81,83813000,83813000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,649756,Anaerostipes hadrus,Anaerostipes hadrus,species,0.6608083526424027,abund,0.66,68143000,68143000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,674529,Bacteroides faecis,Bacteroides faecis,species,1.3951713089094275,abund,1.4,143871000,143871000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,712411,Olsenella sp. oral taxon 807,Olsenella sp. oral taxon 807,species,0.7679934592822113,abund,0.77,79196000,79196000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,938288,Fenollaria massiliensis,Fenollaria massiliensis,species,0.3791965280861698,abund,0.38,39103000,39103000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1099853,Coprobacter fastidiosus,Coprobacter fastidiosus,species,0.7935848368649902,abund,0.79,81835000,81835000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1160721,Ruminococcus bicirculans (ex Wegman et al. 2014),Ruminococcus bicirculans (ex Wegman et al. 2014),species,0.7033119555015614,abund,0.7,72526000,72526000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1297617,Intestinimonas butyriciproducens,Intestinimonas butyriciproducens,species,0.7599252417191676,abund,0.76,78364000,78364000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1335613,Gordonibacter urolithinfaciens,Gordonibacter urolithinfaciens,species,0.7674794983076424,abund,0.77,79143000,79143000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1550024,Ruthenibacterium lactatiformans,Ruthenibacterium lactatiformans,species,1.091565833592398,abund,1.09,112563000,112563000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1737424,Blautia massiliensis (ex Durand et al. 2017),Blautia massiliensis (ex Durand et al. 2017),species,1.0008274781387936,abund,1.0,103206000,103206000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1796613,Bacteroides caecimuris,Bacteroides caecimuris,species,0.8472016336270911,abund,0.85,87364000,87364000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1796652,Turicimonas muris,Turicimonas muris,species,0.688969535098026,abund,0.69,71047000,71047000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1982626,Faecalibacillus intestinalis,Faecalibacillus intestinalis,species,0.658558561206554,abund,0.66,67911000,67911000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2025876,Parabacteroides sp. CT06,Parabacteroides sp. CT06,species,1.957570680987207,abund,1.96,201866000,201866000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2093857,Dysosmobacter welbionis,Dysosmobacter welbionis,species,0.6494042374331006,abund,0.65,66967000,66967000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2108523,Lawsonibacter asaccharolyticus,Lawsonibacter asaccharolyticus,species,0.7384746440635758,abund,0.74,76152000,76152000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2109687,Oscillibacter sp. PEA192,Oscillibacter sp. PEA192,species,0.030401276514593314,abund,0.03,3135000,3135000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2382163,Streptococcus koreensis,Streptococcus koreensis,species,0.377916474338187,abund,0.38,38971000,38971000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2585118,Alistipes communis,Alistipes communis,species,0.7514303395734632,abund,0.75,77488000,77488000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2610896,Streptococcus sp. LPB0220,Streptococcus sp. LPB0220,species,0.711690489124722,abund,0.71,73390000,73390000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2682455,Veillonella orientalis,Veillonella orientalis,species,0.5597713829436634,abund,0.56,57724000,57724000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2682456,Veillonella nakazawae,Veillonella nakazawae,species,0.2428708039259935,abund,0.24,25045000,25045000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2714355,Vescimonas coprocola,Vescimonas coprocola,species,0.582705669564313,abund,0.58,60088999,60088999
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2714358,Pusillibacter faecalis,Pusillibacter faecalis,species,0.6653758171522506,abund,0.67,68614000,68614000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2735723,Turicibacter bilis,Turicibacter bilis,species,0.6394741235093547,abund,0.64,65943000,65943000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2763667,Wansuia hejianensis,Wansuia hejianensis,species,0.9209695795430437,abund,0.92,94971000,94971000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2763672,Simiaoa sunii,Simiaoa sunii,species,0.825702549087106,abund,0.83,85147000,85147000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2806443,Turicibacter sp. TJ11,Turicibacter sp. TJ11,species,0.5834620746582252,abund,0.58,60167000,60167000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2847299,Bacteroides sp. DH3716P,Bacteroides sp. DH3716P,species,3.1746884530275925,abund,3.17,327376000,327376000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2922857,Bifidobacterium sp. FKU,Bifidobacterium sp. FKU,species,0.7678286038752741,abund,0.77,79179000,79179000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2929488,Faecalibacterium sp. IP-1-18,Faecalibacterium sp. IP-1-18,species,0.43844750081477124,abund,0.44,45213000,45213000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2929489,Faecalibacterium sp. IP-3-29,Faecalibacterium sp. IP-3-29,species,0.44452775611768985,abund,0.44,45840000,45840000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2929490,Faecalibacterium sp. I2-3-92,Faecalibacterium sp. I2-3-92,species,0.18703330785867983,abund,0.19,19287000,19287000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2929493,Faecalibacterium sp. I3-3-89,Faecalibacterium sp. I3-3-89,species,0.5832390349900161,abund,0.58,60144000,60144000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2929494,Faecalibacterium sp. I4-1-79,Faecalibacterium sp. I4-1-79,species,1.265653143318069,abund,1.27,130515000,130515000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2929495,Faecalibacterium sp. I4-3-84,Faecalibacterium sp. I4-3-84,species,0.7078115383732587,abund,0.71,72990000,72990000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2944914,Allocoprobacillus halotolerans,Allocoprobacillus halotolerans,species,0.6856045453211316,abund,0.69,70700000,70700000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2985571,Bifidobacterium sp. KRGSERBCFTRI,Bifidobacterium sp. KRGSERBCFTRI,species,1.1514083463105975,abund,1.15,118734000,118734000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,3081750,Anaerocolumna sp. AGMB13020,Anaerocolumna sp. AGMB13020,species,1.4034625661406803,abund,1.4,144726000,144726000
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,194,Campylobacter,Campylobacter,genus,0.4256372659580638,abund,0.43,43892000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,724,Haemophilus,Haemophilus,genus,2.402602700702587,abund,2.4,247758000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,816,Bacteroides,Bacteroides,genus,13.145191951473153,abund,13.15,1355541000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,838,Prevotella,Prevotella,genus,1.2347960900901789,abund,1.23,127333000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,841,Roseburia,Roseburia,genus,2.760610460308889,abund,2.76,284676000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,848,Fusobacterium,Fusobacterium,genus,0.5199054665954996,abund,0.52,53613000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1253,Pediococcus,Pediococcus,genus,0.42011945851410726,abund,0.42,43323000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1263,Ruminococcus,Ruminococcus,genus,0.7033119555015614,abund,0.7,72526000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1301,Streptococcus,Streptococcus,genus,6.25777548405938,abund,6.26,645306000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1378,Gemella,Gemella,genus,0.4281682813233935,abund,0.43,44153000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1485,Clostridium,Clostridium,genus,2.1288069522131763,abund,2.13,219523999,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1654,Actinomyces,Actinomyces,genus,1.4658845811086028,abund,1.47,151163000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1678,Bifidobacterium,Bifidobacterium,genus,2.4322475721232686,abund,2.43,250814999,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1730,Eubacterium,Eubacterium,genus,1.4541119655779116,abund,1.45,149949000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2701,Gardnerella,Gardnerella,genus,0.3987852293810593,abund,0.4,41123000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,28050,Lachnospira,Lachnospira,genus,0.503555689178082,abund,0.5,51927000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,29465,Veillonella,Veillonella,genus,2.5467348132500836,abund,2.55,262621000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,32207,Rothia,Rothia,genus,1.097520022995894,abund,1.1,113177000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,33042,Coprococcus,Coprococcus,genus,0.7679546697746966,abund,0.77,79192000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,40544,Sutterella,Sutterella,genus,0.7081509465640118,abund,0.71,73025000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,84111,Eggerthella,Eggerthella,genus,0.8081018003549646,abund,0.81,83331999,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,86331,Mogibacterium,Mogibacterium,genus,0.4216807361915712,abund,0.42,43484000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,102106,Collinsella,Collinsella,genus,0.5612647789829767,abund,0.56,57878000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,133925,Olsenella,Olsenella,genus,0.7679934592822113,abund,0.77,79196000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,162289,Peptoniphilus,Peptoniphilus,genus,0.38447190110815993,abund,0.38,39647000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,171003,Caloranaerobacter,Caloranaerobacter,genus,0.6085879781508285,abund,0.61,62758000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,189330,Dorea,Dorea,genus,1.293940391673115,abund,1.29,133432000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,191303,Turicibacter,Turicibacter,genus,1.9584143527756503,abund,1.96,201953000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,207244,Anaerostipes,Anaerostipes,genus,0.6608083526424027,abund,0.66,68143000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,216851,Faecalibacterium,Faecalibacterium,genus,5.58487450244929,abund,5.58,575916000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,239759,Alistipes,Alistipes,genus,3.126890082392686,abund,3.13,322447000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,244127,Anaerotruncus,Anaerotruncus,genus,0.8052507812500159,abund,0.81,83038000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,283168,Odoribacter,Odoribacter,genus,1.0173130188325126,abund,1.02,104906000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,375288,Parabacteroides,Parabacteroides,genus,6.599084360680632,abund,6.6,680502000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,397864,Barnesiella,Barnesiella,genus,0.7635423632949072,abund,0.76,78737000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,416916,Aggregatibacter,Aggregatibacter,genus,0.5624575563390517,abund,0.56,58001000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,459786,Oscillibacter,Oscillibacter,genus,0.030401276514593314,abund,0.03,3135000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,572511,Blautia,Blautia,genus,4.02654482755644,abund,4.03,415220000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,577309,Paraprevotella,Paraprevotella,genus,0.9460663909050111,abund,0.95,97559000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,644652,Gordonibacter,Gordonibacter,genus,0.7674794983076424,abund,0.77,79143000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,909656,Phocaeicola,Phocaeicola,genus,2.4536884820993583,abund,2.45,253026000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,946234,Flavonifractor,Flavonifractor,genus,0.9971036854173889,abund,1.0,102822000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1348911,Coprobacter,Coprobacter,genus,0.7935848368649902,abund,0.79,81835000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1392389,Intestinimonas,Intestinimonas,genus,0.7599252417191676,abund,0.76,78364000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1505657,Intestinibacter,Intestinibacter,genus,0.6909090104737576,abund,0.69,71247000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1506553,Lachnoclostridium,Lachnoclostridium,genus,0.02739507998483241,abund,0.03,2824999,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1649459,Hungatella,Hungatella,genus,1.7387299672691519,abund,1.74,179298999,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1686313,Fenollaria,Fenollaria,genus,0.3791965280861698,abund,0.38,39103000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1766253,Agathobacter,Agathobacter,genus,0.7956794702707803,abund,0.8,82051000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1843210,Anaerocolumna,Anaerocolumna,genus,1.4034625661406803,abund,1.4,144726000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1905344,Ruthenibacterium,Ruthenibacterium,genus,1.091565833592398,abund,1.09,112563000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,1918598,Turicimonas,Turicimonas,genus,0.688969535098026,abund,0.69,71047000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2172004,Lawsonibacter,Lawsonibacter,genus,0.7384746440635758,abund,0.74,76152000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2316020,Mediterraneibacter,Mediterraneibacter,genus,1.3798009665567543,abund,1.38,142286000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2529408,Schaalia,Schaalia,genus,0.5682081008280959,abund,0.57,58594000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2569097,Anaerobutyricum,Anaerobutyricum,genus,0.8962606535588459,abund,0.9,92422999,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2591381,Dysosmobacter,Dysosmobacter,genus,0.6494042374331006,abund,0.65,66967000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2678885,Faecalibacillus,Faecalibacillus,genus,0.658558561206554,abund,0.66,67911000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2759736,Lacticaseibacillus,Lacticaseibacillus,genus,0.6928581832263678,abund,0.69,71448000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2767842,Lactiplantibacillus,Lactiplantibacillus,genus,0.7666067343885631,abund,0.77,79053000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2767886,Levilactobacillus,Levilactobacillus,genus,0.5818426127194893,abund,0.58,60000000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2892396,Vescimonas,Vescimonas,genus,0.582705669564313,abund,0.58,60088999,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2892397,Pusillibacter,Pusillibacter,genus,0.6653758171522506,abund,0.67,68614000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2944193,Simiaoa,Simiaoa,genus,0.825702549087106,abund,0.83,85147000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,2944198,Wansuia,Wansuia,genus,0.9209695795430437,abund,0.92,94971000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,3059504,Allocoprobacillus,Allocoprobacillus,genus,0.6856045453211316,abund,0.69,70700000,0
+Sourmash,unified,Sourmash_unified,simulated,simulated,pacbio,sim_pacbio,0,3342669,Eshraghiella,Eshraghiella,genus,0.557259762332091,abund,0.56,57465000,0

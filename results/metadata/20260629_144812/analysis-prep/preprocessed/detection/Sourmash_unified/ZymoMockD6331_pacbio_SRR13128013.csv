@@ -1,0 +1,34 @@
+tool,db,tool_db,data_type,project,technology,sample,taxid_raw,taxid,name_raw,name,rank,value,value_type,abundance_raw,clade_reads,direct_reads
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,562,Escherichia coli,Escherichia coli,species,17.354304005427426,abund,17.35,4447514000,4447514000
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,817,Bacteroides fragilis,Bacteroides fragilis,species,20.46357677814242,abund,20.46,5244350000,5244350000
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,851,Fusobacterium nucleatum,Fusobacterium nucleatum,species,4.052036757065133,abund,4.05,1038444999,1038444999
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,853,Faecalibacterium prausnitzii,Faecalibacterium prausnitzii,species,13.3258939926613,abund,13.33,3415123999,3415123999
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,1351,Enterococcus faecalis,Enterococcus faecalis,species,0.0005774994733694507,abund,0.0,148000,148000
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,1496,Clostridioides difficile,Clostridioides difficile,species,2.525210095871172,abund,2.53,647154000,647154000
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,1613,Limosilactobacillus fermentum,Limosilactobacillus fermentum,species,0.8881785819483403,abund,0.89,227620000,227620000
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,1680,Bifidobacterium adolescentis,Bifidobacterium adolescentis,species,2.076969051926292,abund,2.08,532280000,532280000
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,2173,Methanobrevibacter smithii,Methanobrevibacter smithii,species,0.06391514441751082,abund,0.06,16380000,16380000
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,4932,Saccharomyces cerevisiae,Saccharomyces cerevisiae,species,0.19329843859308005,abund,0.19,49538000,49538000
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,5476,Candida albicans,Candida albicans,species,0.23175287987724177,abund,0.23,59393000,59393000
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,27291,Saccharomyces paradoxus,Saccharomyces paradoxus,species,0.0008935633743351636,abund,0.0,229000,229000
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,28128,Prevotella corporis,Prevotella corporis,species,8.347040817260636,abund,8.35,2139157000,2139157000
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,28901,Salmonella enterica,Salmonella enterica,species,0.030744042909985825,abund,0.03,7879000,7879000
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,239935,Akkermansia muciniphila,Akkermansia muciniphila,species,2.0316548533841337,abund,2.03,520667000,520667000
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,301301,Roseburia hominis,Roseburia hominis,species,5.251592913695286,abund,5.25,1345864000,1345864000
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,423477,Veillonella rogosae,Veillonella rogosae,species,19.39246743395737,abund,19.39,4969849000,4969849000
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,561,Escherichia,Escherichia,genus,17.354304005427426,abund,17.35,4447514000,0
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,590,Salmonella,Salmonella,genus,0.030744042909985825,abund,0.03,7879000,0
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,816,Bacteroides,Bacteroides,genus,20.46357677814242,abund,20.46,5244350000,0
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,838,Prevotella,Prevotella,genus,8.347040817260636,abund,8.35,2139157000,0
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,841,Roseburia,Roseburia,genus,5.251592913695286,abund,5.25,1345864000,0
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,848,Fusobacterium,Fusobacterium,genus,4.052036757065133,abund,4.05,1038444999,0
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,1350,Enterococcus,Enterococcus,genus,0.0005774994733694507,abund,0.0,148000,0
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,1678,Bifidobacterium,Bifidobacterium,genus,2.076969051926292,abund,2.08,532280000,0
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,2172,Methanobrevibacter,Methanobrevibacter,genus,0.06391514441751082,abund,0.06,16380000,0
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,4930,Saccharomyces,Saccharomyces,genus,0.19419200196741523,abund,0.19,49767000,0
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,5475,Candida,Candida,genus,0.23175287987724177,abund,0.23,59393000,0
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,29465,Veillonella,Veillonella,genus,19.39246743395737,abund,19.39,4969849000,0
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,216851,Faecalibacterium,Faecalibacterium,genus,13.3258939926613,abund,13.33,3415123999,0
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,239934,Akkermansia,Akkermansia,genus,2.0316548533841337,abund,2.03,520667000,0
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,1870884,Clostridioides,Clostridioides,genus,2.525210095871172,abund,2.53,647154000,0
+Sourmash,unified,Sourmash_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,0,2742598,Limosilactobacillus,Limosilactobacillus,genus,0.8881785819483403,abund,0.89,227620000,0

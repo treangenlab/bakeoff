@@ -1,0 +1,8 @@
+# Simulated long-read datasets — MIMIC + PBSIM3.
+# Used by Fig 8 (detection benchmarking on simulated PacBio + ONT).
+#
+# Usage:
+#   bash scripts/process/process.sh --db unified --tools all \
+#       --dataset-list data/datasets_simulated.txt
+/dodo/eh58/bakeoff/data/simulated/pacbio/sim_pacbio.fastq
+/dodo/eh58/bakeoff/data/simulated/ont/sim_ont.fastq

@@ -1,0 +1,54 @@
+# All long-read datasets used in the bakeoff benchmark.
+#
+# Pass to scripts/process/process.sh via --dataset-list to run the long-read
+# profilers (Kraken2, Centrifuge, Centrifuger, Ganon2, Sourmash, Sylph) over
+# any subset you want — comment out the sections / lines you don't need.
+#
+#   bash scripts/process/process.sh --db unified --tools all \
+#       --dataset-list data/datasets_all.txt
+#
+# Paths are relative to the repository root; run process.sh from bakeoff/.
+# For paired-end Illumina baselines (used in Fig 10 only), see
+# data/datasets_dyn_illumina.txt + scripts/process/process_sr.sh.
+
+# === Mock community: ZymoBIOMICS D6331 ===
+# PacBio HiFi — both share Shoreline Breaker extraction; differ in input mass
+data/ZymoMockD6331/pacbio/SRR13128013.fastq    # low input
+data/ZymoMockD6331/pacbio/SRR13128014.fastq    # standard input
+# ONT — two libraries differing only in DNA-extraction chemistry
+data/ZymoMockD6331/ont/D6331_Zymo.fastq        # Zymo Quick-DNA
+data/ZymoMockD6331/ont/D6331_Qiagen.fastq      # Qiagen PowerSoil Pro
+
+# === Simulated long reads: PBSIM3 + MIMIC ===
+data/simulated/pacbio/sim_pacbio.fastq
+data/simulated/ont/sim_ont.fastq
+
+# === Clinical: DYN cohort (IRB-restricted; raw reads not in public bundles) ===
+# PacBio HiFi
+data/DYN/pacbio/DYN_0004_D10.fastq
+data/DYN/pacbio/DYN_0021_D03.fastq
+data/DYN/pacbio/DYN_0036_D01.fastq
+data/DYN/pacbio/DYN_0036_D05.fastq
+data/DYN/pacbio/DYN_0036_D08.fastq
+data/DYN/pacbio/DYN_0036_D11.fastq
+data/DYN/pacbio/DYN_0036_D14.fastq
+data/DYN/pacbio/DYN_0036_D16.fastq
+# ONT — paired Zymo / Qiagen extractions per subject
+data/DYN/ont/DYN_0004_D10_Qiagen.fastq
+data/DYN/ont/DYN_0004_D10_Zymo.fastq
+data/DYN/ont/DYN_0007_D01_Zymo.fastq
+data/DYN/ont/DYN_0021_D03_Qiagen.fastq
+data/DYN/ont/DYN_0021_D03_Zymo.fastq
+data/DYN/ont/DYN_0024_D01_Qiagen.fastq
+data/DYN/ont/DYN_0024_D01_Zymo.fastq
+data/DYN/ont/DYN_0036_D01_Zymo.fastq
+data/DYN/ont/DYN_0036_D05_Qiagen.fastq
+data/DYN/ont/DYN_0036_D05_Zymo.fastq
+data/DYN/ont/DYN_0036_D08_Qiagen.fastq
+data/DYN/ont/DYN_0036_D08_Zymo.fastq
+data/DYN/ont/DYN_0036_D11_Qiagen.fastq
+data/DYN/ont/DYN_0036_D11_Zymo.fastq
+data/DYN/ont/DYN_0036_D14_Qiagen.fastq
+data/DYN/ont/DYN_0036_D14_Zymo.fastq
+data/DYN/ont/DYN_0036_D16_Qiagen.fastq
+data/DYN/ont/DYN_0036_D16_Zymo.fastq

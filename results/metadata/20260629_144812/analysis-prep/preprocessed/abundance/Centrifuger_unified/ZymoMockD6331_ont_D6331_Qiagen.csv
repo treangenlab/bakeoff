@@ -1,0 +1,464 @@
+tool,db,tool_db,data_type,project,technology,sample,taxid_raw,taxid,name_raw,name,rank,value,value_type,abundance_raw,genomeSize,numReads,numUniqueReads,taxRank_raw
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,9,9,Buchnera_aphidicola,Buchnera aphidicola,species,0.0,abund,0.0,596134,2,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,200,200,Campylobacter_curvus,Campylobacter curvus,species,0.0,abund,0.0,1973094,5,0,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,287,287,Pseudomonas_aeruginosa,Pseudomonas aeruginosa,species,0.0,abund,0.0,20861276,26,19,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,303,303,Pseudomonas_putida,Pseudomonas putida,species,0.00105,abund,1.05e-05,8263216,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,470,470,Acinetobacter_baumannii,Acinetobacter baumannii,species,0.0,abund,0.0,11661057,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,546,546,Citrobacter_freundii,Citrobacter freundii,species,0.0,abund,0.0,21102308,5,5,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,548,548,Klebsiella_aerogenes,Klebsiella aerogenes,species,0.0,abund,0.0,28712499,1,0,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,549,549,Pantoea_agglomerans,Pantoea agglomerans,species,0.0,abund,0.0,20166640,1,0,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,550,550,Enterobacter_cloacae,Enterobacter cloacae,species,0.0,abund,0.0,11672214,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,562,562,Escherichia_coli,Escherichia coli,species,8.759780000000001,abund,0.0875978,7472123,55346,40100,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,564,564,Escherichia_fergusonii,Escherichia fergusonii,species,0.0,abund,0.0,18076621,17,15,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,571,571,Klebsiella_oxytoca,Klebsiella oxytoca,species,0.0,abund,0.0,12342764,4,3,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,573,573,Klebsiella_pneumoniae,Klebsiella pneumoniae,species,0.01687,abund,0.0001687,14868525,255,183,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,582,582,Morganella_morganii,Morganella morganii,species,0.0,abund,0.0,18790342,1,0,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,621,621,Shigella_boydii,Shigella boydii,species,0.00196,abund,1.96e-05,8007425,66,65,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,622,622,Shigella_dysenteriae,Shigella dysenteriae,species,0.0,abund,0.0,14441356,24,22,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,623,623,Shigella_flexneri,Shigella flexneri,species,0.023010000000000003,abund,0.0002301,7466647,416,412,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,624,624,Shigella_sonnei,Shigella sonnei,species,0.0,abund,0.0,21371158,62,60,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,638,638,Arsenophonus_nasoniae,Arsenophonus nasoniae,species,0.0,abund,0.0,18858615,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,729,729,Haemophilus_parainfluenzae,Haemophilus parainfluenzae,species,0.0,abund,0.0,8815138,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,803,803,Bartonella_quintana,Bartonella quintana,species,0.0,abund,0.0,3690446,1,0,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,817,817,Bacteroides_fragilis,Bacteroides fragilis,species,12.25107,abund,0.1225107,10652239,67737,63821,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,818,818,Bacteroides_thetaiotaomicron,Bacteroides thetaiotaomicron,species,0.00114,abund,1.14e-05,32028362,69,61,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,820,820,Bacteroides_uniformis,Bacteroides uniformis,species,0.01789,abund,0.0001789,7730875,105,55,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,821,821,Phocaeicola_vulgatus,Phocaeicola vulgatus,species,0.02312,abund,0.0002312,10114784,117,58,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,823,823,Parabacteroides_distasonis,Parabacteroides distasonis,species,0.04475,abund,0.0004475,5279052,117,46,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,851,851,Fusobacterium_nucleatum,Fusobacterium nucleatum,species,6.2584,abund,0.062584,4887871,14335,14324,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,853,853,Faecalibacterium_prausnitzii,Faecalibacterium prausnitzii,species,6.801830000000001,abund,0.0680183,8991799,33178,32362,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1313,1313,Streptococcus_pneumoniae,Streptococcus pneumoniae,species,0.0,abund,0.0,3888167,2,2,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1322,1322,Blautia_hansenii,Blautia hansenii,species,0.0,abund,0.0,2913538,1,0,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1351,1351,Enterococcus_faecalis,Enterococcus faecalis,species,0.00408,abund,4.08e-05,8906089,4,0,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1352,1352,Enterococcus_faecium,Enterococcus faecium,species,0.0,abund,0.0,14384922,10,10,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1353,1353,Enterococcus_gallinarum,Enterococcus gallinarum,species,0.0,abund,0.0,3792603,2,2,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1396,1396,Bacillus_cereus,Bacillus cereus,species,0.0,abund,0.0,9578738,5,5,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1428,1428,Bacillus_thuringiensis,Bacillus thuringiensis,species,0.0,abund,0.0,7588830,2,2,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1465,1465,Brevibacillus_laterosporus,Brevibacillus laterosporus,species,0.0,abund,0.0,5420250,1,0,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1491,1491,Clostridium_botulinum,Clostridium botulinum,species,0.0,abund,0.0,5267493,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1496,1496,Clostridioides_difficile,Clostridioides difficile,species,1.23199,abund,0.0123199,16267201,5824,2168,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1502,1502,Clostridium_perfringens,Clostridium perfringens,species,0.0,abund,0.0,18735296,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1509,1509,Clostridium_sporogenes,Clostridium sporogenes,species,0.0,abund,0.0,8745252,2,2,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1512,1512,[Clostridium]_symbiosum,[Clostridium]_symbiosum,species,0.0,abund,0.0,5299950,4,0,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1522,1522,[Clostridium]_innocuum,[Clostridium]_innocuum,species,0.0038000000000000004,abund,3.8e-05,9008608,17,6,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1529,1529,Clostridium_cadaveris,Clostridium cadaveris,species,0.0,abund,0.0,3625784,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1531,1531,Enterocloster_clostridioformis,Enterocloster clostridioformis,species,0.0,abund,0.0,5832416,22,13,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1547,1547,Thomasclavelia_ramosa,Thomasclavelia ramosa,species,0.0,abund,0.0,5368158,1,0,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1590,1590,Lactiplantibacillus_plantarum,Lactiplantibacillus plantarum,species,0.0,abund,0.0,4972210,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1597,1597,Lacticaseibacillus_paracasei,Lacticaseibacillus paracasei,species,0.0,abund,0.0,6162391,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1613,1613,Limosilactobacillus_fermentum,Limosilactobacillus fermentum,species,13.49803,abund,0.1349803,3299272,14962,4482,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1639,1639,Listeria_monocytogenes,Listeria monocytogenes,species,0.0,abund,0.0,5632341,2,0,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1661,1661,Trueperella_pyogenes,Trueperella pyogenes,species,0.0,abund,0.0,45774791,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1680,1680,Bifidobacterium_adolescentis,Bifidobacterium adolescentis,species,0.26731,abund,0.0026731,2291036,240,12,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1773,1773,Mycobacterium_tuberculosis,Mycobacterium tuberculosis,species,0.0,abund,0.0,7026288,51,51,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2106,2106,Mycoplasma_corogypsi,Mycoplasma corogypsi,species,0.0,abund,0.0,862285,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2173,2173,Methanobrevibacter_smithii,Methanobrevibacter smithii,species,0.1725,abund,0.001725,2717734,135,0,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2325,2325,Thermoanaerobacter_kivui,Thermoanaerobacter kivui,species,0.0,abund,0.0,2482803,1,0,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,4896,4896,Schizosaccharomyces_pombe,Schizosaccharomyces pombe,species,0.0,abund,0.0,8567504,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,4932,4932,Saccharomyces_cerevisiae,Saccharomyces cerevisiae,species,0.00494,abund,4.94e-05,10536517,946,941,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,4959,4959,Debaryomyces_hansenii,Debaryomyces hansenii,species,0.0,abund,0.0,5340714,2,2,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,5476,5476,Candida_albicans,Candida albicans,species,0.0015500000000000002,abund,1.55e-05,11199016,1076,1075,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,27291,27291,Saccharomyces_paradoxus,Saccharomyces paradoxus,species,0.0,abund,0.0,10545405,5,3,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,28094,28094,Trinickia_caryophylli,Trinickia caryophylli,species,0.0,abund,0.0,6589281,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,28111,28111,Bacteroides_eggerthii,Bacteroides eggerthii,species,0.0,abund,0.0,5106652,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,28116,28116,Bacteroides_ovatus,Bacteroides ovatus,species,0.02484,abund,0.0002484,6857275,114,90,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,28117,28117,Alistipes_putredinis,Alistipes putredinis,species,0.006830000000000001,abund,6.83e-05,2576134,7,7,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,28118,28118,Odoribacter_splanchnicus,Odoribacter splanchnicus,species,0.00194,abund,1.94e-05,4392720,7,3,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,28127,28127,Hoylesella_buccalis,Hoylesella buccalis,species,0.0,abund,0.0,3308059,4,4,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,28128,28128,Prevotella_corporis,Prevotella corporis,species,6.02433,abund,0.0602433,2947105,28284,28186,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,28132,28132,Prevotella_melaninogenica,Prevotella melaninogenica,species,0.0,abund,0.0,11519673,1,0,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,28901,28901,Salmonella_enterica,Salmonella enterica,species,0.013760000000000001,abund,0.0001376,5432593,70,67,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,29347,29347,[Clostridium]_scindens,[Clostridium]_scindens,species,0.0,abund,0.0,11968617,1,0,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,29360,29360,Cellulosilyticum_lentocellum,Cellulosilyticum lentocellum,species,0.00269,abund,2.69e-05,4714237,2,2,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,29466,29466,Veillonella_parvula,Veillonella parvula,species,0.00092,abund,9.2e-06,2163492,7,7,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,31965,31965,Clavibacter_tessellarius,Clavibacter tessellarius,species,0.0,abund,0.0,3366694,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,33035,33035,Blautia_producta,Blautia producta,species,0.0,abund,0.0,6275977,1,0,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,33038,33038,Mediterraneibacter_gnavus,Mediterraneibacter gnavus,species,0.0013499999999999999,abund,1.35e-05,40026036,37,19,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,33039,33039,[Ruminococcus]_torques,[Ruminococcus]_torques,species,0.0,abund,0.0,3128780,3,3,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,33962,33962,Lentilactobacillus_kefiri,Lentilactobacillus kefiri,species,0.0,abund,0.0,2543072,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,34061,34061,Moraxella_cuniculi,Moraxella cuniculi,species,0.0,abund,0.0,2202865,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,35703,35703,Citrobacter_amalonaticus,Citrobacter amalonaticus,species,0.0,abund,0.0,8016967,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,37734,37734,Enterococcus_casseliflavus,Enterococcus casseliflavus,species,0.0,abund,0.0,7138620,2,2,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,39491,39491,Agathobacter_rectalis,Agathobacter rectalis,species,3.9999999999999996e-05,abund,4e-07,3571899,6,4,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,39496,39496,Eubacterium_ventriosum,Eubacterium ventriosum,species,0.0,abund,0.0,2856089,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,39777,39777,Veillonella_atypica,Veillonella atypica,species,0.0,abund,0.0,2071952,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,39778,39778,Veillonella_dispar,Veillonella dispar,species,0.0,abund,0.0,2116915,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,40520,40520,Blautia_obeum,Blautia obeum,species,0.0,abund,0.0,3611763,4,4,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,40545,40545,Sutterella_wadsworthensis,Sutterella wadsworthensis,species,0.00272,abund,2.72e-05,3026517,8,4,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,42374,42374,Candida_dubliniensis,Candida dubliniensis,species,0.0007700000000000001,abund,7.7e-06,11255432,5,5,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,43765,43765,Corynebacterium_amycolatum,Corynebacterium amycolatum,species,0.0,abund,0.0,5182643,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,44251,44251,Paenibacillus_durus,Paenibacillus durus,species,0.0,abund,0.0,5814491,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,46228,46228,[Ruminococcus]_lactaris,[Ruminococcus]_lactaris,species,0.0,abund,0.0,2733858,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,46503,46503,Parabacteroides_merdae,Parabacteroides merdae,species,0.03129,abund,0.0003129,4588480,76,14,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,46506,46506,Bacteroides_stercoris,Bacteroides stercoris,species,0.06956,abund,0.0006956,4371348,171,151,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,47678,47678,Bacteroides_caccae,Bacteroides caccae,species,0.00509,abund,5.09e-05,5261272,19,11,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,47715,47715,Lacticaseibacillus_rhamnosus,Lacticaseibacillus rhamnosus,species,0.0,abund,0.0,5217019,5,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,53442,53442,Eubacterium_callanderi,Eubacterium callanderi,species,0.0,abund,0.0,13635247,2,2,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,53443,53443,Blautia_hydrogenotrophica,Blautia hydrogenotrophica,species,0.0,abund,0.0,3597785,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,55211,55211,Erwinia_persicina,Erwinia persicina,species,0.0,abund,0.0,5070450,1,0,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,55601,55601,Vibrio_anguillarum,Vibrio anguillarum,species,0.0,abund,0.0,16015801,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,56426,56426,Bartonella_clarridgeiae,Bartonella clarridgeiae,species,0.0,abund,0.0,1528245,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,57706,57706,Citrobacter_braakii,Citrobacter braakii,species,0.0,abund,0.0,74660107,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,61645,61645,Enterobacter_asburiae,Enterobacter asburiae,species,0.0,abund,0.0,10529636,4,4,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,63577,63577,Trichoderma_atroviride,Trichoderma atroviride,species,0.0,abund,0.0,33645939,2,2,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,66228,66228,Gleimia_europaea,Gleimia europaea,species,0.0,abund,0.0,2080063,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,69823,69823,Selenomonas_sputigena,Selenomonas sputigena,species,0.0,abund,0.0,2654473,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,71452,71452,Enterococcus_raffinosus,Enterococcus raffinosus,species,0.0,abund,0.0,8641529,3,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,76517,76517,Campylobacter_hominis,Campylobacter hominis,species,0.00452,abund,4.52e-05,1716514,5,5,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,76857,76857,Fusobacterium_polymorphum,Fusobacterium polymorphum,species,0.0,abund,0.0,8967733,8,6,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,76859,76859,Fusobacterium_animalis,Fusobacterium animalis,species,0.13285,abund,0.0013285,4570042,865,710,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,77643,77643,Mycobacterium_tuberculosis_complex,Mycobacterium tuberculosis_complex,species,0.0,abund,0.0,4402722,51,51,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,84112,84112,Eggerthella_lenta,Eggerthella lenta,species,0.00015999999999999999,abund,1.6e-06,13942320,5,3,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,86332,86332,Mogibacterium_pumilum,Mogibacterium pumilum,species,0.0,abund,0.0,1839617,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,86661,86661,Bacillus_cereus_group,Bacillus cereus_group,species,0.0,abund,0.0,5991373,8,7,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,87882,87882,Burkholderia_cepacia_complex,Burkholderia cepacia_complex,species,1.9999999999999998e-05,abund,2e-07,8230808,19,19,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,87883,87883,Burkholderia_multivorans,Burkholderia multivorans,species,1.9999999999999998e-05,abund,2e-07,23330748,19,19,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,88431,88431,Dorea_longicatena,Dorea longicatena,species,0.0,abund,0.0,3442572,3,3,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,96241,96241,Bacillus_spizizenii,Bacillus spizizenii,species,0.0,abund,0.0,4127439,6,3,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,105841,105841,Anaerostipes_caccae,Anaerostipes caccae,species,0.0,abund,0.0,3534392,1,0,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,107709,107709,Opitutus_terrae,Opitutus terrae,species,0.0,abund,0.0,5957605,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,114186,114186,Candidatus_Carsonella_ruddii,Candidatus Carsonella_ruddii,species,0.0,abund,0.0,227326,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,114525,114525,Saccharomyces_mikatae,Saccharomyces mikatae,species,0.0,abund,0.0,10582489,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,131110,131110,Schaalia_radingae,Schaalia radingae,species,0.0,abund,0.0,2430193,3,3,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,133448,133448,Citrobacter_youngae,Citrobacter youngae,species,0.0,abund,0.0,6000265,3,3,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,133926,133926,Olsenella_uli,Olsenella uli,species,0.0,abund,0.0,2051896,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,136841,136841,Pseudomonas_aeruginosa_group,Pseudomonas aeruginosa_group,species,0.0,abund,0.0,7263586,26,19,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,136845,136845,Pseudomonas_putida_group,Pseudomonas putida_group,species,0.00105,abund,1.05e-05,6049899,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,138074,138074,Serratia_symbiotica,Serratia symbiotica,species,0.0,abund,0.0,2724435,1,0,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,154046,154046,Hungatella_hathewayi,Hungatella hathewayi,species,0.0,abund,0.0,6296958,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,155615,155615,Fusobacterium_vincentii,Fusobacterium vincentii,species,0.0,abund,0.0,2700978,4,4,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,158836,158836,Enterobacter_hormaechei,Enterobacter hormaechei,species,0.0,abund,0.0,45563741,41,33,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,166486,166486,Roseburia_intestinalis,Roseburia intestinalis,species,0.0,abund,0.0,4300352,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,168384,168384,Marvinbryantia_formatexigens,Marvinbryantia formatexigens,species,0.0,abund,0.0,4577574,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,181762,181762,Psilocybe_cubensis,Psilocybe cubensis,species,4.9999999999999996e-05,abund,5e-07,41732513,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,208375,208375,Bradyrhizobium_sp._Pha-3,Bradyrhizobium_sp._Pha-3,species,0.0,abund,0.0,18662596,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,208479,208479,Enterocloster_bolteae,Enterocloster bolteae,species,0.00132,abund,1.32e-05,6614036,49,30,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,208962,208962,Escherichia_albertii,Escherichia albertii,species,0.0,abund,0.0,62442243,8,7,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,214856,214856,Alistipes_finegoldii,Alistipes finegoldii,species,0.014329999999999999,abund,0.0001433,3925747,49,47,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,216816,216816,Bifidobacterium_longum,Bifidobacterium longum,species,0.00447,abund,4.47e-05,3143527,42,37,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,231439,231439,Pseudodesulfovibrio_portus,Pseudodesulfovibrio portus,species,0.0,abund,0.0,3403863,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,239935,239935,Akkermansia_muciniphila,Akkermansia muciniphila,species,0.4379,abund,0.004379,22042729,6149,3566,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,244366,244366,Klebsiella_variicola,Klebsiella variicola,species,0.0,abund,0.0,16232897,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,246787,246787,Bacteroides_cellulosilyticus,Bacteroides cellulosilyticus,species,0.0,abund,0.0,7271073,2,2,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,261299,261299,Intestinibacter_bartlettii,Intestinibacter bartlettii,species,3.9999999999999996e-05,abund,4e-07,3006269,16,16,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,282402,282402,Prevotella_multiformis,Prevotella multiformis,species,0.0,abund,0.0,3025491,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,291644,291644,Bacteroides_salyersiae,Bacteroides salyersiae,species,0.00167,abund,1.67e-05,10811684,17,13,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,292800,292800,Flavonifractor_plautii,Flavonifractor plautii,species,0.0,abund,0.0,4691745,6,5,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,299767,299767,Enterobacter_ludwigii,Enterobacter ludwigii,species,0.0,abund,0.0,14455645,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,301301,301301,Roseburia_hominis,Roseburia hominis,species,2.24111,abund,0.0224111,3592125,5573,5355,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,311182,311182,Denitratisoma_oestradiolicum,Denitratisoma oestradiolicum,species,0.0,abund,0.0,4293412,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,322095,322095,Porphyromonas_somerae,Porphyromonas somerae,species,0.0,abund,0.0,2727503,2,2,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,328812,328812,Parabacteroides_goldsteinii,Parabacteroides goldsteinii,species,0.00156,abund,1.56e-05,7053599,6,6,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,328813,328813,Alistipes_onderdonkii,Alistipes onderdonkii,species,0.013019999999999999,abund,0.0001302,5247448,31,3,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,328814,328814,Alistipes_shahii,Alistipes shahii,species,0.0,abund,0.0,3778517,2,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,333367,333367,Enterocloster_asparagiformis,Enterocloster asparagiformis,species,0.0,abund,0.0,6353279,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,338188,338188,Bacteroides_finegoldii,Bacteroides finegoldii,species,0.0,abund,0.0,5120579,6,6,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,341220,341220,Lactonifactor_longoviformis,Lactonifactor longoviformis,species,0.00173,abund,1.73e-05,4899275,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,354276,354276,Enterobacter_cloacae_complex,Enterobacter cloacae_complex,species,0.00247,abund,2.47e-05,6160824,53,44,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,357276,357276,Phocaeicola_dorei,Phocaeicola dorei,species,0.00252,abund,2.52e-05,16497524,18,8,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,357441,357441,Enterococcus_lactis,Enterococcus lactis,species,0.0,abund,0.0,11220591,4,4,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,364199,364199,Paracoccus_homiensis,Paracoccus homiensis,species,0.0,abund,0.0,3331012,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,371601,371601,Bacteroides_xylanisolvens,Bacteroides xylanisolvens,species,0.01569,abund,0.0001569,9593183,76,40,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,376490,376490,Desulfobaculum_bizertense,Desulfobaculum bizertense,species,0.0,abund,0.0,3388341,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,376805,376805,Phocaeicola_salanitronis,Phocaeicola salanitronis,species,0.0,abund,0.0,4289383,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,384636,384636,Lacrimispora_xylanisolvens,Lacrimispora xylanisolvens,species,0.0,abund,0.0,5633035,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,387090,387090,Phocaeicola_coprophilus,Phocaeicola coprophilus,species,0.0,abund,0.0,4113613,3,3,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,387661,387661,Parabacteroides_johnsonii,Parabacteroides johnsonii,species,0.0,abund,0.0,4757806,1,0,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,411483,411483,Faecalibacterium_duncaniae,Faecalibacterium duncaniae,species,0.0,abund,0.0,3110044,4,4,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,411486,411486,Clostridium_sp._M62/1,Clostridium_sp._M62/1,species,0.0,abund,0.0,3923895,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,413497,413497,Cronobacter_dublinensis,Cronobacter dublinensis,species,0.0,abund,0.0,9421060,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,413503,413503,Cronobacter_malonaticus,Cronobacter malonaticus,species,0.0,abund,0.0,6788226,2,2,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,418240,418240,Blautia_wexlerae,Blautia wexlerae,species,0.0,abund,0.0,4665133,2,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,423477,423477,Veillonella_rogosae,Veillonella rogosae,species,41.36923,abund,0.4136923,2205714,55965,55710,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,454154,454154,Paraprevotella_clara,Paraprevotella clara,species,0.0,abund,0.0,4034988,2,2,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,454155,454155,Paraprevotella_xylaniphila,Paraprevotella xylaniphila,species,0.0,abund,0.0,4125322,2,2,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,538381,538381,Stappia_indica,Stappia indica,species,0.0,abund,0.0,5116759,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,538949,538949,uncultured_Alistipes_sp.,uncultured Alistipes_sp.,species,0.0,abund,0.0,3377718,3,3,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,544580,544580,Actinomyces_oris,Actinomyces oris,species,0.0052,abund,5.2e-05,3154798,33,33,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,649756,649756,Anaerostipes_hadrus,Anaerostipes hadrus,species,0.0,abund,0.0,4328833,2,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,653685,653685,Bacillus_subtilis_group,Bacillus subtilis_group,species,0.0,abund,0.0,4193930,6,3,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,657323,657323,Ruminococcus_sp._SR1/5,Ruminococcus_sp._SR1/5,species,0.0,abund,0.0,3511612,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,674529,674529,Bacteroides_faecis,Bacteroides faecis,species,0.06087,abund,0.0006087,13258959,533,361,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,708126,708126,Jeotgalibaca_dankookensis,Jeotgalibaca dankookensis,species,0.0,abund,0.0,2116498,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,881260,881260,Enterobacter_bugandensis,Enterobacter bugandensis,species,0.0,abund,0.0,10101810,2,2,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,909768,909768,Acinetobacter_calcoaceticus/baumannii_complex,Acinetobacter_calcoaceticus/baumannii_complex,species,0.0,abund,0.0,5440485,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1134687,1134687,Klebsiella_michiganensis,Klebsiella michiganensis,species,0.0,abund,0.0,10829592,4,3,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1155388,1155388,Clostridium_sp._C1,Clostridium_sp._C1,species,0.0,abund,0.0,3035113,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1226757,1226757,Streptomyces_rapamycinicus,Streptomyces rapamycinicus,species,0.0,abund,0.0,12584889,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1262452,1262452,Streptomyces_sp._769,Streptomyces_sp._769,species,0.0,abund,0.0,10338286,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1288121,1288121,Alistipes_senegalensis,Alistipes senegalensis,species,0.0,abund,0.0,4023245,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1296540,1296540,Paucilactobacillus_nenjiangensis,Paucilactobacillus nenjiangensis,species,0.0,abund,0.0,2249893,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1297617,1297617,Intestinimonas_butyriciproducens,Intestinimonas butyriciproducens,species,0.0024600000000000004,abund,2.46e-05,3376471,17,15,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1344959,1344959,Citrobacter_freundii_complex,Citrobacter freundii_complex,species,0.0,abund,0.0,11781241,12,12,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1454229,1454229,Bifidobacterium_faecale,Bifidobacterium faecale,species,0.0,abund,0.0,2213206,4,4,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1463165,1463165,Klebsiella_quasipneumoniae,Klebsiella quasipneumoniae,species,0.0,abund,0.0,30892639,3,3,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1472417,1472417,Butyricimonas_paravirosa,Butyricimonas paravirosa,species,0.0,abund,0.0,5607917,2,2,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1499973,1499973,Escherichia_marmotae,Escherichia marmotae,species,0.0,abund,0.0,9971895,2,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1501392,1501392,Coprobacter_secundus,Coprobacter secundus,species,0.0,abund,0.0,4171466,4,4,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1550024,1550024,Ruthenibacterium_lactatiformans,Ruthenibacterium lactatiformans,species,0.0,abund,0.0,4419852,5,5,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1563222,1563222,Citrobacter_pasteurii,Citrobacter pasteurii,species,0.0,abund,0.0,5021319,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1654067,1654067,Pantoea_agglomerans_group,Pantoea agglomerans_group,species,0.0,abund,0.0,5038001,1,0,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1686385,1686385,Citrobacter_sp._BIDMC108,Citrobacter_sp._BIDMC108,species,0.0,abund,0.0,5627653,2,2,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1715691,1715691,Cognatishimia_activa,Cognatishimia activa,species,0.0,abund,0.0,3252335,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1727196,1727196,Methylomonas_sp._DH-1,Methylomonas_sp._DH-1,species,0.0,abund,0.0,5211500,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1776392,1776392,Massilimicrobiota_timonensis,Massilimicrobiota timonensis,species,0.0,abund,0.0,2661126,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1796613,1796613,Bacteroides_caecimuris,Bacteroides caecimuris,species,0.0,abund,0.0,4839927,3,2,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1796620,1796620,Acutalibacter_muris,Acutalibacter muris,species,0.0,abund,0.0,3802813,2,0,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1796635,1796635,Longicatena_caecimuris,Longicatena caecimuris,species,0.00264,abund,2.64e-05,3103757,3,3,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1796652,1796652,Turicimonas_muris,Turicimonas muris,species,0.0,abund,0.0,2887709,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1965590,1965590,Barnesiella_sp._An22,Barnesiella_sp._An22,species,0.0,abund,0.0,3443102,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1968839,1968839,Thermoflavifilum_sp.,Thermoflavifilum_sp.,species,0.0,abund,0.0,2828323,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1981510,1981510,Monoglobus_pectinilyticus,Monoglobus pectinilyticus,species,0.0,abund,0.0,2810259,2,2,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2025659,2025659,Bacteroides_sp._KFT8,Bacteroides_sp._KFT8,species,0.00035999999999999997,abund,3.6e-06,6031385,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2025876,2025876,Parabacteroides_sp._CT06,Parabacteroides_sp._CT06,species,0.0,abund,0.0,5372666,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2026188,2026188,Bacillus_tropicus,Bacillus tropicus,species,0.0,abund,0.0,11418537,1,0,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2044467,2044467,Escherichia_sp._E4742,Escherichia_sp._E4742,species,0.0,abund,0.0,5120753,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2051905,2051905,Enterobacter_sp._CRENT-193,Enterobacter_sp._CRENT-193,species,0.0,abund,0.0,5196641,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2058152,2058152,Klebsiella_grimontii,Klebsiella grimontii,species,0.0,abund,0.0,13208630,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2068655,2068655,Novisyntrophococcus_fermenticellae,Novisyntrophococcus fermenticellae,species,0.0024600000000000004,abund,2.46e-05,3420321,6,6,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2077147,2077147,Citrobacter_freundii_complex_sp._CFNIH3,Citrobacter freundii_complex_sp._CFNIH3,species,0.0,abund,0.0,5634842,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2108523,2108523,Lawsonibacter_asaccharolyticus,Lawsonibacter asaccharolyticus,species,0.0033000000000000004,abund,3.3e-05,3126090,6,6,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2211106,2211106,Thiomicrorhabdus_aquaedulcis,Thiomicrorhabdus aquaedulcis,species,0.0,abund,0.0,2537035,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2315449,2315449,Yamadazyma_tenuis,Yamadazyma tenuis,species,0.0,abund,0.0,9926594,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2494701,2494701,Enterobacter_chengduensis,Enterobacter chengduensis,species,0.0,abund,0.0,5218125,2,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2497860,2497860,Cellulosilyticum_sp._WCF-2,Cellulosilyticum_sp._WCF-2,species,0.0,abund,0.0,4779774,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2507159,2507159,Clostridium_sp._JN-9,Clostridium_sp._JN-9,species,0.0,abund,0.0,3223191,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2507161,2507161,Acidilutibacter_cellobiosedens,Acidilutibacter cellobiosedens,species,0.0,abund,0.0,3743723,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2528593,2528593,Zhaonella_formicivorans,Zhaonella formicivorans,species,0.0,abund,0.0,3314304,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2583452,2583452,Amedibacterium_intestinale,Amedibacterium intestinale,species,0.00273,abund,2.73e-05,2996298,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2585118,2585118,Alistipes_communis,Alistipes communis,species,0.00069,abund,6.9e-06,3334777,25,25,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2589903,2589903,Mesorhizobium_sp._B2-8-5,Mesorhizobium_sp._B2-8-5,species,0.0,abund,0.0,6463198,2,2,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2603296,2603296,Enterococcus_sp._DA9,Enterococcus_sp._DA9,species,0.0,abund,0.0,2935232,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2606626,2606626,Sodaliphilus_pleomorphus,Sodaliphilus pleomorphus,species,0.0,abund,0.0,3340670,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2607663,2607663,Yersinia_canariae,Yersinia canariae,species,0.0,abund,0.0,4710154,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2650158,2650158,Bacteroides_luhongzhouii,Bacteroides luhongzhouii,species,0.0,abund,0.0,5760088,2,2,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2652274,2652274,Eisenbergiella_porci,Eisenbergiella porci,species,0.0,abund,0.0,7083291,2,2,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2664436,2664436,Dechloromonas_sp._ZY10,Dechloromonas_sp._ZY10,species,0.0,abund,0.0,3568927,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2682455,2682455,Veillonella_orientalis,Veillonella orientalis,species,0.004059999999999999,abund,4.06e-05,2072807,6,6,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2682456,2682456,Veillonella_nakazawae,Veillonella nakazawae,species,0.0,abund,0.0,2097818,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2685834,2685834,Parabacteroides_chongii,Parabacteroides chongii,species,0.0,abund,0.0,6031130,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2690837,2690837,Eggerthella_guodeyinii,Eggerthella guodeyinii,species,0.0,abund,0.0,4175177,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2712024,2712024,Citrobacter_sp._SX212,Citrobacter_sp._SX212,species,0.0,abund,0.0,4682750,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2714358,2714358,Pusillibacter_faecalis,Pusillibacter faecalis,species,0.0,abund,0.0,3407680,2,2,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2725997,2725997,Escherichia_sp._SCLE84,Escherichia_sp._SCLE84,species,0.0,abund,0.0,5384463,8,8,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2741720,2741720,Rhodoferax_sp._BAB1,Rhodoferax_sp._BAB1,species,0.0,abund,0.0,3820375,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2742625,2742625,Citrobacter_sp._RHB35-C17,Citrobacter_sp._RHB35-C17,species,0.0,abund,0.0,4828684,16,16,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2742641,2742641,Citrobacter_sp._RHBSTW-00229,Citrobacter_sp._RHBSTW-00229,species,0.0,abund,0.0,5309420,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2742646,2742646,Enterobacter_sp._RHBSTW-00422,Enterobacter_sp._RHBSTW-00422,species,0.0,abund,0.0,5234715,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2745890,2745890,Salmonella_sp._SJTUF14076,Salmonella_sp._SJTUF14076,species,0.0,abund,0.0,5052491,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2747372,2747372,Enterobacter_sp._DSM_30060,Enterobacter_sp._DSM_30060,species,0.0,abund,0.0,4810361,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2755405,2755405,Bacteroides_sp._CACC_737,Bacteroides_sp._CACC_737,species,0.0,abund,0.0,4634436,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2763022,2763022,Bacteroides_sp._M10,Bacteroides_sp._M10,species,0.0,abund,0.0,6745934,6,6,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2763023,2763023,Bacteroides_hominis,Bacteroides hominis,species,0.0,abund,0.0,5438159,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2763056,2763056,Oscillibacter_hominis,Oscillibacter hominis,species,0.0029,abund,2.9e-05,2823723,3,3,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2763667,2763667,Wansuia_hejianensis,Wansuia hejianensis,species,0.0,abund,0.0,3949724,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2763670,2763670,Wujia_chipingensis,Wujia chipingensis,species,0.0,abund,0.0,2942917,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2780922,2780922,Solibaculum_mannosilyticum,Solibaculum mannosilyticum,species,0.0,abund,0.0,2541474,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2781735,2781735,Saccharothrix_sp._6-C,Saccharothrix_sp._6-C,species,0.0,abund,0.0,9045220,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2781952,2781952,Citrobacter_sp._BDA59-3,Citrobacter_sp._BDA59-3,species,0.00236,abund,2.36e-05,5349552,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2789776,2789776,Actinomarinicola_tropica,Actinomarinicola tropica,species,0.0,abund,0.0,3715454,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2792859,2792859,Bacteroides_humanifaecis,Bacteroides humanifaecis,species,0.0,abund,0.0,4248411,2,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2798729,2798729,Enterobacter_cloacae_complex_sp._AR_0002,Enterobacter cloacae_complex_sp._AR_0002,species,0.0,abund,0.0,5021981,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2839105,2839105,Streptomyces_violaceusniger_group,Streptomyces violaceusniger_group,species,0.0,abund,0.0,11141463,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2847299,2847299,Bacteroides_sp._DH3716P,Bacteroides_sp._DH3716P,species,0.0,abund,0.0,6629470,4,4,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2857061,2857061,Escherichia_sp._TC-EC600-tetX4,Escherichia_sp._TC-EC600-tetX4,species,0.0,abund,0.0,4600187,14,14,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2860337,2860337,Escherichia_sp._TM-G17TGC,Escherichia_sp._TM-G17TGC,species,0.00274,abund,2.74e-05,4676327,35,35,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2861802,2861802,Citrobacter_sp._Colony219,Citrobacter_sp._Colony219,species,0.0,abund,0.0,4411579,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2867264,2867264,Pseudomonas_phytophila,Pseudomonas phytophila,species,0.0,abund,0.0,6550644,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2877527,2877527,Blautia_parvula,Blautia parvula,species,0.0,abund,0.0,6247046,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2884022,2884022,Capillimicrobium_parvum,Capillimicrobium parvum,species,0.0,abund,0.0,5953270,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2894203,2894203,Enterobacter_sp._AN-K1,Enterobacter_sp._AN-K1,species,0.0,abund,0.0,4656683,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2927224,2927224,Akkermansia_massiliensis,Akkermansia massiliensis,species,8.999999999999999e-05,abund,9e-07,6239155,5,3,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2929488,2929488,Faecalibacterium_sp._IP-1-18,Faecalibacterium_sp._IP-1-18,species,0.0,abund,0.0,3038545,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2929489,2929489,Faecalibacterium_sp._IP-3-29,Faecalibacterium_sp._IP-3-29,species,0.0,abund,0.0,3002063,6,6,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2929490,2929490,Faecalibacterium_sp._I2-3-92,Faecalibacterium_sp._I2-3-92,species,0.0,abund,0.0,2963404,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2929492,2929492,Faecalibacterium_sp._I3-3-33,Faecalibacterium_sp._I3-3-33,species,0.0,abund,0.0,2994777,4,4,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2929493,2929493,Faecalibacterium_sp._I3-3-89,Faecalibacterium_sp._I3-3-89,species,0.00316,abund,3.16e-05,2816187,10,10,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2929494,2929494,Faecalibacterium_sp._I4-1-79,Faecalibacterium_sp._I4-1-79,species,0.00279,abund,2.79e-05,3227950,5,5,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2929495,2929495,Faecalibacterium_sp._I4-3-84,Faecalibacterium_sp._I4-3-84,species,0.0,abund,0.0,3119411,3,3,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2949090,2949090,Comamonas_endophytica,Comamonas endophytica,species,0.0,abund,0.0,4488558,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2953750,2953750,Halorussus_salilacus,Halorussus salilacus,species,0.0,abund,0.0,3596520,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2972761,2972761,Bacteroides_sp._BFG-257,Bacteroides_sp._BFG-257,species,0.0,abund,0.0,6929769,2,2,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2975752,2975752,Streptomyces_sp._NBC_00467,Streptomyces_sp._NBC_00467,species,0.0,abund,0.0,8760989,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2985571,2985571,Bifidobacterium_sp._KRGSERBCFTRI,Bifidobacterium_sp._KRGSERBCFTRI,species,0.03739,abund,0.0003739,3379484,52,52,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2986839,2986839,Flavobacterium_sp._N503310,Flavobacterium_sp._N503310,species,0.0,abund,0.0,5989105,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,3030638,3030638,Faecalibacterium_taiwanense,Faecalibacterium taiwanense,species,0.01895,abund,0.0001895,2955389,60,60,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,3032582,3032582,Microbulbifer_sp._MLAF003,Microbulbifer_sp._MLAF003,species,0.0,abund,0.0,4879600,5,5,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,3037987,3037987,Akkermansia_sp._BCRC_18949,Akkermansia_sp._BCRC_18949,species,0.014669999999999999,abund,0.0001467,3062246,17,17,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,3040076,3040076,Streptomyces_sp._SYP-A7185,Streptomyces_sp._SYP-A7185,species,0.0,abund,0.0,9771587,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,3040764,3040764,Akkermansia_sp._N21116,Akkermansia_sp._N21116,species,0.0,abund,0.0,3497179,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,3055805,3055805,Cellulosilyticum_sp._ST5,Cellulosilyticum_sp._ST5,species,0.00262,abund,2.62e-05,4852633,2,2,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,3070215,3070215,Kineothrix_sp._MB12-C1,Kineothrix_sp._MB12-C1,species,0.0,abund,0.0,3935490,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,3070997,3070997,Anaerocolumna_sp._MB42-C2,Anaerocolumna_sp._MB42-C2,species,0.0,abund,0.0,6437239,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,3073865,3073865,Enterobacter_cloacae_complex_sp._EB5,Enterobacter cloacae_complex_sp._EB5,species,0.00247,abund,2.47e-05,5029345,3,3,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,3079302,3079302,Agathobaculum_sp._NTUH-O15-33,Agathobaculum_sp._NTUH-O15-33,species,0.0,abund,0.0,4005854,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,3079303,3079303,Intestinibacillus_sp._NTUH-41-i26,Intestinibacillus_sp._NTUH-41-i26,species,0.0,abund,0.0,3035319,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,3111774,3111774,Streptomyces_sp._CGMCC_4.1772,Streptomyces_sp._CGMCC_4.1772,species,0.0,abund,0.0,8707722,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,3118174,3118174,Rossellomorea_sp._y25,Rossellomorea_sp._y25,species,0.0,abund,0.0,4633006,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,3136601,3136601,Owariibacterium_komagatae,Owariibacterium komagatae,species,0.0,abund,0.0,3606305,4,4,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,3136634,3136634,Alcaligenes_sp._SDU_A2,Alcaligenes_sp._SDU_A2,species,0.0,abund,0.0,3652774,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,3140250,3140250,Lysobacter_sp._FW306-1B-D06B,Lysobacter_sp._FW306-1B-D06B,species,0.0,abund,0.0,4235567,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,3141185,3141185,Faecalibacterium_sp._i25-0019-C1,Faecalibacterium_sp._i25-0019-C1,species,0.0031000000000000003,abund,3.1e-05,2876947,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,3142973,3142973,Hahella_sp._SMD15-11,Hahella_sp._SMD15-11,species,0.0,abund,0.0,3444746,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,3144975,3144975,Desulfoscipio_sp._XC116,Desulfoscipio_sp._XC116,species,0.0,abund,0.0,4261206,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,3162566,3162566,Pseudarthrobacter_sp._WHRI_8279,Pseudarthrobacter_sp._WHRI_8279,species,0.0,abund,0.0,4747121,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,3231715,3231715,Streptomyces_sp._HUAS_ZL42,Streptomyces_sp._HUAS_ZL42,species,0.0,abund,0.0,9866886,25,25,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,3234142,3234142,Pedobacter_sp._WC2423,Pedobacter_sp._WC2423,species,0.0,abund,0.0,5978383,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,3273430,3273430,Acidovorax_sp._BLS4,Acidovorax_sp._BLS4,species,0.0,abund,0.0,5384305,2,2,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,3342640,3342640,Roseomonas_sp._CCTCC_AB2023176,Roseomonas_sp._CCTCC_AB2023176,species,0.0,abund,0.0,5468997,1,1,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,3390273,3390273,Klebsiella_pneumoniae_complex,Klebsiella pneumoniae_complex,species,0.01687,abund,0.0001687,7145017,259,187,species
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,68,68,Lysobacter,Lysobacter,genus,0.0,abund,0.0,4912193,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,194,194,Campylobacter,Campylobacter,genus,0.00452,abund,4.52e-05,1805972,10,5,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,237,237,Flavobacterium,Flavobacterium,genus,0.0,abund,0.0,4161490,2,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,265,265,Paracoccus,Paracoccus,genus,0.0,abund,0.0,3932461,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,283,283,Comamonas,Comamonas,genus,0.0,abund,0.0,4878985,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,286,286,Pseudomonas,Pseudomonas,genus,0.00105,abund,1.05e-05,6674888,28,21,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,374,374,Bradyrhizobium,Bradyrhizobium,genus,0.0,abund,0.0,9007056,3,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,379,379,Rhizobium,Rhizobium,genus,0.0,abund,0.0,6772316,1,0,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,416,416,Methylomonas,Methylomonas,genus,0.0,abund,0.0,4924650,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,469,469,Acinetobacter,Acinetobacter,genus,0.0,abund,0.0,4744311,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,475,475,Moraxella,Moraxella,genus,0.0,abund,0.0,4285328,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,507,507,Alcaligenes,Alcaligenes,genus,0.0,abund,0.0,4384438,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,544,544,Citrobacter,Citrobacter,genus,0.00237,abund,2.37e-05,6400241,37,34,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,547,547,Enterobacter,Enterobacter,genus,0.00247,abund,2.47e-05,5474809,63,50,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,551,551,Erwinia,Erwinia,genus,0.0,abund,0.0,11627113,1,0,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,561,561,Escherichia,Escherichia,genus,8.76252,abund,0.0876252,5891761,55688,40181,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,570,570,Klebsiella,Klebsiella,genus,0.01687,abund,0.0001687,6678712,274,194,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,581,581,Morganella,Morganella,genus,0.0,abund,0.0,3799534,1,0,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,590,590,Salmonella,Salmonella,genus,0.013760000000000001,abund,0.0001376,5247608,71,68,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,613,613,Serratia,Serratia,genus,0.0,abund,0.0,8295890,1,0,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,620,620,Shigella,Shigella,genus,0.02497,abund,0.0002497,5241151,576,559,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,629,629,Yersinia,Yersinia,genus,0.0,abund,0.0,5767271,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,637,637,Arsenophonus,Arsenophonus,genus,0.0,abund,0.0,3887552,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,662,662,Vibrio,Vibrio,genus,0.0,abund,0.0,5517093,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,724,724,Haemophilus,Haemophilus,genus,0.0,abund,0.0,2178393,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,773,773,Bartonella,Bartonella,genus,0.0,abund,0.0,2783776,2,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,816,816,Bacteroides,Bacteroides,genus,12.44819,abund,0.1244819,5799046,69243,64632,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,836,836,Porphyromonas,Porphyromonas,genus,0.0,abund,0.0,2362768,2,2,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,838,838,Prevotella,Prevotella,genus,6.02433,abund,0.0602433,3832744,28297,28187,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,841,841,Roseburia,Roseburia,genus,2.24111,abund,0.0224111,3800853,5576,5356,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,848,848,Fusobacterium,Fusobacterium,genus,6.391249999999999,abund,0.0639125,3080410,15964,15044,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,970,970,Selenomonas,Selenomonas,genus,0.0,abund,0.0,2543633,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1263,1263,Ruminococcus,Ruminococcus,genus,0.0,abund,0.0,2892002,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1301,1301,Streptococcus,Streptococcus,genus,0.0,abund,0.0,2252004,2,2,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1350,1350,Enterococcus,Enterococcus,genus,0.00408,abund,4.08e-05,3900086,31,20,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1386,1386,Bacillus,Bacillus,genus,0.0,abund,0.0,4699370,15,10,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1485,1485,Clostridium,Clostridium,genus,0.0038000000000000004,abund,3.8e-05,4510973,27,14,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1573,1573,Clavibacter,Clavibacter,genus,0.0,abund,0.0,4237608,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1637,1637,Listeria,Listeria,genus,0.0,abund,0.0,2988078,2,0,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1654,1654,Actinomyces,Actinomyces,genus,0.0052,abund,5.2e-05,3027043,33,33,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1678,1678,Bifidobacterium,Bifidobacterium,genus,0.30916,abund,0.0030916,2365338,583,105,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1716,1716,Corynebacterium,Corynebacterium,genus,0.0,abund,0.0,3145945,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1730,1730,Eubacterium,Eubacterium,genus,0.0,abund,0.0,4897365,3,3,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1754,1754,Thermoanaerobacter,Thermoanaerobacter,genus,0.0,abund,0.0,2546689,1,0,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1763,1763,Mycobacterium,Mycobacterium,genus,0.0,abund,0.0,5018316,51,51,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1883,1883,Streptomyces,Streptomyces,genus,0.0,abund,0.0,9367943,33,30,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2071,2071,Saccharothrix,Saccharothrix,genus,0.0,abund,0.0,9512799,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2093,2093,Mycoplasma,Mycoplasma,genus,0.0,abund,0.0,1018642,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2172,2172,Methanobrevibacter,Methanobrevibacter,genus,0.1725,abund,0.001725,2175532,135,0,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,4895,4895,Schizosaccharomyces,Schizosaccharomyces,genus,0.0,abund,0.0,9232227,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,4930,4930,Saccharomyces,Saccharomyces,genus,0.00494,abund,4.94e-05,10462505,952,945,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,4958,4958,Debaryomyces,Debaryomyces,genus,0.0,abund,0.0,10651969,2,2,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,5475,5475,Candida,Candida,genus,0.00232,abund,2.32e-05,9533581,1082,1080,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,5543,5543,Trichoderma,Trichoderma,genus,0.0,abund,0.0,32577010,2,2,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,12916,12916,Acidovorax,Acidovorax,genus,0.0,abund,0.0,6039346,2,2,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,28065,28065,Rhodoferax,Rhodoferax,genus,0.0,abund,0.0,4714464,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,29465,29465,Veillonella,Veillonella,genus,41.37421,abund,0.4137421,2110435,56069,55726,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,32008,32008,Burkholderia,Burkholderia,genus,1.9999999999999998e-05,abund,2e-07,7360932,21,19,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,32199,32199,Buchnera,Buchnera,genus,0.0,abund,0.0,597450,2,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,40544,40544,Sutterella,Sutterella,genus,0.00272,abund,2.72e-05,2913187,8,4,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,44249,44249,Paenibacillus,Paenibacillus,genus,0.0,abund,0.0,6921948,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,48073,48073,Microbulbifer,Microbulbifer,genus,0.0,abund,0.0,4615317,5,5,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,53335,53335,Pantoea,Pantoea,genus,0.0,abund,0.0,4947003,1,0,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,55080,55080,Brevibacillus,Brevibacillus,genus,0.0,abund,0.0,5481634,1,0,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,68287,68287,Mesorhizobium,Mesorhizobium,genus,0.0,abund,0.0,6832309,2,2,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,71950,71950,Psilocybe,Psilocybe,genus,4.9999999999999996e-05,abund,5e-07,41732513,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,73029,73029,Dechloromonas,Dechloromonas,genus,0.0,abund,0.0,5540886,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,84111,84111,Eggerthella,Eggerthella,genus,0.00015999999999999999,abund,1.6e-06,3643702,6,4,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,84567,84567,Pedobacter,Pedobacter,genus,0.0,abund,0.0,5700758,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,86331,86331,Mogibacterium,Mogibacterium,genus,0.0,abund,0.0,1800896,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,114185,114185,Candidatus_Carsonella,Candidatus Carsonella,genus,0.0,abund,0.0,164531,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,125216,125216,Roseomonas,Roseomonas,genus,0.0,abund,0.0,5807858,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,133925,133925,Olsenella,Olsenella,genus,0.0,abund,0.0,2480739,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,150203,150203,Blastomonas,Blastomonas,genus,0.0,abund,0.0,3945237,1,0,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,152161,152161,Stappia,Stappia,genus,0.0,abund,0.0,4805045,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,158481,158481,Hahella,Hahella,genus,0.0,abund,0.0,6196398,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,160674,160674,Raoultella,Raoultella,genus,0.0,abund,0.0,9026606,1,0,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,178440,178440,Opitutus,Opitutus,genus,0.0,abund,0.0,5054194,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,189330,189330,Dorea,Dorea,genus,0.0,abund,0.0,3317665,3,3,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,207244,207244,Anaerostipes,Anaerostipes,genus,0.0,abund,0.0,3351878,3,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,216851,216851,Faecalibacterium,Faecalibacterium,genus,6.82983,abund,0.0682983,3023890,33709,32457,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,239759,239759,Alistipes,Alistipes,genus,0.03486,abund,0.0003486,3559379,121,87,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,239934,239934,Akkermansia,Akkermansia,genus,0.45266000000000006,abund,0.0045266,4083449,6222,3587,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,248744,248744,Marvinbryantia,Marvinbryantia,genus,0.0,abund,0.0,4577574,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,283168,283168,Odoribacter,Odoribacter,genus,0.00194,abund,1.94e-05,4393264,7,3,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,292632,292632,Subdoligranulum,Subdoligranulum,genus,0.0,abund,0.0,3118096,1,0,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,311181,311181,Denitratisoma,Denitratisoma,genus,0.0,abund,0.0,3974484,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,375288,375288,Parabacteroides,Parabacteroides,genus,0.0776,abund,0.000776,5384071,223,68,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,397864,397864,Barnesiella,Barnesiella,genus,0.0,abund,0.0,3260012,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,413496,413496,Cronobacter,Cronobacter,genus,0.0,abund,0.0,4483151,3,3,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,420345,420345,Lactonifactor,Lactonifactor,genus,0.00173,abund,1.73e-05,4899275,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,447792,447792,Phytobacter,Phytobacter,genus,0.00857,abund,8.57e-05,9027070,34,0,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,459786,459786,Oscillibacter,Oscillibacter,genus,0.0029,abund,2.9e-05,3072092,3,3,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,572511,572511,Blautia,Blautia,genus,0.0,abund,0.0,4326021,12,7,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,574697,574697,Butyricimonas,Butyricimonas,genus,0.0,abund,0.0,5062349,2,2,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,577309,577309,Paraprevotella,Paraprevotella,genus,0.0,abund,0.0,4080155,4,4,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,698776,698776,Cellulosilyticum,Cellulosilyticum,genus,0.0053100000000000005,abund,5.31e-05,4782214,6,5,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,766765,766765,Yamadazyma,Yamadazyma,genus,0.0,abund,0.0,9926594,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,909656,909656,Phocaeicola,Phocaeicola,genus,0.02564,abund,0.0002564,4719137,148,70,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,946234,946234,Flavonifractor,Flavonifractor,genus,0.0,abund,0.0,4691745,6,5,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1069494,1069494,Trueperella,Trueperella,genus,0.0,abund,0.0,2736782,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1070314,1070314,Halorussus,Halorussus,genus,0.0,abund,0.0,4238839,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1348911,1348911,Coprobacter,Coprobacter,genus,0.0,abund,0.0,3808002,4,4,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1392389,1392389,Intestinimonas,Intestinimonas,genus,0.0024600000000000004,abund,2.46e-05,3376471,17,15,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1432051,1432051,Eisenbergiella,Eisenbergiella,genus,0.0,abund,0.0,7083291,2,2,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1433996,1433996,Desulfobaculum,Desulfobaculum,genus,0.0,abund,0.0,3388341,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1470540,1470540,Jeotgalibaca,Jeotgalibaca,genus,0.0,abund,0.0,2426113,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1505657,1505657,Intestinibacter,Intestinibacter,genus,3.9999999999999996e-05,abund,4e-07,3006269,16,16,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1506553,1506553,Lachnoclostridium,Lachnoclostridium,genus,0.0,abund,0.0,4409831,5,0,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1649459,1649459,Hungatella,Hungatella,genus,0.0,abund,0.0,5662031,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1649506,1649506,Thermoflavifilum,Thermoflavifilum,genus,0.0,abund,0.0,2828323,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1742993,1742993,Pseudarthrobacter,Pseudarthrobacter,genus,0.0,abund,0.0,4552864,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1766253,1766253,Agathobacter,Agathobacter,genus,3.9999999999999996e-05,abund,4e-07,3425095,6,4,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1843210,1843210,Anaerocolumna,Anaerocolumna,genus,0.0,abund,0.0,5936457,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1870884,1870884,Clostridioides,Clostridioides,genus,1.23199,abund,0.0123199,4134190,5828,2168,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1905344,1905344,Ruthenibacterium,Ruthenibacterium,genus,0.0,abund,0.0,4419852,5,5,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1918385,1918385,Acutalibacter,Acutalibacter,genus,0.0,abund,0.0,3802813,2,0,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1918536,1918536,Longicatena,Longicatena,genus,0.00264,abund,2.64e-05,3103757,3,3,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1918598,1918598,Turicimonas,Turicimonas,genus,0.0,abund,0.0,2887709,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1924110,1924110,Massilimicrobiota,Massilimicrobiota,genus,0.0,abund,0.0,2661126,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,1928820,1928820,Intestinibacillus,Intestinibacillus,genus,0.0,abund,0.0,3035319,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2035811,2035811,Pseudodesulfovibrio,Pseudodesulfovibrio,genus,0.0,abund,0.0,3839375,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2039302,2039302,Monoglobus,Monoglobus,genus,0.0,abund,0.0,2810259,2,2,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2039723,2039723,Thiomicrorhabdus,Thiomicrorhabdus,genus,0.0,abund,0.0,2586142,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2048137,2048137,Agathobaculum,Agathobaculum,genus,0.0,abund,0.0,3606389,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2163168,2163168,Kineothrix,Kineothrix,genus,0.0,abund,0.0,4329371,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2172004,2172004,Lawsonibacter,Lawsonibacter,genus,0.0033000000000000004,abund,3.3e-05,3126090,6,6,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2211635,2211635,Cognatishimia,Cognatishimia,genus,0.0,abund,0.0,3252335,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2316020,2316020,Mediterraneibacter,Mediterraneibacter,genus,0.0013499999999999999,abund,1.35e-05,3209043,41,23,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2529408,2529408,Schaalia,Schaalia,genus,0.0,abund,0.0,2348905,3,3,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2571160,2571160,Trinickia,Trinickia,genus,0.0,abund,0.0,7582899,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2692113,2692113,Gleimia,Gleimia,genus,0.0,abund,0.0,2122058,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2719231,2719231,Lacrimispora,Lacrimispora,genus,0.0,abund,0.0,4823867,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2719313,2719313,Enterocloster,Enterocloster,genus,0.00132,abund,1.32e-05,6311022,73,44,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2742598,2742598,Limosilactobacillus,Limosilactobacillus,genus,13.49803,abund,0.1349803,2227545,14963,4482,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2748674,2748674,Zhaonella,Zhaonella,genus,0.0,abund,0.0,3314304,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2749267,2749267,Amedibacterium,Amedibacterium,genus,0.00273,abund,2.73e-05,2996298,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2759736,2759736,Lacticaseibacillus,Lacticaseibacillus,genus,0.0,abund,0.0,3786814,6,2,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2767842,2767842,Lactiplantibacillus,Lactiplantibacillus,genus,0.0,abund,0.0,4008837,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2767890,2767890,Paucilactobacillus,Paucilactobacillus,genus,0.0,abund,0.0,2321698,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2767893,2767893,Lentilactobacillus,Lentilactobacillus,genus,0.0,abund,0.0,2351575,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2789775,2789775,Actinomarinicola,Actinomarinicola,genus,0.0,abund,0.0,3715454,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2815786,2815786,Sodaliphilus,Sodaliphilus,genus,0.0,abund,0.0,3340670,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2837508,2837508,Rossellomorea,Rossellomorea,genus,0.0,abund,0.0,4547352,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2842531,2842531,Solibaculum,Solibaculum,genus,0.0,abund,0.0,2541474,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2867376,2867376,Desulfoscipio,Desulfoscipio,genus,0.0,abund,0.0,4558367,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2888809,2888809,Novisyntrophococcus,Novisyntrophococcus,genus,0.0024600000000000004,abund,2.46e-05,3420321,6,6,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2892397,2892397,Pusillibacter,Pusillibacter,genus,0.0,abund,0.0,3407680,2,2,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2944152,2944152,Wujia,Wujia,genus,0.0,abund,0.0,2942917,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2944198,2944198,Wansuia,Wansuia,genus,0.0,abund,0.0,3949724,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2974257,2974257,Hoylesella,Hoylesella,genus,0.0,abund,0.0,3084569,4,4,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2976759,2976759,Capillimicrobium,Capillimicrobium,genus,0.0,abund,0.0,5953270,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,2992720,2992720,Acidilutibacter,Acidilutibacter,genus,0.0,abund,0.0,3743723,1,1,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,3025755,3025755,Thomasclavelia,Thomasclavelia,genus,0.0,abund,0.0,2879920,1,0,genus
+Centrifuger,unified,Centrifuger_unified,ZymoMockD6331,ZymoMockD6331,ont,D6331_Qiagen,3393728,3393728,Owariibacterium,Owariibacterium,genus,0.0,abund,0.0,3606305,4,4,genus

@@ -1,0 +1,9 @@
+# ZymoBIOMICS Gut Microbiome Standard D6331 — PacBio HiFi.
+# Both fastqs share the Shoreline Breaker DNA extraction; differ in input mass.
+# Used by Fig 2 (PacBio mock detection), Figs 4-5 (PacBio rel-abund + concordance).
+#
+# Usage:
+#   bash scripts/process/process.sh --db unified --tools all \
+#       --dataset-list data/datasets_mock_pacbio.txt
+/dodo/eh58/bakeoff/data/ZymoMockD6331/pacbio/SRR13128013.fastq   # low input
+/dodo/eh58/bakeoff/data/ZymoMockD6331/pacbio/SRR13128014.fastq   # standard input

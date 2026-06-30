@@ -1,0 +1,4 @@
+label,relpath,sep,name_col,abund_col
+zymoD6331,ZymoMockD6331/zymoD6331_gt.csv,",",name,Genomic_DNA
+simulated_pacbio,simulated/pacbio/sim_pacbio_gt.tsv,\t,name,
+simulated_ont,simulated/ont/sim_ont_gt.tsv,\t,name,

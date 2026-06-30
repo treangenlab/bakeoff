@@ -1,0 +1,4 @@
+# Simulated ONT long reads — MIMIC + PBSIM3.
+# Per-platform split of datasets_simulated.txt, used for per-group read-length
+# stats (read_info.py → Fig 1). Profiling (Fig 8) still uses datasets_simulated.txt.
+/dodo/eh58/bakeoff/data/simulated/ont/sim_ont.fastq

@@ -1,0 +1,40 @@
+# Documentation drafts - final content lives in the GitHub wiki
+/doc/
+
+# Large raw + intermediate trees (distributed via Zenodo / SRA / IRB DUA)
+/archive/
+/reports/
+/temp/
+/test/
+/_staging/
+
+# Raw reads + per-read intermediates (Zenodo / SRA)
+/data/**/*.fastq
+/data/**/*.fq
+/data/**/*.fastq.gz
+/data/**/*.fq.gz
+/data/**/*.fna
+/data/**/*.fna.gz
+/data/**/*.fa
+/data/**/*.fa.gz
+/data/**/*.sra
+/data/read_stats/read-lengths/
+
+# DYN clinical reads (IRB-restricted)
+/data/DYN/
+
+# Results: only ship metadata/ (analysis-prep + dyn-prep — enables Tier 1 reproduction).
+# Everything else (error-rate, per-timestamp figure renderings, database-comparison,
+# read-stats, resource-benchmark) is regenerable from scripts.
+/results/*
+!/results/metadata/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Editor / OS
+.DS_Store
+*.swp

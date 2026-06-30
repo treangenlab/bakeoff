@@ -1,0 +1,8 @@
+/dodo/eh58/bakeoff/data/DYN/pacbio/DYN_0004_D10.fastq
+/dodo/eh58/bakeoff/data/DYN/pacbio/DYN_0021_D03.fastq
+/dodo/eh58/bakeoff/data/DYN/pacbio/DYN_0036_D01.fastq
+/dodo/eh58/bakeoff/data/DYN/pacbio/DYN_0036_D05.fastq
+/dodo/eh58/bakeoff/data/DYN/pacbio/DYN_0036_D08.fastq
+/dodo/eh58/bakeoff/data/DYN/pacbio/DYN_0036_D11.fastq
+/dodo/eh58/bakeoff/data/DYN/pacbio/DYN_0036_D14.fastq
+/dodo/eh58/bakeoff/data/DYN/pacbio/DYN_0036_D16.fastq

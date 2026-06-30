@@ -1,0 +1,12 @@
+Kraken2: abundance    numReads    numDirectReads  taxRank taxid   name
+    abundance = numReads / sum(numDirectReads)
+    numDirectReads = total reads of dataset
+
+Centrifuge/Centrifuger: name	taxID	taxRank	genomeSize	numReads	numUniqueReads	abundance
+    abundance using EM-corrected
+
+Sourmash: https://sourmash.readthedocs.io/en/latest/classifying-signatures.html#appendix-d-gather-csv-output-columns
+
+Sylph: https://github.com/bluenote-1577/sylph/wiki/Output-format 
+    Taxonomic_abundance: normalized taxonomic abundance as a percentage. Coverage-normalized - same as MetaPhlAn abundance
+    Sequence_abundance: normalized sequence abundance as a percentage. The "percentage of reads" assigned to each genome - same as Kraken abundance
