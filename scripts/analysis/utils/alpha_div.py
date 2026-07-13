@@ -19,7 +19,7 @@ renormalization over classified mass.
 DYN cohort-cache helpers
 ------------------------
 find_latest_cohort_cache(out_root)
-    Locate the most recent <out>/metadata/<ts>/dyn-prep/tables/cohorts/
+    Locate the most recent <out>/prepared/<ts>/dyn-prep/tables/cohorts/
     written by `dyn_prep.py`.
 
 load_cohort_plus_illumina(cache_dir, cohort)
@@ -38,6 +38,8 @@ from pathlib import Path
 
 import numpy as np
 import pandas as pd
+
+from .results import RESULTS_SUBDIR
 
 # DYN cohort-cache schema constants (must match dyn_prep.py)
 _DYN_TOOLS    = ["Kraken2", "Centrifuge", "Centrifuger", "sourmash", "sylph", "ganon2"]
@@ -160,15 +162,15 @@ def compute_alpha_diversity(
 # alpha-div consumer already imports utils.alpha_div.
 # ----------------------------------------------------------------------
 def find_latest_cohort_cache(out_root: Path | str) -> Path:
-    """Return the most recent <out_root>/metadata/<ts>/dyn-prep/tables/cohorts/
+    """Return the most recent <out_root>/prepared/<ts>/dyn-prep/tables/cohorts/
     directory written by dyn_prep.py.  Raise FileNotFoundError if none
     exist.  The "most recent" timestamp is the lexicographically largest
     one, which matches the YYYYMMDD_HHMMSS format dyn_prep.py uses."""
     out_root = Path(out_root)
-    candidates = sorted(out_root.glob("metadata/*/dyn-prep/tables/cohorts"))
+    candidates = sorted(out_root.glob(f"{RESULTS_SUBDIR}/*/dyn-prep/tables/cohorts"))
     if not candidates:
         raise FileNotFoundError(
-            f"No cohort cache found under {out_root}/metadata/*/dyn-prep/tables/cohorts/. "
+            f"No cohort cache found under {out_root}/prepared/*/dyn-prep/tables/cohorts/. "
             "Run `python scripts/analysis/dyn_prep.py` to build one."
         )
     return candidates[-1]

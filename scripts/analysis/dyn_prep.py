@@ -7,14 +7,14 @@ Walks the raw per-tool report trees under --reports-default and
 writes one long-form TSV per (cohort, tool, db_mode, rank) into a
 timestamped run directory:
 
-    <out>/metadata/<timestamp>/dyn-prep/
+    <out>/prepared/<timestamp>/dyn-prep/
     ├── dyn_prep.log
     ├── dyn_prep.err
     └── tables/cohorts/
         └── {cohort}_{tool}_{db_mode}_{rank}.tsv   (96 files total)
 
 Downstream notebooks (dyn_alpha_div.ipynb, dyn_heatmap.ipynb) auto-discover
-the most recent <timestamp> dir under <out>/metadata/, so any successful
+the most recent <timestamp> dir under <out>/prepared/, so any successful
 run just becomes the new default cache without any path updates.
 
 Cohort assembly here is intentionally raw and un-intersected: every cohort
@@ -57,6 +57,7 @@ from utils.parser import (  # noqa: E402
     load_ganon_tre,
 )
 from utils.normalize import drop_unclassified_token, add_norm_columns  # noqa: E402
+from utils.results import RESULTS_SUBDIR  # noqa: E402
 
 COHORTS_ALL = ["illumina", "pacbio", "ont_qiagen", "ont_zymo"]
 DB_MODES = ["default", "unified"]
@@ -370,7 +371,7 @@ def _check_resources_safety(threads: int, label: str = "threads") -> None:
 # os.dup2 so the ProcessPool workers inherit the redirected FDs.
 def _setup_run_dir_and_logs(out_root: Path) -> tuple[Path, Path, Path]:
     ts = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-    run_dir = out_root / "metadata" / ts / "dyn-prep"
+    run_dir = out_root / RESULTS_SUBDIR / ts / "dyn-prep"
     run_dir.mkdir(parents=True, exist_ok=True)
     log_path = run_dir / "dyn_prep.log"
     err_path = run_dir / "dyn_prep.err"
@@ -408,7 +409,7 @@ def parse_args() -> argparse.Namespace:
                    help="reference-DB root (for ETE3 NCBITaxa SQLite files)")
     p.add_argument("--out", type=Path,
                    default=Path("results"),
-                   help="output root; cache lands at <out>/metadata/<ts>/dyn-prep/")
+                   help="output root; cache lands at <out>/prepared/<ts>/dyn-prep/")
     p.add_argument("--cohorts", nargs="+",
                    default=COHORTS_ALL,
                    choices=COHORTS_ALL,
@@ -421,7 +422,7 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--dry-run", action="store_true",
                    help="Print the planned (cohort, db, tool, rank) jobs with input-file "
                         "counts; write dry-run.log + dry-run_manifest.csv at the fixed path "
-                        "<--out>/metadata/dry-run/dyn-prep/ (overwrites on rerun); "
+                        "<--out>/prepared/dry-run/dyn-prep/ (overwrites on rerun); "
                         "do not parse, do not write any cohort TSVs.")
     return p.parse_args()
 
@@ -430,14 +431,14 @@ def _dry_run(args) -> int:
     """Walk planned job inputs, print the plan, write dry-run_manifest.csv,
     exit without parsing. Output mirrored to terminal AND a dry-run.log.
 
-    Lands at a fixed path under <out>/metadata/dry-run/dyn-prep/ — the
+    Lands at a fixed path under <out>/prepared/dry-run/dyn-prep/ — the
     contents are wiped on each invocation so the dir always reflects the
-    most recent dry-run only. This keeps the metadata/ tree clean (no
+    most recent dry-run only. This keeps the prepared/ tree clean (no
     timestamped stubs) and find_latest_cohort_cache ignores it (it globs
     \\d{8}_\\d{6} timestamps, not the literal 'dry-run')."""
     import shutil
     ts = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-    run_dir = args.out / "metadata" / "dry-run" / "dyn-prep"
+    run_dir = args.out / RESULTS_SUBDIR / "dry-run" / "dyn-prep"
     if run_dir.exists():
         shutil.rmtree(run_dir)
     run_dir.mkdir(parents=True, exist_ok=True)
@@ -536,7 +537,7 @@ def main() -> int:
         run_dir, log_path, err_path = _setup_run_dir_and_logs(args.out)
     else:
         ts = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-        run_dir = args.out / "metadata" / ts / "dyn-prep"
+        run_dir = args.out / RESULTS_SUBDIR / ts / "dyn-prep"
         run_dir.mkdir(parents=True, exist_ok=True)
         log_path = err_path = None
 

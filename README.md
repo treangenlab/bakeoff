@@ -87,7 +87,7 @@ The figure (and per-rank metric tables) land under `results/<ts>/detection/thres
 | 8, S8 | `scripts/analysis/dyn_alpha_div.ipynb` | cohorts, `MIN_ABUNDANCE` |
 | Table S1 | `scripts/analysis/auxiliary/database_comparison.ipynb` | - |
 
-Figs 7, 8, and their supplementary panels additionally need the DYN cohort cache under `results/metadata/<ts>/dyn-prep/tables/cohorts/` - shipped with the repo. Figs 1, 9, 10, and Fig S1 (read-length, resource benchmarking, recommended-workflow diagram, error rates) require the full pipeline or are hand-drawn; they are not metadata-reproducible.
+Figs 7, 8, and their supplementary panels additionally need the DYN cohort cache under `results/prepared/<ts>/dyn-prep/tables/cohorts/` - shipped with the repo. Figs 1, 9, 10, and Fig S1 (read-length, resource benchmarking, recommended-workflow diagram, error rates) require the full pipeline or are hand-drawn; they are not reproducible from the shipped tree.
 
 To sweep a threshold (e.g. the published detection sensitivity panel `0.0 / 0.0001 / 0.001 / 0.01 / 0.1`) without editing the notebook - and across every dataset in one command:
 
