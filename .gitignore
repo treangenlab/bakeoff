@@ -27,7 +27,7 @@
 # Everything else (error-rate, per-timestamp figure renderings, database-comparison,
 # read-stats, resource-benchmark) is regenerable from scripts.
 /results/*
-!/results/metadata/
+!/results/prepared/
 
 # Python artifacts
 __pycache__/
