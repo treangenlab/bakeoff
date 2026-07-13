@@ -1,0 +1,31 @@
+tool,db,tool_db,data_type,project,technology,sample,taxid_raw,taxid,name_raw,name,rank,value,value_type,tax_abund_raw,seq_abund_raw,norm_abund,classified_fraction
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,562,562,Escherichia coli,Escherichia coli,species,17.2482,fraction_reads,1.4093,17.2482,18.013296766876305,0.957526
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,817,817,Bacteroides fragilis,Bacteroides fragilis,species,21.4988,fraction_reads,1.6873,21.4988,22.452445155536246,0.957526
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,853,853,Faecalibacterium prausnitzii_E,Faecalibacterium prausnitzii,species,13.0291,fraction_reads,1.8246,13.0291,13.607045657245859,0.957526
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1496,1496,Clostridioides difficile,Clostridioides difficile,species,2.5464,fraction_reads,0.2521,2.5464,2.6593533752608285,0.957526
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1613,1613,Limosilactobacillus fermentum,Limosilactobacillus fermentum,species,0.8159,fraction_reads,0.1778,0.8159,0.8520917447672438,0.957526
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1680,1680,Bifidobacterium adolescentis,Bifidobacterium adolescentis,species,2.0359,fraction_reads,0.4008,2.0359,2.1262085833700595,0.957526
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2173,2173,Methanobrevibacter_A smithii,Methanobrevibacter smithii,species,0.0652,fraction_reads,0.0145,0.0652,0.06809214580074065,0.957526
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,5476,5476,Candida albicans,Candida albicans,species,0.236,fraction_reads,0.0068,0.236,0.2464685032051349,0.957526
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,28128,28128,Prevotella corporis,Prevotella corporis,species,7.4917,fraction_reads,1.1006,7.4917,7.824017311279276,0.957526
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,28901,28901,Salmonella enterica,Salmonella enterica,species,0.0138,fraction_reads,0.0012,0.0138,0.01441214128911382,0.957526
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,76859,76859,Fusobacterium animalis,Fusobacterium animalis,species,4.1285,fraction_reads,0.6756,4.1285,4.311632268993217,0.957526
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,239935,239935,Akkermansia muciniphila,Akkermansia muciniphila,species,1.8839,fraction_reads,0.2909,1.8839,1.9674661575769221,0.957526
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,301301,301301,Roseburia hominis,Roseburia hominis,species,5.3062,fraction_reads,0.6077,5.3062,5.541572761470706,0.957526
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,423477,423477,Veillonella rogosae,Veillonella rogosae,species,19.453,fraction_reads,3.659,19.453,20.315897427328345,0.957526
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,561,561,Escherichia,Escherichia,genus,17.2482,fraction_reads,1.4093,17.2482,17.98260978356062,0.95916
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,590,590,Salmonella,Salmonella,genus,0.0138,fraction_reads,0.0012,0.0138,0.014387589140497935,0.95916
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,816,816,Bacteroides,Bacteroides,genus,21.4988,fraction_reads,1.6873,21.4988,22.414195754618625,0.95916
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,838,838,Prevotella,Prevotella,genus,7.4917,fraction_reads,1.1006,7.4917,7.810688519120897,0.95916
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,841,841,Roseburia,Roseburia,genus,5.3062,fraction_reads,0.6077,5.3062,5.532132282413779,0.95916
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,848,848,Fusobacterium,Fusobacterium,genus,4.1285,fraction_reads,0.6756,4.1285,4.304287084532299,0.95916
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1678,1678,Bifidobacterium,Bifidobacterium,genus,2.0359,fraction_reads,0.4008,2.0359,2.1225864297927353,0.95916
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2172,2172,Methanobrevibacter_A,Methanobrevibacter,genus,0.0652,fraction_reads,0.0145,0.0652,0.06797614579423662,0.95916
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,5475,5475,Candida,Candida,genus,0.236,fraction_reads,0.0068,0.236,0.24604862588097917,0.95916
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,29465,29465,Veillonella,Veillonella,genus,19.453,fraction_reads,3.659,19.453,20.281287793485966,0.95916
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,186777,186777,Muvirus,Muvirus,genus,0.0273,fraction_reads,0.2828,0.0273,0.028462404604028525,0.95916
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,216851,216851,Faecalibacterium,Faecalibacterium,genus,13.0291,fraction_reads,1.8246,13.0291,13.583865048584176,0.95916
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,239934,239934,Akkermansia,Akkermansia,genus,1.8839,fraction_reads,0.2909,1.8839,1.964114433462613,0.95916
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,1870884,1870884,Clostridioides,Clostridioides,genus,2.5464,fraction_reads,0.2521,2.5464,2.6548229700988366,0.95916
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2732980,2732980,Felsduovirus,Felsduovirus,genus,0.1361,fraction_reads,1.4287,0.1361,0.14189499145085283,0.95916
+Sylph,default,Sylph_default,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128013,2742598,2742598,Limosilactobacillus,Limosilactobacillus,genus,0.8159,fraction_reads,0.1778,0.8159,0.8506401434588597,0.95916

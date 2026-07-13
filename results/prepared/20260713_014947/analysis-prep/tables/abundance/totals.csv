@@ -1,0 +1,13 @@
+tool,db,tool_db,project,technology,sample,total_for_normalization
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ont,D6331_Qiagen,301105.0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,ont,D6331_Zymo,2979141.0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,pacbio,SRR13128013,2770833.0
+Kraken2,unified,Kraken2_unified,ZymoMockD6331,pacbio,SRR13128014,1978852.0
+Kraken2,unified,Kraken2_unified,simulated,ont,sim_ont,2388554.0
+Kraken2,unified,Kraken2_unified,simulated,pacbio,sim_pacbio,1239864.0
+Kraken2,default,Kraken2_default,ZymoMockD6331,ont,D6331_Qiagen,301105.0
+Kraken2,default,Kraken2_default,ZymoMockD6331,ont,D6331_Zymo,2979141.0
+Kraken2,default,Kraken2_default,ZymoMockD6331,pacbio,SRR13128013,2770833.0
+Kraken2,default,Kraken2_default,ZymoMockD6331,pacbio,SRR13128014,1978852.0
+Kraken2,default,Kraken2_default,simulated,ont,sim_ont,2388554.0
+Kraken2,default,Kraken2_default,simulated,pacbio,sim_pacbio,1239864.0

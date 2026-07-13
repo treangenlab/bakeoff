@@ -1,0 +1,35 @@
+rank,name,taxid,abundance
+species,Escherichia coli,562,14.0
+species,Bacteroides fragilis,817,14.0
+species,Fusobacterium nucleatum,851,6.0
+species,Faecalibacterium prausnitzii,853,14.0
+species,Enterococcus faecalis,1351,0.001
+species,Clostridioides difficile,1496,1.5
+species,Clostridium perfringens,1502,0.0001
+species,Lactobacillus fermentum,1613,6.0
+species,Bifidobacterium adolescentis,1680,6.0
+species,Methanobrevibacter smithii,2173,0.1
+species,Saccharomyces cerevisiae,4932,1.4
+species,Candida albicans,5476,1.5
+species,Prevotella corporis,28128,6.0
+species,Salmonella enterica,28901,0.01
+species,Akkermansia muciniphila,239935,1.5
+species,Roseburia hominis,301301,14.0
+species,Veillonella rogosae,423477,14.0
+genus,Escherichia,561,14.0
+genus,Salmonella,590,0.01
+genus,Bacteroides,816,14.0
+genus,Prevotella,838,6.0
+genus,Roseburia,841,14.0
+genus,Fusobacterium,848,6.0
+genus,Enterococcus,1350,0.001
+genus,Clostridium,1485,0.0001
+genus,Bifidobacterium,1678,6.0
+genus,Methanobrevibacter,2172,0.1
+genus,Saccharomyces,4930,1.4
+genus,Candida,5475,1.5
+genus,Veillonella,29465,14.0
+genus,Faecalibacterium,216851,14.0
+genus,Akkermansia,239934,1.5
+genus,Clostridioides,1870884,1.5
+genus,Limosilactobacillus,2742598,6.0

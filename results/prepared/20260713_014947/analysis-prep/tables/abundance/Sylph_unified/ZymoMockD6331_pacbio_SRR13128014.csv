@@ -1,0 +1,33 @@
+tool,db,tool_db,data_type,project,technology,sample,taxid_raw,taxid,name_raw,name,rank,value,value_type,tax_abund_raw,seq_abund_raw,norm_abund,classified_fraction
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,562,562,Escherichia coli,Escherichia coli,species,11.0387,abund,11.0387,17.2649,11.038677922644155,1.000002
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,817,817,Bacteroides fragilis,Bacteroides fragilis,species,13.4441,abund,13.4441,22.0593,13.444073111853776,1.000002
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,851,851,Fusobacterium nucleatum,Fusobacterium nucleatum,species,5.8177,abund,5.8177,4.523,5.81768836462327,1.000002
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,853,853,Faecalibacterium prausnitzii,Faecalibacterium prausnitzii,species,15.4019,abund,15.4019,14.2522,15.401869196261607,1.000002
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,1496,1496,Clostridioides difficile,Clostridioides difficile,species,2.0325,abund,2.0325,2.6589,2.03249593500813,1.000002
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,1613,1613,Limosilactobacillus fermentum,Limosilactobacillus fermentum,species,1.4917,abund,1.4917,0.9034,1.4916970166059669,1.000002
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,1680,1680,Bifidobacterium adolescentis,Bifidobacterium adolescentis,species,3.0394,abund,3.0394,2.0169,3.0393939212121572,1.000002
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,2173,2173,Methanobrevibacter smithii,Methanobrevibacter smithii,species,0.1111,abund,0.1111,0.0654,0.1110997778004444,1.000002
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,4932,4932,Saccharomyces cerevisiae,Saccharomyces cerevisiae,species,0.0613,abund,0.0613,0.2365,0.061299877400245194,1.000002
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,5476,5476,Candida albicans,Candida albicans,species,0.0586,abund,0.0586,0.2656,0.0585998828002344,1.000002
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,10677,10677,Muvirus mu,Muvirus mu,species,2.3122,abund,2.3122,0.027,2.312195375609248,1.000002
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,28128,28128,Prevotella corporis,Prevotella corporis,species,8.8197,abund,8.8197,8.2543,8.819682360635277,1.000002
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,28901,28901,Salmonella enterica,Salmonella enterica,species,0.0108,abund,0.0108,0.0169,0.0107999784000432,1.000002
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,239935,239935,Akkermansia muciniphila,Akkermansia muciniphila,species,2.2935,abund,2.2935,2.0768,2.2934954130091736,1.000002
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,301301,301301,Roseburia hominis,Roseburia hominis,species,4.904,abund,4.904,5.3933,4.903990192019616,1.000002
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,423477,423477,Veillonella rogosae,Veillonella rogosae,species,29.163,abund,29.163,19.9857,29.162941674116652,1.000002
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,561,561,Escherichia,Escherichia,genus,11.0387,abund,11.0387,17.2649,11.038677922644156,1.0000019999999998
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,590,590,Salmonella,Salmonella,genus,0.0108,abund,0.0108,0.0169,0.010799978400043202,1.0000019999999998
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,816,816,Bacteroides,Bacteroides,genus,13.4441,abund,13.4441,22.0593,13.444073111853777,1.0000019999999998
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,838,838,Prevotella,Prevotella,genus,8.8197,abund,8.8197,8.2543,8.819682360635278,1.0000019999999998
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,841,841,Roseburia,Roseburia,genus,4.904,abund,4.904,5.3933,4.9039901920196165,1.0000019999999998
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,848,848,Fusobacterium,Fusobacterium,genus,5.8177,abund,5.8177,4.523,5.817688364623271,1.0000019999999998
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,1678,1678,Bifidobacterium,Bifidobacterium,genus,3.0394,abund,3.0394,2.0169,3.0393939212121577,1.0000019999999998
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,2172,2172,Methanobrevibacter,Methanobrevibacter,genus,0.1111,abund,0.1111,0.0654,0.11109977780044442,1.0000019999999998
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,4930,4930,Saccharomyces,Saccharomyces,genus,0.0613,abund,0.0613,0.2365,0.0612998774002452,1.0000019999999998
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,5475,5475,Candida,Candida,genus,0.0586,abund,0.0586,0.2656,0.058599882800234405,1.0000019999999998
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,29465,29465,Veillonella,Veillonella,genus,29.163,abund,29.163,19.9857,29.162941674116656,1.0000019999999998
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,186777,186777,Muvirus,Muvirus,genus,2.3122,abund,2.3122,0.027,2.3121953756092486,1.0000019999999998
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,216851,216851,Faecalibacterium,Faecalibacterium,genus,15.4019,abund,15.4019,14.2522,15.40186919626161,1.0000019999999998
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,239934,239934,Akkermansia,Akkermansia,genus,2.2935,abund,2.2935,2.0768,2.293495413009174,1.0000019999999998
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,1870884,1870884,Clostridioides,Clostridioides,genus,2.0325,abund,2.0325,2.6589,2.0324959350081304,1.0000019999999998
+Sylph,unified,Sylph_unified,ZymoMockD6331,ZymoMockD6331,pacbio,SRR13128014,2742598,2742598,Limosilactobacillus,Limosilactobacillus,genus,1.4917,abund,1.4917,0.9034,1.491697016605967,1.0000019999999998
