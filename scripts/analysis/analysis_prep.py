@@ -92,6 +92,7 @@ ETE3_SUBPATHS = {
     "sourmash_032022":   "default_db/sm_default/ete3_taxa/taxa032022.sqlite",
     "sylph_042024":      "default_db/sylph_default/taxa042024.sqlite",
     "sylph_gtdb_r220":   "default_db/sylph_default/ete3_taxa/taxaGTDB-r220.sqlite",
+    "centrifuger_102023":"default_db/cfer_default/ete3_taxa/taxa102023.sqlite",
 }
 
 # Map (tool, db) → which ete3 instance to use. Tools not in this map don't
@@ -101,10 +102,12 @@ NCBI_FOR_TOOL_DB = {
     ("Sourmash",    "unified"): "refseq_032025",
     ("Sylph",       "unified"): "refseq_032025",
     ("Centrifuge",  "unified"): "refseq_032025",
+    ("Centrifuger", "unified"): "refseq_032025",
     # Default-DB tools that need ete3 → the per-tool default snapshot
     ("Sourmash",    "default"): "sourmash_032022",
     ("Sylph",       "default"): "sylph_042024",
     ("Centrifuge",  "default"): "centrifuge_122016",
+    ("Centrifuger", "default"): "centrifuger_102023",
 }
 
 # Ground-truth registry: loaded from <--data-root>/ground_truth/registry.csv.
@@ -221,7 +224,7 @@ def _build_registries():
         "Centrifuger": {
             "parser": parse_centrifuger_report,
             "patterns": ["*_report.tsv"], "exclude": ["*_kreport.tsv"],
-            "kwargs": {}, "needs_ncbi": False,
+            "kwargs": {}, "needs_ncbi": True,
             "subdir": "Centrifuger-results",
         },
         "Ganon2": {

@@ -15,6 +15,7 @@ from pathlib import Path
 from .util import (
     _clean_name,
     project_taxid_to_rank,
+    canonicalize_merged,
     get_taxid_from_name,
     resolve_genus_from_species,
     extract_species_label,
@@ -567,7 +568,7 @@ def parse_centrifuge_report_ete3(filepath, rank="species", ncbi=None):
 
 # Centrifuger report parser
 
-def parse_centrifuger_report(filepath, rank="species"):
+def parse_centrifuger_report(filepath, rank="species", ncbi=None):
     """
     Parse a Centrifuger TSV report into a standardized per-rank table.
 
@@ -580,14 +581,20 @@ def parse_centrifuger_report(filepath, rank="species"):
       - numUniqueReads
       - abundance      (relative abundance; scale kept as-is)
 
-    This parser:
-      - keeps raw tool columns: genomeSize, numReads, numUniqueReads, abundance_raw
-      - adds raw + canonical taxon fields: taxid_raw/taxid, name_raw/name
-      - normalizes rank into a 'rank' column (lowercase); keeps 'taxRank_raw'
-      - standardizes the main numeric field into value/value_type
-      - aggregates true duplicates (same taxid + name) by summing numeric fields
-      - does NOT add tool/db/data_type/project/technology/sample metadata
+    Rank handling: Centrifuger's `taxRank` column is unreliable — it re-derives
+    ranks through a stale internal enum, so NCBI "species group" nodes print as
+    "species" (see doc/centrifuger_bug_note.md, mourisl/centrifuger#80). We ignore
+    it and re-rank every taxid against NCBI/ete3, keeping only nodes whose canonical
+    rank == the requested rank. Because Centrifuger reports *cumulative* (clade)
+    abundance, a species node already contains its strains, so we take its value
+    as-is and do NOT sum descendants (unlike Centrifuge, which is per-taxon and
+    rolls descendants up in parse_centrifuge_report_ete3). `taxRank_raw` is kept
+    for provenance.
+
+    Aggregates true duplicates (same taxid + name); does NOT add tool/db/sample metadata.
     """
+    if ncbi is None:
+        raise ValueError("parse_centrifuger_report requires ncbi=NCBITaxa(...)")
 
     df = pd.read_csv(filepath, sep="\t")
 
@@ -602,13 +609,8 @@ def parse_centrifuger_report(filepath, rank="species"):
         "name": "name",
     })
 
-    # --- Raw vs canonical rank ---
+    # Keep Centrifuger's raw rank label for provenance, but do not trust it.
     df["taxRank_raw"] = df["taxRank"].astype(str)
-    df["rank"] = df["taxRank_raw"].str.lower()
-
-    # Filter to requested rank ('species' or 'genus')
-    target = str(rank).lower()
-    df = df[df["rank"] == target].copy()
 
     # --- Raw vs canonical taxid ---
     df["taxid_raw"] = df["taxid"]
@@ -617,6 +619,27 @@ def parse_centrifuger_report(filepath, rank="species"):
         .fillna(0)
         .astype("Int64")
     )
+
+    # Canonicalize retired taxids via merged.dmp before re-ranking — ete3's get_rank
+    # does not auto-apply it, so a retired node (common in the default-DB report)
+    # would resolve to nothing and be dropped, e.g. a retired genus losing its
+    # cumulative mass (Σgenus < Σspecies). taxid_raw keeps the original id.
+    merged = canonicalize_merged(df["taxid"].dropna().tolist(), ncbi)
+    if merged:
+        df["taxid"] = df["taxid"].map(
+            lambda t: merged.get(int(t), int(t)) if pd.notna(t) else t
+        ).astype("Int64")
+
+    # Re-rank via NCBI and keep only nodes whose canonical rank is the target
+    # (species-group / above-species nodes drop out; strains re-rank below and
+    # drop out — the parent species' cumulative value already includes them).
+    target = str(rank).lower()
+    ids = [int(t) for t in df["taxid"].dropna().unique() if int(t) > 0]
+    canon = ncbi.get_rank(ids) if ids else {}
+    df = df[df["taxid"].map(
+        lambda t: pd.notna(t) and int(t) > 0 and canon.get(int(t)) == target
+    )].copy()
+    df["rank"] = target
 
     # --- Raw vs canonical name ---
     df["name_raw"] = df["name"].astype(str)

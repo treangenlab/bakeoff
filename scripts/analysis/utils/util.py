@@ -426,6 +426,22 @@ def project_taxid_to_rank(taxid: int, target_rank: str, ncbi) -> int | None:
 
     return None
 
+
+def canonicalize_merged(taxids, ncbi) -> dict:
+    """Map retired taxids to their current id via NCBI's merged.dmp.
+
+    ete3's get_rank/get_lineage do not auto-apply merged.dmp, so a retired taxid
+    resolves to nothing and gets dropped — e.g. a retired genus node loses its
+    cumulative mass, making Sigma-genus < Sigma-species. Returns {old: new} for the
+    retired ids among `taxids` only (current ids are absent from the map).
+    """
+    ids = [int(t) for t in taxids if t and int(t) > 0]
+    if not ids:
+        return {}
+    _, merged = ncbi._translate_merged(ids)
+    return merged
+
+
 def get_taxid_from_name(name: str, rank_level: str, ncbi, clean=True) -> int:
     """
     Resolve taxid from name using ete3.

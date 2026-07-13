@@ -87,6 +87,8 @@ def _ete3_paths(db_dir: Path) -> dict[tuple[str, str], str]:
     return {
         ("Centrifuge", "default"): str(db_dir / "default_db" / "cf_default"     / "ete3_taxa" / "taxa122016.sqlite"),
         ("Centrifuge", "unified"): str(db_dir / "refseq03032025"                / "ete3_taxa" / "taxa032025.sqlite"),
+        ("Centrifuger","default"): str(db_dir / "default_db" / "cfer_default"   / "ete3_taxa" / "taxa102023.sqlite"),
+        ("Centrifuger","unified"): str(db_dir / "refseq03032025"                / "ete3_taxa" / "taxa032025.sqlite"),
         ("sourmash",   "default"): str(db_dir / "default_db" / "sm_default"     / "ete3_taxa" / "taxa032022.sqlite"),
         ("sourmash",   "unified"): str(db_dir / "refseq03032025"                / "ete3_taxa" / "taxa032025.sqlite"),
         ("sylph",      "default"): str(db_dir / "default_db" / "sylph_default"  / "taxa042024.sqlite"),
@@ -221,7 +223,7 @@ def _build_one_tooldb(cohort: str, db_mode: str, tool: str, rank: str,
         return key, str(out_path)
 
     ncbi = None
-    if parser_name in {"centrifuge", "sourmash", "sylph"}:
+    if parser_name in {"centrifuge", "centrifuger", "sourmash", "sylph"}:
         dbfile = ete3_dbfiles.get((tool, db_mode))
         if not dbfile:
             raise ValueError(f"Missing NCBITaxa dbfile for {(tool, db_mode)}")
@@ -244,7 +246,7 @@ def _build_one_tooldb(cohort: str, db_mode: str, tool: str, rank: str,
         elif parser_name == "centrifuge":
             df = parse_centrifuge_report_ete3(p, rank=rank, ncbi=ncbi)
         elif parser_name == "centrifuger":
-            df = parse_centrifuger_report(p, rank=rank)
+            df = parse_centrifuger_report(p, rank=rank, ncbi=ncbi)
         elif parser_name == "sourmash":
             df = parse_sourmash_report_ete3(p, rank=rank, ncbi=ncbi)
         elif parser_name == "sylph":
