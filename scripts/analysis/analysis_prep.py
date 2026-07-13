@@ -81,6 +81,7 @@ from utils.parser import (                                 # noqa: E402
     parse_sourmash_report_ete3,
     parse_sylph_mpa_ete3,
 )
+from utils.normalize import drop_unclassified_token         # noqa: E402
 
 # CONFIG — paths to ete3 sqlite snapshots (one per (tool, db) combo that needs
 # taxid resolution). Subpaths under --db-dir; override via CLI if your layout
@@ -462,6 +463,7 @@ def parse_one(row: dict, registry: dict, ncbi_reg: NCBIRegistry) -> pd.DataFrame
             frames.append(df_rank)
 
     df_all = pd.concat(frames, ignore_index=True) if frames else pd.DataFrame()
+    df_all = drop_unclassified_token(df_all)
 
     # Tag with manifest metadata.
     for c in ("tool", "db", "tool_db", "data_type", "project", "technology", "sample"):
