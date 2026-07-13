@@ -81,7 +81,7 @@ from utils.parser import (                                 # noqa: E402
     parse_sourmash_report_ete3,
     parse_sylph_mpa_ete3,
 )
-from utils.normalize import drop_unclassified_token         # noqa: E402
+from utils.normalize import drop_unclassified_token, add_norm_columns  # noqa: E402
 
 # CONFIG — paths to ete3 sqlite snapshots (one per (tool, db) combo that needs
 # taxid resolution). Subpaths under --db-dir; override via CLI if your layout
@@ -482,6 +482,7 @@ def _parse_one_worker(args):
     df = parse_one(row, registry, ncbi_reg)
     total = compute_total_for_normalization(row["tool"], row["raw_path"], mode=mode)
     df = _apply_precise_value(df, total)
+    df = add_norm_columns(df, ["rank"])
     out_path = out_dir / f"{row['tool']}_{row['db']}"
     out_path.mkdir(parents=True, exist_ok=True)
     fname = f"{row['project']}_{row['technology']}_{row['sample']}.csv"

@@ -64,14 +64,17 @@ def compute_alpha_diversity(
     min_abund_percent: float,
     *,
     key: str = "name",
-    value_col: str = "value",
+    value_col: str = "norm_abund",
+    cf_col: str = "classified_fraction",
 ) -> pd.DataFrame:
     """Per-(sample, tool_db, rank) Shannon/Simpson/richness records.
 
-    Threshold is applied to the per-sample composition AFTER renormalization
-    over classified mass (i.e. ≥ min_abund_percent % of classified). Shannon
-    and Simpson are then computed on the filtered subset, re-renormalized
-    to 1.
+    Reads the prep-materialized composition (`norm_abund`, already summed to 100
+    per sample/rank over classified taxa) and the materialized `classified_fraction`
+    (Change 3, "design B") — it does NOT recompute classified_fraction, which would
+    collapse to 1.0 off `norm_abund`. Threshold is applied to the composition
+    (≥ min_abund_percent %), then Shannon/Simpson are computed on the survivors,
+    re-renormalized to 1. Key stays `name` (intra-profile).
     """
     if key not in {"name", "taxid"}:
         raise ValueError(f"key must be 'name' or 'taxid', got {key!r}")
@@ -100,7 +103,13 @@ def compute_alpha_diversity(
         ).astype(float)
 
         classified_mass = mat_raw.sum(axis=1)
-        classified_fraction = classified_mass / 100.0  # assumes parser output is percent units
+        # classified_fraction is materialized in prep (Change 3, design B); read it per
+        # sample rather than recompute (Σnorm_abund is 100 → would collapse to 1.0).
+        # Fall back to the old derivation for legacy tables that lack the column.
+        if cf_col in df_sub.columns:
+            classified_fraction = df_sub.groupby("sample_id_core")[cf_col].first().astype(float)
+        else:
+            classified_fraction = classified_mass / 100.0
 
         denom = classified_mass.replace(0.0, np.nan)
         mat_comp = mat_raw.div(denom, axis=0).fillna(0.0)

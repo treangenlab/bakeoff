@@ -56,7 +56,7 @@ from utils.parser import (  # noqa: E402
     parse_sylph_mpa_ete3,
     load_ganon_tre,
 )
-from utils.normalize import drop_unclassified_token  # noqa: E402
+from utils.normalize import drop_unclassified_token, add_norm_columns  # noqa: E402
 
 COHORTS_ALL = ["illumina", "pacbio", "ont_qiagen", "ont_zymo"]
 DB_MODES = ["default", "unified"]
@@ -264,6 +264,7 @@ def _build_one_tooldb(cohort: str, db_mode: str, tool: str, rank: str,
             raise ValueError(f"{tool}_{db_mode} missing {sorted(missing)} from parser={parser_name} file={p.name}")
 
         df = drop_unclassified_token(df)
+        df = add_norm_columns(df)
 
         df["sample_id"]      = sid
         df["sample_id_core"] = sid_core
