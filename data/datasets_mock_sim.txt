@@ -1,6 +1,0 @@
-/dodo/eh58/bakeoff/data/ZymoMockD6331/pacbio/SRR13128013.fastq   # low input
-/dodo/eh58/bakeoff/data/ZymoMockD6331/pacbio/SRR13128014.fastq   # standard input
-/dodo/eh58/bakeoff/data/ZymoMockD6331/ont/D6331_Zymo.fastq      # Zymo Quick-DNA
-/dodo/eh58/bakeoff/data/ZymoMockD6331/ont/D6331_Qiagen.fastq    # Qiagen PowerSoil Pro
-/dodo/eh58/bakeoff/data/simulated/pacbio/sim_pacbio.fastq
-/dodo/eh58/bakeoff/data/simulated/ont/sim_ont.fastq
