@@ -10,7 +10,7 @@ tables used by both notebooks.
 Pipeline position:
     process.sh        -> raw tool outputs
     postprocess.sh    -> kreport / .tre / .sylphmpa
-    analysis_prep.py  -> metadata/ground_truth + metadata/preprocessed   (← this script)
+    analysis_prep.py  -> prepared/truth + prepared/tables   (← this script)
     notebooks         -> figures + metrics
 
 Usage (run from bakeoff/):
@@ -23,21 +23,21 @@ Usage (run from bakeoff/):
         --out results
 
 Every run lands under a fresh timestamp dir so reruns never overwrite. The
-layout mirrors dyn_prep.py — both scripts write under <--out>/metadata/<ts>/
+layout mirrors dyn_prep.py — both scripts write under <--out>/prepared/<ts>/
 with their own <script>-prep/ subdir holding logs + outputs:
 
-    <--out>/metadata/<YYYYMMDD_HHMMSS>/analysis-prep/
+    <--out>/prepared/<YYYYMMDD_HHMMSS>/analysis-prep/
       ├── analysis_prep.log         (stdout for this run)
       ├── analysis_prep.err         (stderr for this run)
-      ├── ground_truth/
+      ├── truth/
       │   ├── <label>_gt.csv        (one per registry entry)
       │   └── ...
-      └── preprocessed/
+      └── tables/
           ├── detection/            (manifest, summary, totals, <Tool>_<db>/...)
           └── abundance/            (same layout)
 
 Notebooks/scripts that need "the most recent run" should glob
-<--out>/metadata/*/analysis-prep/ and pick the lexicographically largest
+<--out>/prepared/*/analysis-prep/ and pick the lexicographically largest
 timestamp (matches dyn_prep.find_latest_cohort_cache).
 
 Ground-truth source files are looked up via a registry CSV at
@@ -49,7 +49,7 @@ appending rows; no code changes required.
 By default, DYN is **excluded** from preprocessing (no truth → no detection
 scoring). Pass `--data-groups ZymoMockD6331,simulated,DYN` to include it.
 
-The two preprocessed/{detection,abundance} subtrees are NOT redundant — they
+The two tables/{detection,abundance} subtrees are NOT redundant — they
 come from different source files for several tools (e.g. Centrifuge reads
 *_kreport.tsv for detection vs *_report.tsv for abundance). One run produces
 both side-by-side.
@@ -81,6 +81,8 @@ from utils.parser import (                                 # noqa: E402
     parse_sourmash_report_ete3,
     parse_sylph_mpa_ete3,
 )
+from utils.normalize import drop_unclassified_token, add_norm_columns  # noqa: E402
+from utils.results import RESULTS_SUBDIR  # noqa: E402
 
 # CONFIG — paths to ete3 sqlite snapshots (one per (tool, db) combo that needs
 # taxid resolution). Subpaths under --db-dir; override via CLI if your layout
@@ -92,6 +94,7 @@ ETE3_SUBPATHS = {
     "sourmash_032022":   "default_db/sm_default/ete3_taxa/taxa032022.sqlite",
     "sylph_042024":      "default_db/sylph_default/taxa042024.sqlite",
     "sylph_gtdb_r220":   "default_db/sylph_default/ete3_taxa/taxaGTDB-r220.sqlite",
+    "centrifuger_102023":"default_db/cfer_default/ete3_taxa/taxa102023.sqlite",
 }
 
 # Map (tool, db) → which ete3 instance to use. Tools not in this map don't
@@ -101,10 +104,12 @@ NCBI_FOR_TOOL_DB = {
     ("Sourmash",    "unified"): "refseq_032025",
     ("Sylph",       "unified"): "refseq_032025",
     ("Centrifuge",  "unified"): "refseq_032025",
+    ("Centrifuger", "unified"): "refseq_032025",
     # Default-DB tools that need ete3 → the per-tool default snapshot
     ("Sourmash",    "default"): "sourmash_032022",
     ("Sylph",       "default"): "sylph_042024",
     ("Centrifuge",  "default"): "centrifuge_122016",
+    ("Centrifuger", "default"): "centrifuger_102023",
 }
 
 # Ground-truth registry: loaded from <--data-root>/ground_truth/registry.csv.
@@ -221,7 +226,7 @@ def _build_registries():
         "Centrifuger": {
             "parser": parse_centrifuger_report,
             "patterns": ["*_report.tsv"], "exclude": ["*_kreport.tsv"],
-            "kwargs": {}, "needs_ncbi": False,
+            "kwargs": {}, "needs_ncbi": True,
             "subdir": "Centrifuger-results",
         },
         "Ganon2": {
@@ -459,6 +464,7 @@ def parse_one(row: dict, registry: dict, ncbi_reg: NCBIRegistry) -> pd.DataFrame
             frames.append(df_rank)
 
     df_all = pd.concat(frames, ignore_index=True) if frames else pd.DataFrame()
+    df_all = drop_unclassified_token(df_all)
 
     # Tag with manifest metadata.
     for c in ("tool", "db", "tool_db", "data_type", "project", "technology", "sample"):
@@ -477,6 +483,7 @@ def _parse_one_worker(args):
     df = parse_one(row, registry, ncbi_reg)
     total = compute_total_for_normalization(row["tool"], row["raw_path"], mode=mode)
     df = _apply_precise_value(df, total)
+    df = add_norm_columns(df, ["rank"])
     out_path = out_dir / f"{row['tool']}_{row['db']}"
     out_path.mkdir(parents=True, exist_ok=True)
     fname = f"{row['project']}_{row['technology']}_{row['sample']}.csv"
@@ -556,7 +563,7 @@ def write_summary(manifest: pd.DataFrame, results: list[dict], out_csv: Path):
 # Orchestrator
 def run_mode(mode: str, manifest: pd.DataFrame, registry: dict,
              db_dir: Path, out_root: Path, jobs: int):
-    mode_dir = out_root / "preprocessed" / mode
+    mode_dir = out_root / "tables" / mode
     mode_dir.mkdir(parents=True, exist_ok=True)
 
     # Save manifest first so it's available even if parsing fails partway.
@@ -701,14 +708,14 @@ def _dry_run(args, unified_root: Path, default_root: Path, data_root: Path,
     """Walk reports + truth registry, print the plan, write dry-run_manifest.csv,
     exit without parsing. Output mirrored to terminal AND a dry-run.log.
 
-    Lands at a fixed path under <out>/metadata/dry-run/analysis-prep/ — the
+    Lands at a fixed path under <out>/prepared/dry-run/analysis-prep/ — the
     contents are wiped on each invocation so the dir always reflects the
-    most recent dry-run only. This keeps the metadata/ tree clean (no
+    most recent dry-run only. This keeps the prepared/ tree clean (no
     timestamped stubs) and the "latest" glob ignores it (find_latest_*
     matches \\d{8}_\\d{6} timestamps, not the literal 'dry-run')."""
     import datetime, shutil
     ts = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-    run_dir = out_root / "metadata" / "dry-run" / "analysis-prep"
+    run_dir = out_root / RESULTS_SUBDIR / "dry-run" / "analysis-prep"
     if run_dir.exists():
         shutil.rmtree(run_dir)
     run_dir.mkdir(parents=True, exist_ok=True)
@@ -795,19 +802,19 @@ def _dry_run_body(args, unified_root, default_root, data_root, out_root, run_dir
 
 
 def _setup_run_dir_and_logs(out_root: Path) -> tuple[Path, Path, Path]:
-    """Create <out_root>/metadata/<timestamp>/analysis-prep/ and redirect
+    """Create <out_root>/prepared/<timestamp>/analysis-prep/ and redirect
     stdout/stderr to analysis_prep.{log,err} inside it. Layout matches the
     sibling dyn_prep.py:
-        <out>/metadata/<ts>/analysis-prep/
+        <out>/prepared/<ts>/analysis-prep/
         ├── analysis_prep.log
         ├── analysis_prep.err
-        ├── ground_truth/
-        └── preprocessed/{detection,abundance}/
+        ├── truth/
+        └── tables/{detection,abundance}/
     Returns (run_dir, log_path, err_path). Prints the new file locations on
     the *original* stderr first so the user can `tail -f` them."""
     import datetime
     ts = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-    run_dir = out_root / "metadata" / ts / "analysis-prep"
+    run_dir = out_root / RESULTS_SUBDIR / f"{ts}_mock-sim" / "analysis-prep"
     run_dir.mkdir(parents=True, exist_ok=True)
     log_path = run_dir / "analysis_prep.log"
     err_path = run_dir / "analysis_prep.err"
@@ -850,7 +857,7 @@ def main(argv=None):
     p.add_argument("--db-dir", default="data/ref_db",
                    help="Reference-DB root used by process.sh; ETE3 sqlite snapshots are resolved relative to this. (default: %(default)s)")
     p.add_argument("--out", default="results",
-                   help="Parent output dir; a fresh <YYYYMMDD_HHMMSS>/metadata/ subdir is created inside on every run. (default: %(default)s)")
+                   help="Parent output dir; a fresh <YYYYMMDD_HHMMSS>/prepared/ subdir is created inside on every run. (default: %(default)s)")
     p.add_argument("--mode", choices=["detection", "abundance", "both"], default="both",
                    help="Which preprocessing mode(s) to run. (default: %(default)s)")
     p.add_argument("--data-groups", default=",".join(DEFAULT_DATA_GROUPS),
@@ -867,7 +874,7 @@ def main(argv=None):
     p.add_argument("--dry-run", action="store_true",
                    help="Print the planned (mode, tool, db, sample) rows with [ok]/[MISSING] markers; "
                         "write dry-run.log + dry-run_manifest.csv at the fixed path "
-                        "<--out>/metadata/dry-run/analysis-prep/ (overwrites on rerun); "
+                        "<--out>/prepared/dry-run/analysis-prep/ (overwrites on rerun); "
                         "do not parse, do not write any other outputs.")
     args = p.parse_args(argv)
 
@@ -887,7 +894,7 @@ def main(argv=None):
                        data_groups, techs, modes)
 
     # Fresh timestamped run dir + log/err redirect.
-    # run_dir = <out>/metadata/<ts>/analysis-prep/  (matches dyn_prep layout)
+    # run_dir = <out>/prepared/<ts>/analysis-prep/  (matches dyn_prep layout)
     run_dir, log_path, err_path = _setup_run_dir_and_logs(out_root)
 
     print("=== analysis_prep ===")
@@ -905,7 +912,7 @@ def main(argv=None):
     # 1) Ground truth (uses unified ete3 only; registry-driven).
     if not args.skip_truth:
         ncbi_reg = NCBIRegistry(db_dir)
-        build_truth_tables(data_root, run_dir / "ground_truth", ncbi_reg)
+        build_truth_tables(data_root, run_dir / "truth", ncbi_reg)
 
     # 2) Per-mode preprocessing.
     if args.skip_reports:

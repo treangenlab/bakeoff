@@ -19,7 +19,7 @@ renormalization over classified mass.
 DYN cohort-cache helpers
 ------------------------
 find_latest_cohort_cache(out_root)
-    Locate the most recent <out>/metadata/<ts>/dyn-prep/tables/cohorts/
+    Locate the most recent <out>/prepared/<ts>/dyn-prep/tables/cohorts/
     written by `dyn_prep.py`.
 
 load_cohort_plus_illumina(cache_dir, cohort)
@@ -38,6 +38,8 @@ from pathlib import Path
 
 import numpy as np
 import pandas as pd
+
+from .results import RESULTS_SUBDIR
 
 # DYN cohort-cache schema constants (must match dyn_prep.py)
 _DYN_TOOLS    = ["Kraken2", "Centrifuge", "Centrifuger", "sourmash", "sylph", "ganon2"]
@@ -64,14 +66,17 @@ def compute_alpha_diversity(
     min_abund_percent: float,
     *,
     key: str = "name",
-    value_col: str = "value",
+    value_col: str = "norm_abund",
+    cf_col: str = "classified_fraction",
 ) -> pd.DataFrame:
     """Per-(sample, tool_db, rank) Shannon/Simpson/richness records.
 
-    Threshold is applied to the per-sample composition AFTER renormalization
-    over classified mass (i.e. ≥ min_abund_percent % of classified). Shannon
-    and Simpson are then computed on the filtered subset, re-renormalized
-    to 1.
+    Reads the prep-materialized composition (`norm_abund`, already summed to 100
+    per sample/rank over classified taxa) and the materialized `classified_fraction`
+    (Change 3, "design B") — it does NOT recompute classified_fraction, which would
+    collapse to 1.0 off `norm_abund`. Threshold is applied to the composition
+    (≥ min_abund_percent %), then Shannon/Simpson are computed on the survivors,
+    re-renormalized to 1. Key stays `name` (intra-profile).
     """
     if key not in {"name", "taxid"}:
         raise ValueError(f"key must be 'name' or 'taxid', got {key!r}")
@@ -100,7 +105,13 @@ def compute_alpha_diversity(
         ).astype(float)
 
         classified_mass = mat_raw.sum(axis=1)
-        classified_fraction = classified_mass / 100.0  # assumes parser output is percent units
+        # classified_fraction is materialized in prep (Change 3, design B); read it per
+        # sample rather than recompute (Σnorm_abund is 100 → would collapse to 1.0).
+        # Fall back to the old derivation for legacy tables that lack the column.
+        if cf_col in df_sub.columns:
+            classified_fraction = df_sub.groupby("sample_id_core")[cf_col].first().astype(float)
+        else:
+            classified_fraction = classified_mass / 100.0
 
         denom = classified_mass.replace(0.0, np.nan)
         mat_comp = mat_raw.div(denom, axis=0).fillna(0.0)
@@ -151,15 +162,15 @@ def compute_alpha_diversity(
 # alpha-div consumer already imports utils.alpha_div.
 # ----------------------------------------------------------------------
 def find_latest_cohort_cache(out_root: Path | str) -> Path:
-    """Return the most recent <out_root>/metadata/<ts>/dyn-prep/tables/cohorts/
+    """Return the most recent <out_root>/prepared/<ts>/dyn-prep/tables/cohorts/
     directory written by dyn_prep.py.  Raise FileNotFoundError if none
     exist.  The "most recent" timestamp is the lexicographically largest
     one, which matches the YYYYMMDD_HHMMSS format dyn_prep.py uses."""
     out_root = Path(out_root)
-    candidates = sorted(out_root.glob("metadata/*/dyn-prep/tables/cohorts"))
+    candidates = sorted(out_root.glob(f"{RESULTS_SUBDIR}/*/dyn-prep/tables/cohorts"))
     if not candidates:
         raise FileNotFoundError(
-            f"No cohort cache found under {out_root}/metadata/*/dyn-prep/tables/cohorts/. "
+            f"No cohort cache found under {out_root}/prepared/*/dyn-prep/tables/cohorts/. "
             "Run `python scripts/analysis/dyn_prep.py` to build one."
         )
     return candidates[-1]

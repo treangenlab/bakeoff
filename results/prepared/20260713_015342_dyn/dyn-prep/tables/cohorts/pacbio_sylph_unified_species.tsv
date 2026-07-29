@@ -1,0 +1,472 @@
+taxid_raw	taxid	name_raw	name	rank	value	value_type	tax_abund_raw	seq_abund_raw	norm_abund	classified_fraction	sample_id	sample_id_core	assay	tool	db_mode	tool_db
+287	287	Pseudomonas aeruginosa	Pseudomonas aeruginosa	species	0.0004	abund	0.0004	0.001	0.0004000028000196002	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+562	562	Escherichia coli	Escherichia coli	species	0.2475	abund	0.2475	0.4082	0.24750173251212762	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+573	573	Klebsiella pneumoniae	Klebsiella pneumoniae	species	0.0058	abund	0.0058	0.0096	0.005800040600284202	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+817	817	Bacteroides fragilis	Bacteroides fragilis	species	1.2024	abund	1.2024	1.9484	1.202408416858918	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+818	818	Bacteroides thetaiotaomicron	Bacteroides thetaiotaomicron	species	1.7549	abund	1.7549	3.54	1.7549122843859906	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+820	820	Bacteroides uniformis	Bacteroides uniformis	species	8.3194	abund	8.3194	12.4583	8.319458236207653	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+821	821	Phocaeicola vulgatus	Phocaeicola vulgatus	species	0.7149	abund	0.7149	1.1927	0.7149050043350303	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+823	823	Parabacteroides distasonis	Parabacteroides distasonis	species	0.8774	abund	0.8774	1.4325	0.8774061418429929	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+847	847	Oxalobacter formigenes	Oxalobacter formigenes	species	0.1074	abund	0.1074	0.0832	0.10740075180526265	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+876	876	Desulfovibrio desulfuricans	Desulfovibrio desulfuricans	species	0.003	abund	0.003	0.0032	0.003000021000147001	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+1304	1304	Streptococcus salivarius	Streptococcus salivarius	species	0.0158	abund	0.0158	0.0113	0.015800110600774207	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+1308	1308	Streptococcus thermophilus	Streptococcus thermophilus	species	0.005	abund	0.005	0.0029	0.005000035000245002	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+1318	1318	Streptococcus parasanguinis	Streptococcus parasanguinis	species	0.0021	abund	0.0021	0.0014	0.002100014700102901	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+1328	1328	Streptococcus anginosus	Streptococcus anginosus	species	0.0022	abund	0.0022	0.0014	0.002200015400107801	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+1343	1343	Streptococcus vestibularis	Streptococcus vestibularis	species	0.0585	abund	0.0585	0.036	0.05850040950286653	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+1502	1502	Clostridium perfringens	Clostridium perfringens	species	0.0004	abund	0.0004	0.0004	0.0004000028000196002	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+1512	1512	[Clostridium] symbiosum	[Clostridium] symbiosum	species	0.0232	abund	0.0232	0.0388	0.023200162401136808	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+1522	1522	[Clostridium] innocuum	[Clostridium] innocuum	species	0.0136	abund	0.0136	0.0209999999999999	0.013600095200666405	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+1547	1547	Thomasclavelia ramosa	Thomasclavelia ramosa	species	0.1029	abund	0.1029	0.1053	0.10290072030504216	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+1623	1623	Ligilactobacillus ruminis	Ligilactobacillus ruminis	species	0.0032	abund	0.0032	0.0022	0.0032000224001568016	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+1655	1655	Actinomyces naeslundii	Actinomyces naeslundii	species	0.0019	abund	0.0019	0.0019	0.0019000133000931009	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+1744	1744	Propionibacterium freudenreichii	Propionibacterium freudenreichii	species	0.0081	abund	0.0081	0.0067	0.008100056700396903	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+2173	2173	Methanobrevibacter smithii	Methanobrevibacter smithii	species	3.1848	abund	3.1848	1.7979	3.184822293756057	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+28116	28116	Bacteroides ovatus	Bacteroides ovatus	species	0.1516	abund	0.1516	0.3366	0.15160106120742847	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+28117	28117	Alistipes putredinis	Alistipes putredinis	species	1.5924	abund	1.5924	1.2929	1.5924111468780284	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+28118	28118	Odoribacter splanchnicus	Odoribacter splanchnicus	species	0.1876	abund	0.1876	0.2598	0.18760131320919246	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+28128	28128	Prevotella corporis	Prevotella corporis	species	0.0122	abund	0.0122	0.0113	0.012200085400597804	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+29347	29347	[Clostridium] scindens	[Clostridium] scindens	species	0.2916999999999999	abund	0.2916999999999999	0.3529	0.29170204191429333	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+29466	29466	Veillonella parvula	Veillonella parvula	species	0.0079	abund	0.0079	0.0054	0.007900055300387104	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+33039	33039	[Ruminococcus] torques	[Ruminococcus] torques	species	0.2485	abund	0.2485	0.219	0.24850173951217663	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+39485	39485	Lachnospira eligens	Lachnospira eligens	species	0.2953	abund	0.2953	0.2581	0.2953020671144698	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+39491	39491	Agathobacter rectalis	Agathobacter rectalis	species	0.0608	abund	0.0608	0.0641	0.06080042560297923	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+40520	40520	Blautia obeum	Blautia obeum	species	0.0577	abund	0.0577	0.0683	0.05770040390282733	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+43675	43675	Rothia mucilaginosa	Rothia mucilaginosa	species	0.0162	abund	0.0162	0.0117	0.016200113400793806	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+44742	44742	Desulfovibrio fairfieldensis	Desulfovibrio fairfieldensis	species	6.8245	abund	6.8245	7.9568	6.8245477718344025	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+46503	46503	Parabacteroides merdae	Parabacteroides merdae	species	2.0474	abund	2.0474	2.8236	2.0474143319003235	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+47671	47671	Lautropia mirabilis	Lautropia mirabilis	species	0.0009	abund	0.0009	0.0009	0.0009000063000441003	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+47678	47678	Bacteroides caccae	Bacteroides caccae	species	1.2349	abund	1.2349	1.7791	1.2349086443605106	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+74426	74426	Collinsella aerofaciens	Collinsella aerofaciens	species	0.3547	abund	0.3547	0.2532	0.35470248291738044	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+76517	76517	Campylobacter hominis	Campylobacter hominis	species	0.0109	abund	0.0109	0.0059	0.010900076300534106	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+84112	84112	Eggerthella lenta	Eggerthella lenta	species	0.0105	abund	0.0105	0.0108	0.010500073500514505	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+105841	105841	Anaerostipes caccae	Anaerostipes caccae	species	0.0024	abund	0.0024	0.0025	0.002400016800117601	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+114527	114527	Mogibacterium diversum	Mogibacterium diversum	species	0.0235	abund	0.0235	0.0131	0.02350016450115151	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+158836	158836	Enterobacter hormaechei	Enterobacter hormaechei	species	0.0158	abund	0.0158	0.0238	0.015800110600774207	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+166486	166486	Roseburia intestinalis	Roseburia intestinalis	species	0.1263	abund	0.1263	0.1629	0.12630088410618875	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+169435	169435	Anaerotruncus colihominis	Anaerotruncus colihominis	species	0.0136	abund	0.0136	0.0151	0.013600095200666405	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+197614	197614	Streptococcus pasteurianus	Streptococcus pasteurianus	species	0.0059	abund	0.0059	0.0043	0.005900041300289103	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+208479	208479	Enterocloster bolteae	Enterocloster bolteae	species	0.8776	abund	0.8776	1.8126	0.8776061432430028	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+214853	214853	Anaerofustis stercorihominis	Anaerofustis stercorihominis	species	0.0321	abund	0.0321	0.0232	0.03210022470157291	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+214856	214856	Alistipes finegoldii	Alistipes finegoldii	species	1.0074	abund	1.0074	1.3073	1.0074070518493632	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+239935	239935	Akkermansia muciniphila	Akkermansia muciniphila	species	47.4141	abund	47.4141	41.1701	47.41443190102331	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+246787	246787	Bacteroides cellulosilyticus	Bacteroides cellulosilyticus	species	0.3623	abund	0.3623	0.8303	0.36230253611775287	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+261299	261299	Intestinibacter bartlettii	Intestinibacter bartlettii	species	0.0038	abund	0.0038	0.0036	0.0038000266001862017	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+291644	291644	Bacteroides salyersiae	Bacteroides salyersiae	species	0.0717	abund	0.0717	0.1253	0.07170050190351333	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+291645	291645	Bacteroides nordii	Bacteroides nordii	species	0.0396	abund	0.0396	0.0681	0.03960027720194042	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+292800	292800	Flavonifractor plautii	Flavonifractor plautii	species	0.2113	abund	0.2113	0.2848	0.21130147911035377	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+301301	301301	Roseburia hominis	Roseburia hominis	species	0.0077	abund	0.0077	0.0084	0.007700053900377303	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+301302	301302	Roseburia faecis	Roseburia faecis	species	0.0468	abund	0.0468	0.05	0.04680032760229322	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+328813	328813	Alistipes onderdonkii	Alistipes onderdonkii	species	1.5274	abund	1.5274	1.5947	1.5274106918748434	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+333367	333367	Enterocloster asparagiformis	Enterocloster asparagiformis	species	0.0099	abund	0.0099	0.0199	0.009900069300485105	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+341220	341220	Lactonifactor longoviformis	Lactonifactor longoviformis	species	0.0055	abund	0.0055	0.0084	0.005500038500269502	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+357276	357276	Phocaeicola dorei	Phocaeicola dorei	species	4.1597	abund	4.1597	7.231	4.159729118103827	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+418240	418240	Blautia wexlerae	Blautia wexlerae	species	0.0426	abund	0.0426	0.0624	0.04260029820208742	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+438033	438033	Ruminococcus gauvreauii	Ruminococcus gauvreauii	species	0.0032	abund	0.0032	0.0039	0.0032000224001568016	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+446660	446660	Adlercreutzia equolifaciens	Adlercreutzia equolifaciens	species	0.0244	abund	0.0244	0.0225	0.02440017080119561	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+460384	460384	Enterocloster lavalensis	Enterocloster lavalensis	species	0.0065	abund	0.0065	0.0132	0.006500045500318503	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+471189	471189	Gordonibacter pamelaeae	Gordonibacter pamelaeae	species	0.0642	abund	0.0642	0.073	0.06420044940314582	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+487174	487174	Barnesiella intestinihominis	Barnesiella intestinihominis	species	0.1445	abund	0.1445	0.1484	0.14450101150708056	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+508460	508460	Cloacibacillus evryensis	Cloacibacillus evryensis	species	0.0238	abund	0.0238	0.0259	0.023800166601166215	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+544580	544580	Actinomyces oris	Actinomyces oris	species	0.0021	abund	0.0021	0.0021	0.002100014700102901	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+544645	544645	Butyricimonas virosa	Butyricimonas virosa	species	0.0393	abund	0.0393	0.0597	0.03930027510192572	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+626932	626932	Alistipes indistinctus	Alistipes indistinctus	species	0.1207	abund	0.1207	0.1177	0.12070084490591436	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+649756	649756	Anaerostipes hadrus	Anaerostipes hadrus	species	0.0047	abund	0.0047	0.0043	0.0047000329002303025	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+657323	657323	Ruminococcus sp. SR1/5	Ruminococcus sp. SR1/5	species	0.0107	abund	0.0107	0.0119	0.010700074900524303	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+881260	881260	Enterobacter bugandensis	Enterobacter bugandensis	species	0.0009	abund	0.0009	0.0014	0.0009000063000441003	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+1287640	1287640	Anaerococcus obesiensis	Anaerococcus obesiensis	species	0.0078	abund	0.0078	0.0046	0.007800054600382202	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+1297617	1297617	Intestinimonas butyriciproducens	Intestinimonas butyriciproducens	species	0.1489	abund	0.1489	0.1492	0.14890104230729617	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+1468449	1468449	Holdemania massiliensis	Holdemania massiliensis	species	0.0075	abund	0.0075	0.0095	0.007500052500367504	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+1472417	1472417	Butyricimonas paravirosa	Butyricimonas paravirosa	species	0.0114	abund	0.0114	0.0201	0.011400079800558606	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+1550024	1550024	Ruthenibacterium lactatiformans	Ruthenibacterium lactatiformans	species	2.2748	abund	2.2748	3.1689	2.2748159237114662	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+1653434	1653434	Sellimonas intestinalis	Sellimonas intestinalis	species	0.0564	abund	0.0564	0.0574	0.05640039480276362	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+1748967	1748967	Citrobacter cronae	Citrobacter cronae	species	0.0142	abund	0.0142	0.0226	0.014200099400695807	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+1776392	1776392	Massilimicrobiota timonensis	Massilimicrobiota timonensis	species	0.0408	abund	0.0408	0.0342	0.04080028560199922	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+1796635	1796635	Longicatena caecimuris	Longicatena caecimuris	species	0.168	abund	0.168	0.1643	0.16800117600823208	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+1912855	1912855	Faecalimonas umbilicata	Faecalimonas umbilicata	species	0.0043	abund	0.0043	0.004	0.0043000301002107015	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+2041044	2041044	Eubacterium maltosivorans	Eubacterium maltosivorans	species	0.0588	abund	0.0588	0.077	0.05880041160288122	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+2086584	2086584	Massilistercora timonensis	Massilistercora timonensis	species	0.2584	abund	0.2584	0.2256	0.2584018088126617	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+2108523	2108523	Lawsonibacter asaccharolyticus	Lawsonibacter asaccharolyticus	species	0.034	abund	0.034	0.0335	0.03400023800166602	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+2109687	2109687	Oscillibacter sp. PEA192	Oscillibacter sp. PEA192	species	0.1671	abund	0.1671	0.1749	0.16710116970818797	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+2585118	2585118	Alistipes communis	Alistipes communis	species	0.8774	abund	0.8774	0.9132	0.8774061418429929	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+2707299	2707299	Adlercreutzia hattorii	Adlercreutzia hattorii	species	0.031	abund	0.031	0.0284	0.031000217001519014	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+2714358	2714358	Pusillibacter faecalis	Pusillibacter faecalis	species	0.0214	abund	0.0214	0.0229	0.021400149801048606	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+2733656	2733656	Pifdecavirus pv22PfluR64PP	Pifdecavirus pv22PfluR64PP	species	0.0118	abund	0.0118	0.0002	0.011800082600578205	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+2734119	2734119	Mushuvirus mushu	Mushuvirus mushu	species	0.0274	abund	0.0274	0.0003	0.027400191801342615	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+2735723	2735723	Turicibacter bilis	Turicibacter bilis	species	0.0046	abund	0.0046	0.004	0.004600032200225402	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+2763667	2763667	Wansuia hejianensis	Wansuia hejianensis	species	0.0067	abund	0.0067	0.0084	0.0067000469003283035	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+2763672	2763672	Simiaoa sunii	Simiaoa sunii	species	0.0059	abund	0.0059	0.0067	0.005900041300289103	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+2780922	2780922	Solibaculum mannosilyticum	Solibaculum mannosilyticum	species	0.0093	abund	0.0093	0.0075	0.009300065100455704	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+2841518	2841518	Christensenella sp. MSJ-20	Christensenella sp. MSJ-20	species	0.0354	abund	0.0354	0.0209	0.03540024780173462	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+2877527	2877527	Blautia parvula	Blautia parvula	species	0.1566	abund	0.1566	0.3084	0.15660109620767346	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+2878202	2878202	Ruminococcus sp. FMB-CY1	Ruminococcus sp. FMB-CY1	species	0.0081	abund	0.0081	0.0061	0.008100056700396903	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+2929488	2929488	Faecalibacterium sp. IP-1-18	Faecalibacterium sp. IP-1-18	species	0.033	abund	0.033	0.0316	0.03300023100161702	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+2954545	2954545	Streptococcus sp. FSL W7-1342	Streptococcus sp. FSL W7-1342	species	0.0223	abund	0.0223	0.0154	0.02230015610109271	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+2955582	2955582	Carjivirus communis	Carjivirus communis	species	0.0367	abund	0.0367	0.0011	0.03670025690179832	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+2956034	2956034	Junduvirus communis	Junduvirus communis	species	0.8774	abund	0.8774	0.0265	0.8774061418429929	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+2956053	2956053	Kehishuvirus primarius	Kehishuvirus primarius	species	0.0566	abund	0.0566	0.0018	0.05660039620277343	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+2956060	2956060	Kingevirus communis	Kingevirus communis	species	7.9294	abund	7.9294	0.2302	7.929455506188544	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+3036926	3036926	Anaerostipes sp. PC18	Anaerostipes sp. PC18	species	0.0012	abund	0.0012	0.0013	0.0012000084000588006	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+3079302	3079302	Agathobaculum sp. NTUH-O15-33	Agathobaculum sp. NTUH-O15-33	species	0.0041	abund	0.0041	0.0052	0.004100028700200902	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+3079303	3079303	Intestinibacillus sp. NTUH-41-i26	Intestinibacillus sp. NTUH-41-i26	species	0.0048	abund	0.0048	0.0046	0.004800033600235202	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+3132707	3132707	Alistipes sp. i18-0019-D1	Alistipes sp. i18-0019-D1	species	0.0594	abund	0.0594	0.0731	0.05940041580291063	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+3136601	3136601	Owariibacterium komagatae	Owariibacterium komagatae	species	0.0139	abund	0.0139	0.0158	0.013900097300681105	0.9999929999999999	DYN_0004_D10.fastq	DYN_0004_D10	pacbio	sylph	unified	sylph_unified
+287	287	Pseudomonas aeruginosa	Pseudomonas aeruginosa	species	1.1259	abund	1.1259	1.4698	1.1258966223101328	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+539	539	Eikenella corrodens	Eikenella corrodens	species	0.1279	abund	0.1279	0.0562	0.1278996163011511	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+739	739	Aggregatibacter segnis	Aggregatibacter segnis	species	0.0051	abund	0.0051	0.0021	0.0050999847000459	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+817	817	Bacteroides fragilis	Bacteroides fragilis	species	3.6591	abund	3.6591	3.805	3.659089022732932	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+818	818	Bacteroides thetaiotaomicron	Bacteroides thetaiotaomicron	species	0.0203	abund	0.0203	0.0255	0.020299939100182695	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+820	820	Bacteroides uniformis	Bacteroides uniformis	species	11.299	abund	11.299	12.3895	11.298966103101689	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+821	821	Phocaeicola vulgatus	Phocaeicola vulgatus	species	13.5105	abund	13.5105	14.3318	13.510459468621592	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+823	823	Parabacteroides distasonis	Parabacteroides distasonis	species	11.6608	abund	11.6608	12.4117	11.660765017704945	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+1303	1303	Streptococcus oralis	Streptococcus oralis	species	0.004	abund	0.004	0.0016	0.003999988000035999	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+1322	1322	Blautia hansenii	Blautia hansenii	species	0.0016	abund	0.0016	0.0009	0.0015999952000144	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+1328	1328	Streptococcus anginosus	Streptococcus anginosus	species	0.0058	abund	0.0058	0.0023	0.0057999826000521984	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+1351	1351	Enterococcus faecalis	Enterococcus faecalis	species	0.0009	abund	0.0009	0.0006	0.0008999973000080999	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+1382	1382	Lancefieldella parvula	Lancefieldella parvula	species	0.0065	abund	0.0065	0.002	0.0064999805000585	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+1512	1512	[Clostridium] symbiosum	[Clostridium] symbiosum	species	0.0114	abund	0.0114	0.0121	0.0113999658001026	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+1522	1522	[Clostridium] innocuum	[Clostridium] innocuum	species	4.3024	abund	4.3024	3.7461	4.30238709283872	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+1596	1596	Lactobacillus gasseri	Lactobacillus gasseri	species	0.003	abund	0.003	0.0013	0.0029999910000269997	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+1624	1624	Ligilactobacillus salivarius	Ligilactobacillus salivarius	species	0.0022	abund	0.0022	0.0009	0.0021999934000197998	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+2047	2047	Rothia dentocariosa	Rothia dentocariosa	species	0.0054	abund	0.0054	0.0027	0.0053999838000486	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+28116	28116	Bacteroides ovatus	Bacteroides ovatus	species	0.0036	abund	0.0036	0.0049	0.0035999892000323996	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+28117	28117	Alistipes putredinis	Alistipes putredinis	species	0.5085	abund	0.5085	0.2625	0.5084984745045764	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+28118	28118	Odoribacter splanchnicus	Odoribacter splanchnicus	species	0.0034	abund	0.0034	0.003	0.0033999898000305995	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+29391	29391	Gemella morbillorum	Gemella morbillorum	species	0.006	abund	0.006	0.0021	0.005999982000053999	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+29466	29466	Veillonella parvula	Veillonella parvula	species	0.0674	abund	0.0674	0.0294	0.06739979780060659	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+33025	33025	Phascolarctobacterium faecium	Phascolarctobacterium faecium	species	2.2517	abund	2.2517	1.0672	2.2516932449202653	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+33038	33038	Mediterraneibacter gnavus	Mediterraneibacter gnavus	species	0.0016	abund	0.0016	0.0011	0.0015999952000144	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+33039	33039	[Ruminococcus] torques	[Ruminococcus] torques	species	0.4438	abund	0.4438	0.2487	0.4437986686039941	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+35703	35703	Citrobacter amalonaticus	Citrobacter amalonaticus	species	0.0039	abund	0.0039	0.0037	0.0038999883000350993	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+39950	39950	Dialister pneumosintes	Dialister pneumosintes	species	0.1655	abund	0.1655	0.0423	0.16549950350148948	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+45634	45634	Streptococcus cristatus	Streptococcus cristatus	species	0.0017	abund	0.0017	0.0007	0.0016999949000152997	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+46124	46124	Granulicatella adiacens	Granulicatella adiacens	species	0.0066	abund	0.0066	0.0026	0.0065999802000594	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+46503	46503	Parabacteroides merdae	Parabacteroides merdae	species	0.2118	abund	0.2118	0.1858	0.21179936460190618	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+46506	46506	Bacteroides stercoris	Bacteroides stercoris	species	0.0642	abund	0.0642	0.0499	0.06419980740057778	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+47678	47678	Bacteroides caccae	Bacteroides caccae	species	4.4633	abund	4.4633	4.0885	4.46328661014017	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+53442	53442	Eubacterium callanderi	Eubacterium callanderi	species	0.0088	abund	0.0088	0.0079	0.008799973600079199	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+71452	71452	Enterococcus raffinosus	Enterococcus raffinosus	species	0.003	abund	0.003	0.0027	0.0029999910000269997	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+82983	82983	Obesumbacterium proteus	Obesumbacterium proteus	species	0.0046	abund	0.0046	0.0047	0.004599986200041399	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+84112	84112	Eggerthella lenta	Eggerthella lenta	species	0.0106	abund	0.0106	0.0069	0.0105999682000954	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+102148	102148	Solobacterium moorei	Solobacterium moorei	species	0.0027	abund	0.0027	0.0014	0.0026999919000243	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+158836	158836	Enterobacter hormaechei	Enterobacter hormaechei	species	14.6364	abund	14.6364	13.8571	14.636356090931727	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+208479	208479	Enterocloster bolteae	Enterocloster bolteae	species	0.1368	abund	0.1368	0.1745	0.13679958960123118	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+214853	214853	Anaerofustis stercorihominis	Anaerofustis stercorihominis	species	0.0183	abund	0.0183	0.0084	0.018299945100164697	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+216816	216816	Bifidobacterium longum	Bifidobacterium longum	species	0.0058	abund	0.0058	0.0028	0.0057999826000521984	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+267212	267212	Neisseria bacilliformis	Neisseria bacilliformis	species	0.0137	abund	0.0137	0.0068	0.013699958900123299	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+291644	291644	Bacteroides salyersiae	Bacteroides salyersiae	species	0.0047	abund	0.0047	0.005	0.0046999859000423	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+292800	292800	Flavonifractor plautii	Flavonifractor plautii	species	0.1922	abund	0.1922	0.1453	0.1921994234017298	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+328813	328813	Alistipes onderdonkii	Alistipes onderdonkii	species	1.8899	abund	1.8899	1.2546	1.8898943303170086	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+328814	328814	Alistipes shahii	Alistipes shahii	species	0.22	abund	0.22	0.1652	0.21999934000197996	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+329854	329854	Bacteroides intestinalis	Bacteroides intestinalis	species	0.0099	abund	0.0099	0.0115	0.0098999703000891	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+371601	371601	Bacteroides xylanisolvens	Bacteroides xylanisolvens	species	0.2628	abund	0.2628	0.3414	0.26279921160236513	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+454154	454154	Paraprevotella clara	Paraprevotella clara	species	1.0857	abund	1.0857	0.8779	1.0856967429097713	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+544580	544580	Actinomyces oris	Actinomyces oris	species	0.0018	abund	0.0018	0.0012	0.0017999946000161998	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+674529	674529	Bacteroides faecis	Bacteroides faecis	species	0.0085	abund	0.0085	0.0116	0.0084999745000765	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+712710	712710	Tannerella serpentiformis	Tannerella serpentiformis	species	0.0042	abund	0.0042	0.0026	0.004199987400037799	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+1134687	1134687	Klebsiella michiganensis	Klebsiella michiganensis	species	1.6084	abund	1.6084	1.8192	1.6083951748144754	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+1297617	1297617	Intestinimonas butyriciproducens	Intestinimonas butyriciproducens	species	0.0144	abund	0.0144	0.0091	0.014399956800129598	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+1335613	1335613	Gordonibacter urolithinfaciens	Gordonibacter urolithinfaciens	species	0.0032	abund	0.0032	0.0021	0.0031999904000288	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+1550024	1550024	Ruthenibacterium lactatiformans	Ruthenibacterium lactatiformans	species	0.7238	abund	0.7238	0.6411	0.7237978286065141	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+1653434	1653434	Sellimonas intestinalis	Sellimonas intestinalis	species	0.0209	abund	0.0209	0.0135	0.020899937300188097	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+1796635	1796635	Longicatena caecimuris	Longicatena caecimuris	species	0.493	abund	0.493	0.3066	0.4929985210044369	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+2108523	2108523	Lawsonibacter asaccharolyticus	Lawsonibacter asaccharolyticus	species	0.6031	abund	0.6031	0.3779	0.6030981907054278	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+2109687	2109687	Oscillibacter sp. PEA192	Oscillibacter sp. PEA192	species	0.219	abund	0.219	0.1457	0.21899934300197096	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+2301636	2301636	Pseudomonas phage H71	Pseudomonas phage H71	species	2.4126	abund	2.4126	0.0185	2.412592762221713	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+2487150	2487150	Phytobacter sp. MRY16-398	Phytobacter sp. MRY16-398	species	19.6224	abund	19.6224	24.3457	19.622341132976597	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+2560417	2560417	Efquatrovirus AUEF3	Efquatrovirus AUEF3	species	0.0083	abund	0.0083	0.0001	0.008299975100074698	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+2585118	2585118	Alistipes communis	Alistipes communis	species	0.0009	abund	0.0009	0.0006	0.0008999973000080999	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+2683822	2683822	Citrobacter sp. 172116965	Citrobacter sp. 172116965	species	1.0857	abund	1.0857	1.1233	1.0856967429097713	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+2714358	2714358	Pusillibacter faecalis	Pusillibacter faecalis	species	0.0356	abund	0.0356	0.0243	0.03559989320032039	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+2734119	2734119	Mushuvirus mushu	Mushuvirus mushu	species	0.6434	abund	0.6434	0.0047	0.6433980698057905	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+2763068	2763068	Streptococcus sp. NSJ-72	Streptococcus sp. NSJ-72	species	0.0048	abund	0.0048	0.0019	0.004799985600043199	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+2763667	2763667	Wansuia hejianensis	Wansuia hejianensis	species	0.0177	abund	0.0177	0.014	0.0176999469001593	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+2877527	2877527	Blautia parvula	Blautia parvula	species	0.0056	abund	0.0056	0.0068	0.005599983200050398	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+3098076	3098076	Streptococcus lingualis	Streptococcus lingualis	species	0.0023	abund	0.0023	0.001	0.0022999931000206994	1.0000030000000002	DYN_0021_D03.fastq	DYN_0021_D03	pacbio	sylph	unified	sylph_unified
+199	199	Campylobacter concisus	Campylobacter concisus	species	0.0007	abund	0.0007	0.0003	0.0007000028000112	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+200	200	Campylobacter curvus	Campylobacter curvus	species	0.2627	abund	0.2627	0.1178	0.2627010508042032	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+571	571	Klebsiella oxytoca	Klebsiella oxytoca	species	0.03	abund	0.03	0.0391	0.030000120000480003	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+573	573	Klebsiella pneumoniae	Klebsiella pneumoniae	species	22.8688	abund	22.8688	28.8289	22.868891475565903	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+582	582	Morganella morganii	Morganella morganii	species	0.4833	abund	0.4833	0.4348	0.4833019332077328	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+729	729	Haemophilus parainfluenzae	Haemophilus parainfluenzae	species	0.3732999999999999	abund	0.3732999999999999	0.1751	0.3733014932059727	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+1302	1302	Streptococcus gordonii	Streptococcus gordonii	species	0.004	abund	0.004	0.002	0.004000016000064	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+1303	1303	Streptococcus oralis	Streptococcus oralis	species	0.0168	abund	0.0168	0.0079	0.0168000672002688	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+1304	1304	Streptococcus salivarius	Streptococcus salivarius	species	0.0465	abund	0.0465	0.0227	0.04650018600074401	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+1308	1308	Streptococcus thermophilus	Streptococcus thermophilus	species	0.0141	abund	0.0141	0.0059	0.0141000564002256	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+1318	1318	Streptococcus parasanguinis	Streptococcus parasanguinis	species	0.0254	abund	0.0254	0.0125	0.025400101600406403	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+1328	1328	Streptococcus anginosus	Streptococcus anginosus	species	0.0082	abund	0.0082	0.0037	0.0082000328001312	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+1351	1351	Enterococcus faecalis	Enterococcus faecalis	species	0.0991	abund	0.0991	0.0655	0.0991003964015856	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+1352	1352	Enterococcus faecium	Enterococcus faecium	species	0.1876	abund	0.1876	0.1146	0.1876007504030016	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+1382	1382	Lancefieldella parvula	Lancefieldella parvula	species	3.7903	abund	3.7903	1.3313	3.790315161260645	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+1509	1509	Clostridium sporogenes	Clostridium sporogenes	species	0.0365	abund	0.0365	0.0338	0.036500146000584	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+1597	1597	Lacticaseibacillus paracasei	Lacticaseibacillus paracasei	species	0.0036	abund	0.0036	0.0024	0.0036000144000576002	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+1655	1655	Actinomyces naeslundii	Actinomyces naeslundii	species	0.0035	abund	0.0035	0.0025	0.0035000140000560004	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+1660	1660	Schaalia odontolytica	Schaalia odontolytica	species	0.0083	abund	0.0083	0.0045	0.0083000332001328	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+2047	2047	Rothia dentocariosa	Rothia dentocariosa	species	0.0205	abund	0.0205	0.0117	0.020500082000328004	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+2718	2718	Cardiobacterium hominis	Cardiobacterium hominis	species	0.0183	abund	0.0183	0.0111	0.018300073200292803	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+29360	29360	Cellulosilyticum lentocellum	Cellulosilyticum lentocellum	species	0.7886	abund	0.7886	0.8458	0.7886031544126176	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+29391	29391	Gemella morbillorum	Gemella morbillorum	species	0.0041	abund	0.0041	0.0016	0.0041000164000656	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+29466	29466	Veillonella parvula	Veillonella parvula	species	21.0881	abund	21.0881	10.299	21.08818435273741	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+37734	37734	Enterococcus casseliflavus	Enterococcus casseliflavus	species	0.0248	abund	0.0248	0.0193	0.024800099200396802	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+39777	39777	Veillonella atypica	Veillonella atypica	species	0.0736	abund	0.0736	0.0347	0.0736002944011776	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+42817	42817	Corynebacterium argentoratense	Corynebacterium argentoratense	species	0.0121	abund	0.0121	0.0056	0.012100048400193601	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+44252	44252	Paenibacillus macerans	Paenibacillus macerans	species	0.0035	abund	0.0035	0.0057	0.0035000140000560004	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+47715	47715	Lacticaseibacillus rhamnosus	Lacticaseibacillus rhamnosus	species	0.0021	abund	0.0021	0.0014	0.0021000084000336	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+61592	61592	Corynebacterium durum	Corynebacterium durum	species	0.0028	abund	0.0028	0.0018	0.0028000112000448	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+66228	66228	Gleimia europaea	Gleimia europaea	species	0.022	abund	0.022	0.0104	0.022000088000351997	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+69823	69823	Selenomonas sputigena	Selenomonas sputigena	species	0.0019	abund	0.0019	0.0011	0.0019000076000304001	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+76857	76857	Fusobacterium polymorphum	Fusobacterium polymorphum	species	0.5342	abund	0.5342	0.2837	0.5342021368085472	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+84135	84135	Gemella sanguinis	Gemella sanguinis	species	0.0017	abund	0.0017	0.0007	0.0017000068000271999	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+84163	84163	Cryptobacterium curtum	Cryptobacterium curtum	species	0.0478	abund	0.0478	0.0176	0.047800191200764806	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+102148	102148	Solobacterium moorei	Solobacterium moorei	species	0.0032	abund	0.0032	0.0019	0.0032000128000512	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+114527	114527	Mogibacterium diversum	Mogibacterium diversum	species	0.0288	abund	0.0288	0.0116	0.028800115200460802	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+131110	131110	Schaalia radingae	Schaalia radingae	species	0.042	abund	0.042	0.0232	0.042000168000672	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+133926	133926	Olsenella uli	Olsenella uli	species	0.0285	abund	0.0285	0.0133	0.028500114000456003	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+158836	158836	Enterobacter hormaechei	Enterobacter hormaechei	species	0.7631	abund	0.7631	0.885	0.7631030524122097	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+216816	216816	Bifidobacterium longum	Bifidobacterium longum	species	5.2148	abund	5.2148	2.6752	5.214820859283437	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+261299	261299	Intestinibacter bartlettii	Intestinibacter bartlettii	species	0.2544	abund	0.2544	0.174	0.2544010176040704	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+423477	423477	Veillonella rogosae	Veillonella rogosae	species	1.043	abund	1.043	0.5234	1.043004172016688	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+459845	459845	Brussowvirus bv858	Brussowvirus bv858	species	1.4245	abund	1.4245	0.0115	1.4245056980227921	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+663241	663241	Enterococcus phage phiEf11	Enterococcus phage phiEf11	species	0.2337	abund	0.2337	0.0023	0.23370093480373919	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+674529	674529	Bacteroides faecis	Bacteroides faecis	species	37.3685	abund	37.3685	50.2795	37.368649474597895	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+712538	712538	Selenomonas sp. oral taxon 478	Selenomonas sp. oral taxon 478	species	0.0191	abund	0.0191	0.0099	0.0191000764003056	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+712623	712623	Streptococcus sp. oral taxon 061	Streptococcus sp. oral taxon 061	species	0.003	abund	0.003	0.0012	0.003000012000048	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+996558	996558	Caldifermentibacillus hisashii	Caldifermentibacillus hisashii	species	0.0111	abund	0.0111	0.0098	0.011100044400177601	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+1297617	1297617	Intestinimonas butyriciproducens	Intestinimonas butyriciproducens	species	0.2883	abund	0.2883	0.2085	0.2883011532046128	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+1852377	1852377	Actinomyces pacaensis	Actinomyces pacaensis	species	0.0073	abund	0.0073	0.0032	0.0073000292001168	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+2068655	2068655	Novisyntrophococcus fermenticellae	Novisyntrophococcus fermenticellae	species	0.0231	abund	0.0231	0.018	0.0231000924003696	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+2663009	2663009	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	species	0.149	abund	0.149	0.084	0.149000596002384	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+2682456	2682456	Veillonella nakazawae	Veillonella nakazawae	species	0.0256	abund	0.0256	0.0122	0.0256001024004096	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+2742625	2742625	Citrobacter sp. RHB35-C17	Citrobacter sp. RHB35-C17	species	0.7123	abund	0.7123	0.7825	0.7123028492113969	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+2759692	2759692	Streptococcus sp. Marseille-Q3533	Streptococcus sp. Marseille-Q3533	species	0.0054	abund	0.0054	0.0021	0.0054000216000864	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+2789425	2789425	Actinomyces sp. HMT 175	Actinomyces sp. HMT 175	species	0.0057	abund	0.0057	0.0039	0.005700022800091201	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+2845176	2845176	Skunavirus sv62605	Skunavirus sv62605	species	0.0254	abund	0.0254	0.0002	0.025400101600406403	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+2861802	2861802	Citrobacter sp. Colony219	Citrobacter sp. Colony219	species	1.3991	abund	1.3991	1.5049	1.3991055964223857	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+2899133	2899133	Candidatus Nanosynbacter sp. HMT-352	Candidatus Nanosynbacter sp. HMT-352	species	0.0101	abund	0.0101	0.0017	0.010100040400161601	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+3043284	3043284	Candidatus Southlakia epibionticum	Candidatus Southlakia epibionticum	species	0.0018	abund	0.0018	0.0004	0.0018000072000288001	0.999996	DYN_0036_D05.fastq	DYN_0036_D05	pacbio	sylph	unified	sylph_unified
+200	200	Campylobacter curvus	Campylobacter curvus	species	0.3598	abund	0.3598	0.1621	0.3597978412129528	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+571	571	Klebsiella oxytoca	Klebsiella oxytoca	species	0.0477	abund	0.0477	0.0625	0.04769971380171719	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+573	573	Klebsiella pneumoniae	Klebsiella pneumoniae	species	12.8097	abund	12.8097	16.2234	12.809623142261147	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+582	582	Morganella morganii	Morganella morganii	species	2.0705	abund	2.0705	1.8715	2.070487577074538	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+729	729	Haemophilus parainfluenzae	Haemophilus parainfluenzae	species	0.0745	abund	0.0745	0.0347	0.07449955300268199	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+1303	1303	Streptococcus oralis	Streptococcus oralis	species	0.0303	abund	0.0303	0.0143	0.0302998182010908	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+1304	1304	Streptococcus salivarius	Streptococcus salivarius	species	0.0302	abund	0.0302	0.0148	0.030199818801087196	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+1308	1308	Streptococcus thermophilus	Streptococcus thermophilus	species	0.0161	abund	0.0161	0.0068	0.016099903400579596	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+1318	1318	Streptococcus parasanguinis	Streptococcus parasanguinis	species	0.0066	abund	0.0066	0.0033	0.006599960400237599	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+1328	1328	Streptococcus anginosus	Streptococcus anginosus	species	0.0023	abund	0.0023	0.001	0.0022999862000827997	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+1351	1351	Enterococcus faecalis	Enterococcus faecalis	species	0.0916	abund	0.0916	0.0607	0.09159945040329759	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+1352	1352	Enterococcus faecium	Enterococcus faecium	species	0.2159	abund	0.2159	0.1325	0.21589870460777236	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+1382	1382	Lancefieldella parvula	Lancefieldella parvula	species	10.0214	abund	10.0214	3.5365	10.02133987196077	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+1491	1491	Clostridium botulinum	Clostridium botulinum	species	0.0381	abund	0.0381	0.0349	0.03809977140137159	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+1584	1584	Lactobacillus delbrueckii	Lactobacillus delbrueckii	species	0.0051	abund	0.0051	0.0025	0.005099969400183599	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+1597	1597	Lacticaseibacillus paracasei	Lacticaseibacillus paracasei	species	0.0013	abund	0.0013	0.0008	0.0012999922000468	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+1655	1655	Actinomyces naeslundii	Actinomyces naeslundii	species	0.0016	abund	0.0016	0.0011	0.0015999904000575998	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+1660	1660	Schaalia odontolytica	Schaalia odontolytica	species	0.0314	abund	0.0314	0.0169	0.031399811601130395	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+2047	2047	Rothia dentocariosa	Rothia dentocariosa	species	0.0134	abund	0.0134	0.0078	0.0133999196004824	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+2718	2718	Cardiobacterium hominis	Cardiobacterium hominis	species	0.0041	abund	0.0041	0.0025	0.0040999754001476	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+28037	28037	Streptococcus mitis	Streptococcus mitis	species	0.0064	abund	0.0064	0.0027	0.006399961600230399	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+28038	28038	Latilactobacillus curvatus	Latilactobacillus curvatus	species	0.0169	abund	0.0169	0.0074	0.016899898600608396	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+28129	28129	Prevotella denticola	Prevotella denticola	species	0.0047	abund	0.0047	0.0031	0.0046999718001692	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+28135	28135	Segatella oris	Segatella oris	species	0.0089	abund	0.0089	0.0064	0.008899946600320398	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+29360	29360	Cellulosilyticum lentocellum	Cellulosilyticum lentocellum	species	0.0027	abund	0.0027	0.003	0.0026999838000972	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+29391	29391	Gemella morbillorum	Gemella morbillorum	species	0.0014	abund	0.0014	0.0006	0.0013999916000503997	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+29466	29466	Veillonella parvula	Veillonella parvula	species	15.2115	abund	15.2115	7.4636	15.21140873154761	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+37734	37734	Enterococcus casseliflavus	Enterococcus casseliflavus	species	0.0222	abund	0.0222	0.0173	0.0221998668007992	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+39777	39777	Veillonella atypica	Veillonella atypica	species	0.1404	abund	0.1404	0.0665	0.14039915760505436	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+42817	42817	Corynebacterium argentoratense	Corynebacterium argentoratense	species	0.0237	abund	0.0237	0.011	0.023699857800853198	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+43675	43675	Rothia mucilaginosa	Rothia mucilaginosa	species	0.0029	abund	0.0029	0.0016	0.0028999826001043995	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+44252	44252	Paenibacillus macerans	Paenibacillus macerans	species	0.0057	abund	0.0057	0.0092	0.0056999658002052	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+46125	46125	Abiotrophia defectiva	Abiotrophia defectiva	species	0.0031	abund	0.0031	0.0014	0.0030999814001115996	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+66228	66228	Gleimia europaea	Gleimia europaea	species	0.0176	abund	0.0176	0.0084	0.017599894400633597	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+69823	69823	Selenomonas sputigena	Selenomonas sputigena	species	0.0179	abund	0.0179	0.0107	0.0178998926006444	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+76857	76857	Fusobacterium polymorphum	Fusobacterium polymorphum	species	0.2084	abund	0.2084	0.1112	0.20839874960750238	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+84135	84135	Gemella sanguinis	Gemella sanguinis	species	0.0026	abund	0.0026	0.0011	0.0025999844000936	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+84163	84163	Cryptobacterium curtum	Cryptobacterium curtum	species	0.039	abund	0.039	0.0144	0.03899976600140399	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+102148	102148	Solobacterium moorei	Solobacterium moorei	species	0.0139	abund	0.0139	0.0083	0.013899916600500398	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+114527	114527	Mogibacterium diversum	Mogibacterium diversum	species	0.0266	abund	0.0266	0.011	0.026599840400957593	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+131110	131110	Schaalia radingae	Schaalia radingae	species	0.1495	abund	0.1495	0.083	0.14949910300538197	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+133926	133926	Olsenella uli	Olsenella uli	species	0.0234	abund	0.0234	0.011	0.023399859600842395	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+158836	158836	Enterobacter hormaechei	Enterobacter hormaechei	species	10.7944	abund	10.7944	12.5763	10.794335233988598	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+216816	216816	Bifidobacterium longum	Bifidobacterium longum	species	1.4632	abund	1.4632	0.7541	1.463191220852675	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+261299	261299	Intestinibacter bartlettii	Intestinibacter bartlettii	species	0.1554	abund	0.1554	0.1068	0.15539906760559438	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+423477	423477	Veillonella rogosae	Veillonella rogosae	species	1.8497	abund	1.8497	0.9326	1.849688901866589	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+459845	459845	Brussowvirus bv858	Brussowvirus bv858	species	0.6074	abund	0.6074	0.0049	0.6073963556218663	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+663241	663241	Enterococcus phage phiEf11	Enterococcus phage phiEf11	species	0.1414	abund	0.1414	0.0014	0.1413991516050904	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+674529	674529	Bacteroides faecis	Bacteroides faecis	species	37.6561	abund	37.6561	50.9026	37.655874064755615	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+712538	712538	Selenomonas sp. oral taxon 478	Selenomonas sp. oral taxon 478	species	0.0243	abund	0.0243	0.0127	0.024299854200874795	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+996558	996558	Caldifermentibacillus hisashii	Caldifermentibacillus hisashii	species	0.0047	abund	0.0047	0.0043	0.0046999718001692	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+1297617	1297617	Intestinimonas butyriciproducens	Intestinimonas butyriciproducens	species	3.0092	abund	3.0092	2.1867	3.0091819449083306	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+1852377	1852377	Actinomyces pacaensis	Actinomyces pacaensis	species	0.0234	abund	0.0234	0.0101	0.023399859600842395	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+2068655	2068655	Novisyntrophococcus fermenticellae	Novisyntrophococcus fermenticellae	species	0.0654	abund	0.0654	0.0512	0.06539960760235439	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+2663009	2663009	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	species	0.1557	abund	0.1557	0.0896	0.1556990658056052	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+2682456	2682456	Veillonella nakazawae	Veillonella nakazawae	species	0.0644	abund	0.0644	0.0309	0.06439961360231838	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+2742625	2742625	Citrobacter sp. RHB35-C17	Citrobacter sp. RHB35-C17	species	1.6288	abund	1.6288	1.7978	1.6287902272586365	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+2759692	2759692	Streptococcus sp. Marseille-Q3533	Streptococcus sp. Marseille-Q3533	species	0.0127	abund	0.0127	0.0049	0.012699923800457199	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+2789425	2789425	Actinomyces sp. HMT 175	Actinomyces sp. HMT 175	species	0.0038	abund	0.0038	0.0026	0.0037999772001367994	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+2845176	2845176	Skunavirus sv62605	Skunavirus sv62605	species	0.0535	abund	0.0535	0.0004	0.05349967900192599	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+2861802	2861802	Citrobacter sp. Colony219	Citrobacter sp. Colony219	species	0.4417	abund	0.4417	0.4773	0.44169734981590114	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+2975349	2975349	Streptococcus sp. FSL W8-0197	Streptococcus sp. FSL W8-0197	species	0.0168	abund	0.0168	0.0079	0.016799899200604797	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+3393757	3393757	Candidatus Nanosynbacter sp. BB002	Candidatus Nanosynbacter sp. BB002	species	0.0076	abund	0.0076	0.0014	0.007599954400273599	1.000006	DYN_0036_D08.fastq	DYN_0036_D08	pacbio	sylph	unified	sylph_unified
+200	200	Campylobacter curvus	Campylobacter curvus	species	0.5453	abund	0.5453	0.2224	0.5452983641049076	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+204	204	Campylobacter showae	Campylobacter showae	species	0.0031	abund	0.0031	0.0013	0.0030999907000278997	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+571	571	Klebsiella oxytoca	Klebsiella oxytoca	species	0.2384	abund	0.2384	0.2828	0.23839928480214556	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+573	573	Klebsiella pneumoniae	Klebsiella pneumoniae	species	9.0114	abund	9.0114	10.3314	9.011372965881101	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+582	582	Morganella morganii	Morganella morganii	species	3.7021	abund	3.7021	3.0291	3.7020888937333187	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+729	729	Haemophilus parainfluenzae	Haemophilus parainfluenzae	species	0.3568	abund	0.3568	0.156	0.35679892960321113	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+1303	1303	Streptococcus oralis	Streptococcus oralis	species	0.0039	abund	0.0039	0.0017	0.0038999883000350993	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+1304	1304	Streptococcus salivarius	Streptococcus salivarius	species	0.0039	abund	0.0039	0.0017	0.0038999883000350993	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+1308	1308	Streptococcus thermophilus	Streptococcus thermophilus	species	0.0304	abund	0.0304	0.0116	0.030399908800273597	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+1328	1328	Streptococcus anginosus	Streptococcus anginosus	species	0.0044	abund	0.0044	0.0018	0.0043999868000395995	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+1351	1351	Enterococcus faecalis	Enterococcus faecalis	species	0.1551	abund	0.1551	0.0931	0.15509953470139587	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+1352	1352	Enterococcus faecium	Enterococcus faecium	species	0.4305	abund	0.4305	0.2391	0.4304987085038744	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+1382	1382	Lancefieldella parvula	Lancefieldella parvula	species	2.8412	abund	2.8412	0.9076	2.8411914764255704	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+1491	1491	Clostridium botulinum	Clostridium botulinum	species	0.0839	abund	0.0839	0.0696	0.0838997483007551	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+1584	1584	Lactobacillus delbrueckii	Lactobacillus delbrueckii	species	0.0006	abund	0.0006	0.0003	0.0005999982000053999	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+1659	1659	Actinomyces israelii	Actinomyces israelii	species	0.0022	abund	0.0022	0.0018	0.0021999934000197998	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+2047	2047	Rothia dentocariosa	Rothia dentocariosa	species	0.0019	abund	0.0019	0.001	0.0018999943000170998	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+2718	2718	Cardiobacterium hominis	Cardiobacterium hominis	species	0.004	abund	0.004	0.0022	0.003999988000035999	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+28038	28038	Latilactobacillus curvatus	Latilactobacillus curvatus	species	0.0058	abund	0.0058	0.0023	0.0057999826000521984	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+29466	29466	Veillonella parvula	Veillonella parvula	species	4.1326	abund	4.1326	1.8355	4.132587602237193	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+33038	33038	Mediterraneibacter gnavus	Mediterraneibacter gnavus	species	0.0053	abund	0.0053	0.0036	0.0052999841000477	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+37734	37734	Enterococcus casseliflavus	Enterococcus casseliflavus	species	0.0216	abund	0.0216	0.0149	0.0215999352001944	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+39777	39777	Veillonella atypica	Veillonella atypica	species	0.0168	abund	0.0168	0.0072	0.016799949600151198	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+42817	42817	Corynebacterium argentoratense	Corynebacterium argentoratense	species	0.0446	abund	0.0446	0.0187	0.04459986620040139	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+43675	43675	Rothia mucilaginosa	Rothia mucilaginosa	species	0.0032	abund	0.0032	0.0015	0.0031999904000288	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+44252	44252	Paenibacillus macerans	Paenibacillus macerans	species	0.1156	abund	0.1156	0.1701	0.11559965320104038	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+46124	46124	Granulicatella adiacens	Granulicatella adiacens	species	0.0089	abund	0.0089	0.0036	0.008899973300080098	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+46125	46125	Abiotrophia defectiva	Abiotrophia defectiva	species	0.0123	abund	0.0123	0.0052	0.012299963100110698	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+66228	66228	Gleimia europaea	Gleimia europaea	species	0.0325	abund	0.0325	0.014	0.0324999025002925	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+69823	69823	Selenomonas sputigena	Selenomonas sputigena	species	0.024	abund	0.024	0.013	0.023999928000215998	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+71452	71452	Enterococcus raffinosus	Enterococcus raffinosus	species	0.0518	abund	0.0518	0.0468	0.05179984460046619	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+76857	76857	Fusobacterium polymorphum	Fusobacterium polymorphum	species	1.234	abund	1.234	0.5961	1.2339962980111059	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+84163	84163	Cryptobacterium curtum	Cryptobacterium curtum	species	0.0085	abund	0.0085	0.0028	0.0084999745000765	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+102148	102148	Solobacterium moorei	Solobacterium moorei	species	0.0229	abund	0.0229	0.0124	0.022899931300206098	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+114527	114527	Mogibacterium diversum	Mogibacterium diversum	species	0.0503	abund	0.0503	0.0184	0.05029984910045269	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+131110	131110	Schaalia radingae	Schaalia radingae	species	0.2089	abund	0.2089	0.1051	0.20889937330188008	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+133926	133926	Olsenella uli	Olsenella uli	species	0.0288	abund	0.0288	0.0122	0.028799913600259196	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+158836	158836	Enterobacter hormaechei	Enterobacter hormaechei	species	15.7842	abund	15.7842	16.6473	15.784152647542056	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+216816	216816	Bifidobacterium longum	Bifidobacterium longum	species	2.1524	abund	2.1524	1.0042	2.1523935428193712	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+261299	261299	Intestinibacter bartlettii	Intestinibacter bartlettii	species	0.4592	abund	0.4592	0.2856	0.4591986224041328	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+423477	423477	Veillonella rogosae	Veillonella rogosae	species	2.9847	abund	2.9847	1.3328	2.984691045926862	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+459845	459845	Brussowvirus bv858	Brussowvirus bv858	species	1.0618	abund	1.0618	0.0078	1.0617968146095562	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+663241	663241	Enterococcus phage phiEf11	Enterococcus phage phiEf11	species	0.3113	abund	0.3113	0.0028	0.31129906610280167	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+674529	674529	Bacteroides faecis	Bacteroides faecis	species	45.4873	abund	45.4873	55.6621	45.48716353850938	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+712538	712538	Selenomonas sp. oral taxon 478	Selenomonas sp. oral taxon 478	species	0.0091	abund	0.0091	0.0043	0.0090999727000819	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+996558	996558	Caldifermentibacillus hisashii	Caldifermentibacillus hisashii	species	0.0166	abund	0.0166	0.013	0.016599950200149396	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+1156431	1156431	Streptococcus ilei	Streptococcus ilei	species	0.0099	abund	0.0099	0.0041	0.0098999703000891	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+1297617	1297617	Intestinimonas butyriciproducens	Intestinimonas butyriciproducens	species	2.2385	abund	2.2385	1.4725	2.2384932845201466	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+1852377	1852377	Actinomyces pacaensis	Actinomyces pacaensis	species	0.0974	abund	0.0974	0.0381	0.09739970780087659	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+2068655	2068655	Novisyntrophococcus fermenticellae	Novisyntrophococcus fermenticellae	species	0.2213	abund	0.2213	0.1566	0.22129933610199165	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+2663009	2663009	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	species	0.0628	abund	0.0628	0.0328	0.06279981160056519	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+2682456	2682456	Veillonella nakazawae	Veillonella nakazawae	species	0.9758	abund	0.9758	0.4236	0.975797072608782	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+2742625	2742625	Citrobacter sp. RHB35-C17	Citrobacter sp. RHB35-C17	species	4.5631	abund	4.5631	4.5593	4.563086310741068	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+2861802	2861802	Citrobacter sp. Colony219	Citrobacter sp. Colony219	species	0.1174	abund	0.1174	0.1148	0.11739964780105659	1.0000030000000002	DYN_0036_D11.fastq	DYN_0036_D11	pacbio	sylph	unified	sylph_unified
+200	200	Campylobacter curvus	Campylobacter curvus	species	0.0503	abund	0.0503	0.0203	0.050299849100452695	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+571	571	Klebsiella oxytoca	Klebsiella oxytoca	species	0.2176	abund	0.2176	0.2558	0.2175993472019584	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+573	573	Klebsiella pneumoniae	Klebsiella pneumoniae	species	44.4133	abund	44.4133	50.4537	44.41316676049972	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+582	582	Morganella morganii	Morganella morganii	species	1.9146	abund	1.9146	1.5522	1.9145942562172316	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+729	729	Haemophilus parainfluenzae	Haemophilus parainfluenzae	species	0.0774	abund	0.0774	0.0332	0.0773997678006966	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+1303	1303	Streptococcus oralis	Streptococcus oralis	species	0.01	abund	0.01	0.0041	0.00999997000009	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+1304	1304	Streptococcus salivarius	Streptococcus salivarius	species	0.0654	abund	0.0654	0.0288	0.0653998038005886	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+1305	1305	Streptococcus sanguinis	Streptococcus sanguinis	species	0.0035	abund	0.0035	0.0018	0.0034999895000315004	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+1308	1308	Streptococcus thermophilus	Streptococcus thermophilus	species	0.1905	abund	0.1905	0.0718	0.1904994285017145	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+1318	1318	Streptococcus parasanguinis	Streptococcus parasanguinis	species	0.0062	abund	0.0062	0.0028	0.0061999814000558	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+1328	1328	Streptococcus anginosus	Streptococcus anginosus	species	0.0242	abund	0.0242	0.0098	0.0241999274002178	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+1351	1351	Enterococcus faecalis	Enterococcus faecalis	species	0.1612	abund	0.1612	0.0959	0.1611995164014508	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+1352	1352	Enterococcus faecium	Enterococcus faecium	species	0.6092	abund	0.6092	0.3352	0.6091981724054828	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+1382	1382	Lancefieldella parvula	Lancefieldella parvula	species	0.8413	abund	0.8413	0.2663	0.8412974761075718	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+1491	1491	Clostridium botulinum	Clostridium botulinum	species	0.0645	abund	0.0645	0.053	0.0644998065005805	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+1584	1584	Lactobacillus delbrueckii	Lactobacillus delbrueckii	species	0.0084	abund	0.0084	0.0037	0.0083999748000756	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+1597	1597	Lacticaseibacillus paracasei	Lacticaseibacillus paracasei	species	0.0068	abund	0.0068	0.0041	0.0067999796000612	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+1660	1660	Schaalia odontolytica	Schaalia odontolytica	species	0.033	abund	0.033	0.016	0.032999901000297004	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+2047	2047	Rothia dentocariosa	Rothia dentocariosa	species	0.0189	abund	0.0189	0.0097	0.018899943300170103	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+2718	2718	Cardiobacterium hominis	Cardiobacterium hominis	species	0.0033	abund	0.0033	0.0018	0.0032999901000297003	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+28116	28116	Bacteroides ovatus	Bacteroides ovatus	species	0.0687	abund	0.0687	0.0997	0.0686997939006183	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+29360	29360	Cellulosilyticum lentocellum	Cellulosilyticum lentocellum	species	0.0901	abund	0.0901	0.0871	0.0900997297008109	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+29391	29391	Gemella morbillorum	Gemella morbillorum	species	0.0006	abund	0.0006	0.0002	0.0005999982000054	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+29466	29466	Veillonella parvula	Veillonella parvula	species	0.0742	abund	0.0742	0.0327	0.0741997774006678	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+33038	33038	Mediterraneibacter gnavus	Mediterraneibacter gnavus	species	7.3104	abund	7.3104	4.9517	7.310378068865793	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+37734	37734	Enterococcus casseliflavus	Enterococcus casseliflavus	species	0.1152	abund	0.1152	0.0806	0.1151996544010368	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+39777	39777	Veillonella atypica	Veillonella atypica	species	0.006	abund	0.006	0.0026	0.005999982000054	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+42817	42817	Corynebacterium argentoratense	Corynebacterium argentoratense	species	0.0868	abund	0.0868	0.0362	0.0867997396007812	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+43675	43675	Rothia mucilaginosa	Rothia mucilaginosa	species	0.0081	abund	0.0081	0.0038	0.0080999757000729	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+44252	44252	Paenibacillus macerans	Paenibacillus macerans	species	0.0009	abund	0.0009	0.0013	0.0008999973000081	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+47715	47715	Lacticaseibacillus rhamnosus	Lacticaseibacillus rhamnosus	species	0.0165	abund	0.0165	0.01	0.016499950500148502	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+66228	66228	Gleimia europaea	Gleimia europaea	species	0.0205	abund	0.0205	0.0087	0.020499938500184504	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+69823	69823	Selenomonas sputigena	Selenomonas sputigena	species	0.096	abund	0.096	0.0515	0.095999712000864	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+71452	71452	Enterococcus raffinosus	Enterococcus raffinosus	species	0.217	abund	0.217	0.1942	0.216999349001953	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+76857	76857	Fusobacterium polymorphum	Fusobacterium polymorphum	species	0.6672	abund	0.6672	0.3193	0.6671979984060048	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+84163	84163	Cryptobacterium curtum	Cryptobacterium curtum	species	0.0019	abund	0.0019	0.0006	0.0018999943000171	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+102148	102148	Solobacterium moorei	Solobacterium moorei	species	0.0182	abund	0.0182	0.0097	0.0181999454001638	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+114527	114527	Mogibacterium diversum	Mogibacterium diversum	species	0.0879	abund	0.0879	0.0319	0.0878997363007911	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+131110	131110	Schaalia radingae	Schaalia radingae	species	0.0209	abund	0.0209	0.0104	0.0208999373001881	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+133926	133926	Olsenella uli	Olsenella uli	species	0.0317	abund	0.0317	0.0133	0.0316999049002853	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+158836	158836	Enterobacter hormaechei	Enterobacter hormaechei	species	0.6092	abund	0.6092	0.6366	0.6091981724054828	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+216816	216816	Bifidobacterium longum	Bifidobacterium longum	species	1.1314	abund	1.1314	0.523	1.1313966058101825	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+261299	261299	Intestinibacter bartlettii	Intestinibacter bartlettii	species	0.417	abund	0.417	0.257	0.41699874900375294	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+357276	357276	Phocaeicola dorei	Phocaeicola dorei	species	0.0021	abund	0.0021	0.0023	0.0020999937000189	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+423477	423477	Veillonella rogosae	Veillonella rogosae	species	8.5578	abund	8.5578	3.8702	8.55777432667702	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+459845	459845	Brussowvirus bv858	Brussowvirus bv858	species	0.4932	abund	0.4932	0.0036	0.4931985204044388	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+663241	663241	Enterococcus phage phiEf11	Enterococcus phage phiEf11	species	0.2424	abund	0.2424	0.0021	0.24239927280218163	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+674529	674529	Bacteroides faecis	Bacteroides faecis	species	25.5862	abund	25.5862	31.0232	25.58612324163028	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+1297617	1297617	Intestinimonas butyriciproducens	Intestinimonas butyriciproducens	species	1.5085	abund	1.5085	0.9832	1.5084954745135766	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+1852377	1852377	Actinomyces pacaensis	Actinomyces pacaensis	species	0.0555	abund	0.0555	0.0215	0.0554998335004995	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+2068655	2068655	Novisyntrophococcus fermenticellae	Novisyntrophococcus fermenticellae	species	0.1716	abund	0.1716	0.1203	0.17159948520154442	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+2382163	2382163	Streptococcus koreensis	Streptococcus koreensis	species	0.0339	abund	0.0339	0.014	0.033899898300305105	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+2490855	2490855	Lachnoanaerobaculum gingivalis	Lachnoanaerobaculum gingivalis	species	0.0073	abund	0.0073	0.0046	0.0072999781000657	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+2572088	2572088	Candidatus Nanosynbacter featherlites	Candidatus Nanosynbacter featherlites	species	0.0022	abund	0.0022	0.0004	0.0021999934000198	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+2682456	2682456	Veillonella nakazawae	Veillonella nakazawae	species	0.1763	abund	0.1763	0.0758	0.17629947110158672	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+2742625	2742625	Citrobacter sp. RHB35-C17	Citrobacter sp. RHB35-C17	species	2.6979	abund	2.6979	2.671	2.697891906324281	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+2789425	2789425	Actinomyces sp. HMT 175	Actinomyces sp. HMT 175	species	0.0112	abund	0.0112	0.007	0.011199966400100798	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+2861802	2861802	Citrobacter sp. Colony219	Citrobacter sp. Colony219	species	0.6382	abund	0.6382	0.6186	0.6381980854057439	1.000003	DYN_0036_D14.fastq	DYN_0036_D14	pacbio	sylph	unified	sylph_unified
+200	200	Campylobacter curvus	Campylobacter curvus	species	0.3301	abund	0.3301	0.1273	0.33009999999999995	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+571	571	Klebsiella oxytoca	Klebsiella oxytoca	species	0.3641	abund	0.3641	0.4084	0.3640999999999999	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+573	573	Klebsiella pneumoniae	Klebsiella pneumoniae	species	31.5064	abund	31.5064	34.1442	31.506399999999996	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+582	582	Morganella morganii	Morganella morganii	species	0.9676	abund	0.9676	0.7483	0.9675999999999999	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+729	729	Haemophilus parainfluenzae	Haemophilus parainfluenzae	species	0.0888999999999999	abund	0.0888999999999999	0.0365	0.08889999999999988	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+1303	1303	Streptococcus oralis	Streptococcus oralis	species	0.0076	abund	0.0076	0.003	0.007599999999999999	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+1304	1304	Streptococcus salivarius	Streptococcus salivarius	species	0.1068	abund	0.1068	0.0449	0.10679999999999998	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+1308	1308	Streptococcus thermophilus	Streptococcus thermophilus	species	0.0174	abund	0.0174	0.0063	0.017399999999999995	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+1328	1328	Streptococcus anginosus	Streptococcus anginosus	species	0.0075	abund	0.0075	0.0029	0.007499999999999999	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+1351	1351	Enterococcus faecalis	Enterococcus faecalis	species	0.0948	abund	0.0948	0.0538	0.0948	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+1352	1352	Enterococcus faecium	Enterococcus faecium	species	0.5246000000000001	abund	0.5246000000000001	0.2754	0.5246	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+1382	1382	Lancefieldella parvula	Lancefieldella parvula	species	0.4535	abund	0.4535	0.137	0.45349999999999996	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+1509	1509	Clostridium sporogenes	Clostridium sporogenes	species	0.0567	abund	0.0567	0.0455	0.05669999999999999	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+2047	2047	Rothia dentocariosa	Rothia dentocariosa	species	0.0136	abund	0.0136	0.0067	0.013599999999999998	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+2718	2718	Cardiobacterium hominis	Cardiobacterium hominis	species	0.0013	abund	0.0013	0.0007	0.0013	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+28116	28116	Bacteroides ovatus	Bacteroides ovatus	species	2.5096	abund	2.5096	3.4765	2.5095999999999994	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+29466	29466	Veillonella parvula	Veillonella parvula	species	0.2672	abund	0.2672	0.1122	0.26719999999999994	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+33038	33038	Mediterraneibacter gnavus	Mediterraneibacter gnavus	species	3.5377	abund	3.5377	2.286	3.537699999999999	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+37734	37734	Enterococcus casseliflavus	Enterococcus casseliflavus	species	0.1877	abund	0.1877	0.1253	0.18769999999999998	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+39777	39777	Veillonella atypica	Veillonella atypica	species	0.0271	abund	0.0271	0.011	0.027099999999999996	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+42817	42817	Corynebacterium argentoratense	Corynebacterium argentoratense	species	0.0563	abund	0.0563	0.0224	0.05629999999999999	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+43675	43675	Rothia mucilaginosa	Rothia mucilaginosa	species	0.0195	abund	0.0195	0.0088	0.019499999999999997	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+47715	47715	Lacticaseibacillus rhamnosus	Lacticaseibacillus rhamnosus	species	0.0009	abund	0.0009	0.0005	0.0008999999999999999	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+66228	66228	Gleimia europaea	Gleimia europaea	species	0.0082	abund	0.0082	0.0033	0.008199999999999999	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+69823	69823	Selenomonas sputigena	Selenomonas sputigena	species	0.1721	abund	0.1721	0.088	0.17209999999999998	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+71452	71452	Enterococcus raffinosus	Enterococcus raffinosus	species	0.161	abund	0.161	0.1375	0.161	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+76857	76857	Fusobacterium polymorphum	Fusobacterium polymorphum	species	0.5443	abund	0.5443	0.2485	0.5442999999999999	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+84135	84135	Gemella sanguinis	Gemella sanguinis	species	0.0014	abund	0.0014	0.0005	0.0013999999999999996	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+84163	84163	Cryptobacterium curtum	Cryptobacterium curtum	species	0.0136	abund	0.0136	0.0043	0.013599999999999998	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+114527	114527	Mogibacterium diversum	Mogibacterium diversum	species	0.0864	abund	0.0864	0.0299	0.08639999999999999	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+131110	131110	Schaalia radingae	Schaalia radingae	species	0.0517	abund	0.0517	0.0246	0.05169999999999999	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+133926	133926	Olsenella uli	Olsenella uli	species	0.0488	abund	0.0488	0.0196	0.04879999999999999	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+158836	158836	Enterobacter hormaechei	Enterobacter hormaechei	species	0.0506	abund	0.0506	0.0504	0.05059999999999999	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+216816	216816	Bifidobacterium longum	Bifidobacterium longum	species	1.0583	abund	1.0583	0.4667	1.0582999999999998	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+261299	261299	Intestinibacter bartlettii	Intestinibacter bartlettii	species	0.1301	abund	0.1301	0.0765	0.13009999999999997	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+357276	357276	Phocaeicola dorei	Phocaeicola dorei	species	2.0561	abund	2.0561	2.1356	2.0560999999999994	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+423477	423477	Veillonella rogosae	Veillonella rogosae	species	7.7405	abund	7.7405	3.2673	7.740499999999998	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+459845	459845	Brussowvirus bv858	Brussowvirus bv858	species	0.1564	abund	0.1564	0.0011	0.15639999999999998	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+663241	663241	Enterococcus phage phiEf11	Enterococcus phage phiEf11	species	0.1179	abund	0.1179	0.001	0.11789999999999999	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+674529	674529	Bacteroides faecis	Bacteroides faecis	species	39.7609	abund	39.7609	45.9913	39.76089999999999	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+1297617	1297617	Intestinimonas butyriciproducens	Intestinimonas butyriciproducens	species	2.2677	abund	2.2677	1.4101	2.2676999999999996	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+1852377	1852377	Actinomyces pacaensis	Actinomyces pacaensis	species	0.04	abund	0.04	0.0148	0.039999999999999994	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+2068655	2068655	Novisyntrophococcus fermenticellae	Novisyntrophococcus fermenticellae	species	0.1849	abund	0.1849	0.1237	0.18489999999999998	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+2382163	2382163	Streptococcus koreensis	Streptococcus koreensis	species	0.025	abund	0.025	0.0098	0.024999999999999998	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+2663009	2663009	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	species	0.0072	abund	0.0072	0.0035	0.007199999999999999	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+2682456	2682456	Veillonella nakazawae	Veillonella nakazawae	species	0.1633	abund	0.1633	0.067	0.16329999999999997	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+2742625	2742625	Citrobacter sp. RHB35-C17	Citrobacter sp. RHB35-C17	species	2.3887	abund	2.3887	2.2561	2.3886999999999996	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+2789425	2789425	Actinomyces sp. HMT 175	Actinomyces sp. HMT 175	species	0.0054	abund	0.0054	0.0032	0.005399999999999999	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+2845176	2845176	Skunavirus sv62605	Skunavirus sv62605	species	0.0082	abund	0.0082	0.0	0.008199999999999999	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+2861802	2861802	Citrobacter sp. Colony219	Citrobacter sp. Colony219	species	1.6025	abund	1.6025	1.4819	1.6024999999999998	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
+2899133	2899133	Candidatus Nanosynbacter sp. HMT-352	Candidatus Nanosynbacter sp. HMT-352	species	0.0019	abund	0.0019	0.0003	0.0018999999999999998	1.0000000000000002	DYN_0036_D16.fastq	DYN_0036_D16	pacbio	sylph	unified	sylph_unified
