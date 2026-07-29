@@ -1,6 +1,6 @@
 # bakeoff - Long-read taxonomic profiling of the gut microbiome
 
-Companion repository for Huang et al., **"Critical Evaluation of Long Read Taxonomic Profiling of the Gut Microbiome"** (manuscript in preparation).
+Companion repository for Huang et al., **"Reference Databases Matter: Disentangling Database and Algorithm Effects in Long-Read Gut Microbiome Profiling Performance"** (manuscript in preparation).
 
 ## Introduction
 
@@ -68,7 +68,7 @@ done
 
 ## Quick reproduction
 
-**Seven of the ten manuscript figures (Figs 2-8) plus Table S1 and Table S2 reproduce from the analysis tables shipped with this repository** - no reference databases, no read files, no profiler runs needed. After installing the env, just execute a notebook:
+**Seven of the ten manuscript figures (Figs 2-8) plus Table T1 and Table T2 reproduce from the analysis tables shipped with this repository** - no reference databases, no read files, no profiler runs needed. After installing the env, just execute a notebook:
 
 ```bash
 # cd into the bakeoff project root first
@@ -80,12 +80,12 @@ The figure (and per-rank metric tables) land under `results/<ts>/detection/thres
 
 | Fig / Table | Notebook | What to set |
 | --- | --- | --- |
-| 2, 3, S2 | `scripts/analysis/analysis_detection.ipynb` | `DATASET` (mock or simulated key) |
-| 4, Table S2 | `scripts/analysis/auxiliary/sensitivity_floor.ipynb` | - (pools all four D6331 mocks; emits Fig 4 panels + the `rare_tier_detection_matrix.csv` that backs Table S2) |
-| 5, 6, S3, S4, S5 | `scripts/analysis/analysis_abundance.ipynb` | `DATASET` (mock key) |
-| 7, S6, S7 | `scripts/analysis/dyn_heatmap.ipynb` | `DATASET`, `MIN_ABUNDANCE` |
-| 8, S8 | `scripts/analysis/dyn_alpha_div.ipynb` | cohorts, `MIN_ABUNDANCE` |
-| Table S1 | `scripts/analysis/auxiliary/database_comparison.ipynb` | - |
+| 2, 3 | `scripts/analysis/analysis_detection.ipynb` | `DATASET` (mock or simulated key) |
+| 4, Table T2 | `scripts/analysis/auxiliary/sensitivity_floor.ipynb` | - (pools all four D6331 mocks; emits Fig 4 panels + the `rare_tier_detection_matrix.csv` that backs Table T2) |
+| 5, 6, S2 | `scripts/analysis/analysis_abundance.ipynb` | `DATASET` (mock key) |
+| 7, S4-S9 | `scripts/analysis/dyn_heatmap.ipynb` | `DATASET`, `MIN_ABUNDANCE` |
+| 8, S10 | `scripts/analysis/dyn_alpha_div.ipynb` | cohorts, `MIN_ABUNDANCE` |
+| Table T1 | `scripts/analysis/auxiliary/database_comparison.ipynb` | - |
 
 Figs 7, 8, and their supplementary panels additionally need the DYN cohort cache under `results/prepared/<ts>/dyn-prep/tables/cohorts/` - shipped with the repo. Figs 1, 9, 10, and Fig S1 (read-length, resource benchmarking, recommended-workflow diagram, error rates) require the full pipeline or are hand-drawn; they are not reproducible from the shipped tree.
 

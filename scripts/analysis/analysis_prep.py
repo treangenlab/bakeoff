@@ -814,7 +814,7 @@ def _setup_run_dir_and_logs(out_root: Path) -> tuple[Path, Path, Path]:
     the *original* stderr first so the user can `tail -f` them."""
     import datetime
     ts = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-    run_dir = out_root / RESULTS_SUBDIR / ts / "analysis-prep"
+    run_dir = out_root / RESULTS_SUBDIR / f"{ts}_mock-sim" / "analysis-prep"
     run_dir.mkdir(parents=True, exist_ok=True)
     log_path = run_dir / "analysis_prep.log"
     err_path = run_dir / "analysis_prep.err"

@@ -12,10 +12,10 @@ import re
 from pathlib import Path
 from typing import Callable, Union
 
-# `<YYYYMMDD>_<HHMMSS>` — the exact format analysis_prep.py and dyn_prep.py
-# use when stamping run dirs. The literal `dry-run` subdir is excluded so
+# `<YYYYMMDD>_<HHMMSS>` (optionally with a `_<tag>` postfix, e.g. `_mock-sim`, `_dyn`) —
+# the format analysis_prep.py / dyn_prep.py use when stamping run dirs. The literal `dry-run` subdir is excluded so
 # dry-run stubs never resolve as "latest".
-_TS_RE = re.compile(r"^\d{8}_\d{6}$")
+_TS_RE = re.compile(r"^\d{8}_\d{6}(?:_[\w.-]+)?$")
 
 # Top-level results subdir holding derived/prepared data (was "metadata", a misnomer).
 RESULTS_SUBDIR = "prepared"

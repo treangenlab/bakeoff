@@ -371,7 +371,7 @@ def _check_resources_safety(threads: int, label: str = "threads") -> None:
 # os.dup2 so the ProcessPool workers inherit the redirected FDs.
 def _setup_run_dir_and_logs(out_root: Path) -> tuple[Path, Path, Path]:
     ts = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-    run_dir = out_root / RESULTS_SUBDIR / ts / "dyn-prep"
+    run_dir = out_root / RESULTS_SUBDIR / f"{ts}_dyn" / "dyn-prep"
     run_dir.mkdir(parents=True, exist_ok=True)
     log_path = run_dir / "dyn_prep.log"
     err_path = run_dir / "dyn_prep.err"
@@ -537,7 +537,7 @@ def main() -> int:
         run_dir, log_path, err_path = _setup_run_dir_and_logs(args.out)
     else:
         ts = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-        run_dir = args.out / RESULTS_SUBDIR / ts / "dyn-prep"
+        run_dir = args.out / RESULTS_SUBDIR / f"{ts}_dyn" / "dyn-prep"
         run_dir.mkdir(parents=True, exist_ok=True)
         log_path = err_path = None
 
